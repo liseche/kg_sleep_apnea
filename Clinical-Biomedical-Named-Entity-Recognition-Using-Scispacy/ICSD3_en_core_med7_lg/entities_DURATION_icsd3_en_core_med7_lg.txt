@@ -1,0 +1,7 @@
+ ('for two days', 'DURATION'),
+ ('24-hour', 'DURATION'),
+ ('24-hour', 'DURATION'),
+ ('24-hour', 'DURATION'),
+ ('24-hour', 'DURATION'),
+ ('for one hour', 'DURATION'),
+ ('for one hour', 'DURATION'),

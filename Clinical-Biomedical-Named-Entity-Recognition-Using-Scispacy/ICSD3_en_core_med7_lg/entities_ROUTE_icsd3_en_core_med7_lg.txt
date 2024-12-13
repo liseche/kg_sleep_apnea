@@ -1,0 +1,5 @@
+ ('LJ', 'ROUTE'),
+ ('PO', 'ROUTE'),
+ ('transdermal', 'ROUTE'),
+ ('EA', 'ROUTE'),
+ ('intravenous', 'ROUTE'),
