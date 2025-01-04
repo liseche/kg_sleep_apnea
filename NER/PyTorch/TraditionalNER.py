@@ -20,7 +20,7 @@ def predict_and_save(model, tokenizer, path_to_input : str, path_to_output : str
     
     with open(path_to_output, 'w', encoding='utf-8') as file:
         for batch in batch_sentences:
-            encoding = tokenizer(batch, padding=True, truncation=True, return_tensors="pt", is_split_into_words=True)
+            encoding = tokenizer(batch, max_length=512, padding=True, truncation=True, return_tensors="pt", is_split_into_words=True)
             input_ids, attention_mask = encoding['input_ids'].to(device), encoding['attention_mask'].to(device)
 
             with torch.no_grad():
@@ -28,7 +28,7 @@ def predict_and_save(model, tokenizer, path_to_input : str, path_to_output : str
                 predictions = torch.argmax(outputs.logits, dim=-1)
             
             for i, (sentence, preds) in enumerate(zip(batch, predictions)):
-                word_preds = [id2label[predictions.item()] for pred in preds if pred.item() in id2label]
+                word_preds = [id2label[pred.item()] for pred in preds if pred.item() in id2label]
                 for word, label in zip(sentence, word_preds):
                     file.write(f"{word}\t{label}\n")
                 file.write("\n")
@@ -43,15 +43,17 @@ def get_sentences_from_path(file_path : str):
             if line.strip():
                 sentence.append(line.strip())
             else:
-                if sentence: sentences.append(sentence)
+                if sentence: 
+                    sentences.append(sentence)
                 sentence = []
-        if sentence: sentences.append(sentence)
+        if sentence: 
+            sentences.append(sentence)
     return sentences
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='NER Prediction Script')
-    parser.add_argument("--model_path", type=str, default="pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb", help="path to trained NER model")
-    parser.add_argument("--input_file", type=str, default="../../data/icsd3.tsv", help="path to tab-separated input data file")
+    parser.add_argument("--model_path", type=str, default="alvaroalon2/biobert_diseases_ner", help="path to trained NER model")
+    parser.add_argument("--input_file", type=str, default="data/ICSD3.tsv", help="path to tab-separated input data file")
     parser.add_argument("--output_file", type=str, default="predictions.tsv", help="path to generated output predictions")
     parser.add_argument("--batch_size", type=int, default=32, help="size of batches to process input data in, for parallelization")
     args = parser.parse_args()

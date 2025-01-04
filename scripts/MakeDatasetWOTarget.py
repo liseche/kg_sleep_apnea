@@ -23,7 +23,7 @@ if __name__ == "__main__":
     parser.add_argument(
         '--split_strategy',
         type=str,
-        choices=['sentence', 'paragraph'],
+        choices=['sentence', 'word'],
         default='sentence',
         help="Type of method used to split the free form text for the dataset creation."
     )
@@ -59,23 +59,31 @@ if __name__ == "__main__":
     
     with open(args.input_file, mode="r", encoding=encoding['encoding']) as input_file:
         text = input_file.read()
-        
-    nlp = spacy.load("en_core_web_sm")
-    doc = nlp(text)
+    
     # check for page numbers. Removes some, but not all. Also remove new lines and blank lines in a sentence (unnecessary for dataset)
     pattern = re.compile(r'\n\s*\d*\s*\n*')
+    cleaned_text = re.sub(pattern, ' ', text)
+    # remove ......
+    pattern = re.compile(r"\.{6,}")
+    cleaned_text = re.sub(pattern, "", cleaned_text)
+    
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(cleaned_text)
+    
     sentences = []
     counter = 0
     for sent in doc.sents:
         if args.max_nr_entries and (counter >= args.max_nr_entries):
             break
         if sent.text:
-            if pattern.search(sent.text):
-                sentences.append(re.sub(pattern, ' ', sent.text))
-            else:
+            if args.split_strategy == 'sentence':
                 sentences.append(sent.text)
+            if args.split_strategy == 'word':
+                sentences.extend([s.text for s in sent])
+                sentences.append("")
             counter+=1
-    
+            
     with open(args.output_file, "w+") as output_file:
         for sent in sentences:
-            output_file.write(sent + "\n")
+            output_file.write(sent)
+            output_file.write("\n")
