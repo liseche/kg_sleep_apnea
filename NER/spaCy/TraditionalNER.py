@@ -1,3 +1,5 @@
+"""Script that takes in a dataset with one word per line ("word" split strategy in the MakeDatasetWOTarget script.)"""
+
 import argparse
 import spacy
 

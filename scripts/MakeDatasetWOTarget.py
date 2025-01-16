@@ -24,7 +24,7 @@ if __name__ == "__main__":
         '--split_strategy',
         type=str,
         choices=['sentence', 'word'],
-        default='sentence',
+        default='word',
         help="Type of method used to split the free form text for the dataset creation."
     )
 
