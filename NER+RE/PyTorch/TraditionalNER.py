@@ -55,7 +55,7 @@ def get_sentences_from_path(file_path : str):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='NER Prediction Script')
     parser.add_argument("--model_path", type=str, default="alvaroalon2/biobert_diseases_ner", help="path to trained NER model")
-    parser.add_argument("--input_file", type=str, default="data/ICSD3.tsv", help="path to tab-separated input data file")
+    parser.add_argument("--input_file", type=str, default="../../data/ICSD3.tsv", help="path to tab-separated input data file")
     parser.add_argument("--output_file", type=str, default="predictions.tsv", help="path to generated output predictions")
     parser.add_argument("--batch_size", type=int, default=32, help="size of batches to process input data in, for parallelization")
     args = parser.parse_args()

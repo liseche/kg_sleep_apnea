@@ -1,0 +1,4734 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "leadership capacities",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Past-President",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Journal of Clinical Sleep Medicine",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Dr. Sateia",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Associated Professional Sleep Societies",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Research Advisory Board",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "National Center on Sleep Disorders Research",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Academic Award",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "He",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "National Heart, Lung, and Blood Institute",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Accreditation Council on Graduate Medical Education Advisory Committee for Sleep Medicine",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Member of the Accreditation Council on Graduate Medical Education Advisory Committee for Sleep Medicine",
+        "label": "Position"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Member of the American Board of Internal Medicine Policy and Test Committee for Sleep Medicine",
+        "label": "Position"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "American Board of Internal Medicine Policy and Test Committee for Sleep Medicine",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nathaniel Kleitman Award",
+        "label": "Medical award"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "International Classification of Sleep Disorders",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "task force chair",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "3rd Edition",
+        "label": "Event"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "task force on the pharmacological management of insomnia",
+        "label": "Event"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "insomnia",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "sleep medicine",
+        "label": "Medical field"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "authored numerous scientific articles",
+        "label": "Activity"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "professional education",
+        "label": "Activity"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Many people",
+        "label": "Entity"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "development of this manual",
+        "label": "Entity"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Task Force on ICSD-3",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Individual work groups",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Members",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Tireless dedication",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Members of their respective work groups",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "reviewers",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "recommendations",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "staff members",
+        "label": "Organization"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "AASM",
+        "label": "Organization"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "her",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "this publication",
+        "label": "Publication"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Board of Directors",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nancy Collop",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "board",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "multiple drafts",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Amy Aronsky's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Amy Aronsky",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "M. Safwan Badr's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "M. Safwan Badr",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Kelly Carden's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Kelly Carden",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Ronald Chervin's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Ronald Chervin",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nancy Collop's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Samuel Fleishman's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Samuel Fleishman",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Timothy Morgenthaler's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Timothy Morgenthaler",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Susan Redline's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Susan Redline",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Ilene Rosen's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Ilene Rosen",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Steven Shea's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Steven Shea",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Patrick Strollo's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Patrick Strollo",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nathaniel Watson's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nathaniel Watson",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Terri Weaver's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Terri Weaver",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Merrill Wise's medical equipment",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Merrill Wise",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "World Sleep Federation",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "International review effort",
+        "label": "Organization"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Clete Kushida",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "President",
+        "label": "Position"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "WSF",
+        "label": "Organization"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "DSM-5",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Charles Reynolds, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "sleep disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "efforts to maximize concordance between classification systems",
+        "label": "Relation"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "psychiatric conditions",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "David Neubauer, MD and Ruth Benca, MD, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "development of the Movement Disorders chapter",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Maria Carra, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "long hours",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:80"
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "unheralded",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:81"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "INSOMNIA",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:82"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Acknowledgments ICSD Revision Workgroups",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:83"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Jack Edinger, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:84"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Daniel Buysse, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:85"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Kenneth Lichstein, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:86"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Jodi Mindell, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:87"
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Charles Morin, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:88"
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "CIRCADIAN RHYTHM SLEEP WAKE DISORDERS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:89"
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Phyllis Zee, MD, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:90"
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Judith Owens, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:91"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Robert Auger, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:92"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "International Classification of Sleep Disorders Third Edition",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:93"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "American Academy of Sleep Medicine",
+        "label": "Organization"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:94"
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep disorders",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "computer programs",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "unauthorized reproductions",
+        "label": "Unauthorized reproductions"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Executive Director, American Academy of Sleep Medicine",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "copyright permissions",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "translations",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "other languages",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "International classification of sleep disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:102"
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "3rd edition",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:103"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Darien, IL",
+        "label": "Location"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:104"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Medicine",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:105"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:106"
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Classification",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep study/Polysomnography",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Polysomnograph",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:109"
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Apnea-Hypopnea Index",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:110"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Severity of Sleep Disordered Breathing",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:111"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Insomnia",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:112"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "None provided",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:113"
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Chronic Insomnia Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:114"
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Short-Term Insomnia Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:115"
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "41",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:116"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Other Insomnia Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:117"
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "46",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:118"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Excessive Time in Bed",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:119"
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "47",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:120"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Short Sleeper",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:121"
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Breathing Disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:122"
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "49",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:123"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Obstructive Sleep Apnea Disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Obstructive Sleep Apnea, Adult",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:125"
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Obstructive Sleep Apnea, Pediatric",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:126"
+    }
+  },
+  {
+    "n": {
+      "identity": 127,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Central Sleep Apnea Syndromes",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:127"
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Central Sleep Apnea with Cheyne-Stokes Breathing",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:128"
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Central Apnea",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:129"
+    }
+  },
+  {
+    "n": {
+      "identity": 130,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Medical Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:130"
+    }
+  },
+  {
+    "n": {
+      "identity": 131,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Central Sleep Apnea Due to High Altitude Periodic Breathing",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:131"
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "75",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:132"
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Central Sleep Apnea Due to a Medication or Substance",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:133"
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "79",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:134"
+    }
+  },
+  {
+    "n": {
+      "identity": 135,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Primary Central Sleep Apnea",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:135"
+    }
+  },
+  {
+    "n": {
+      "identity": 136,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "85",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:136"
+    }
+  },
+  {
+    "n": {
+      "identity": 137,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Primary Central Sleep Apnea of Infancy",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:137"
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Not specified",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:138"
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Primary Central Sleep Apnea of Prematurity",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:139"
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Treatment-Emergent Central Sleep Apnea",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:140"
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "102",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:141"
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "SLEEP RELATED HYPOVENTILATION DISORDERS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:142"
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Obesity Hypoventilation Syndrome",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:143"
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Congenital Central Alveolar Hypoventilation Syndrome",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:144"
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Late-Onset Central Hypoventilation with Hypothalamic Dysfunction",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:145"
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "118",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:146"
+    }
+  },
+  {
+    "n": {
+      "identity": 147,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Idiopathic Central Alveolar Hypoventilation",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:147"
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Hypoventilation",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:148"
+    }
+  },
+  {
+    "n": {
+      "identity": 149,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Hypoventilation Due to a Medication or Substance",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:149"
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "AHI",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:150"
+    }
+  },
+  {
+    "n": {
+      "identity": 151,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Apnea Hypopnea Index (AHI)",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:151"
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "124",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:152"
+    }
+  },
+  {
+    "n": {
+      "identity": 153,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Hypoxemia Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:153"
+    }
+  },
+  {
+    "n": {
+      "identity": 154,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Hypoxemia",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:154"
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "snoring",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:155"
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "isolated symptoms",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:156"
+    }
+  },
+  {
+    "n": {
+      "identity": 157,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "catathrenia",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:157"
+    }
+  },
+  {
+    "n": {
+      "identity": 158,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Central Disorders of Hypersomnolence",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:158"
+    }
+  },
+  {
+    "n": {
+      "identity": 159,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Narcolepsy Type 1",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:159"
+    }
+  },
+  {
+    "n": {
+      "identity": 160,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Narcolepsy Type 2",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:160"
+    }
+  },
+  {
+    "n": {
+      "identity": 161,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Idiopathic Hypersomnia",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:161"
+    }
+  },
+  {
+    "n": {
+      "identity": 162,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Kleine-Levin Syndrome",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:162"
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Hypersomnia Due to a Medical Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:163"
+    }
+  },
+  {
+    "n": {
+      "identity": 164,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Hypersomnia Due to a Medication or Substance",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:164"
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Hypersomnia Associated with a Psychiatric Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:165"
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "171",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:166"
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "175",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:167"
+    }
+  },
+  {
+    "n": {
+      "identity": 168,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "179",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:168"
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Insufficient Sleep Syndrome",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:169"
+    }
+  },
+  {
+    "n": {
+      "identity": 170,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Isolated Symptoms",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:170"
+    }
+  },
+  {
+    "n": {
+      "identity": 171,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Circadian Rhythm Sleep-Wake Disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:171"
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Long Sleeper",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:172"
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Delayed Sleep-Wake Phase Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:173"
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Advanced Sleep-Wake Phase Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:174"
+    }
+  },
+  {
+    "n": {
+      "identity": 175,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Irregular Sleep-Wake Rhythm Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:175"
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Circadian Rhythm Sleep Disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:176"
+    }
+  },
+  {
+    "n": {
+      "identity": 177,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "204 Non-24-Hour Sleep-Wake Rhythm Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:177"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "209 Shift Work Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:178"
+    }
+  },
+  {
+    "n": {
+      "identity": 179,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "215 Jet Lag Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:179"
+    }
+  },
+  {
+    "n": {
+      "identity": 180,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "220 Circadian Sleep-Wake Disorder Not Otherwise Specified (NOS)",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:180"
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Parasomnias",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:181"
+    }
+  },
+  {
+    "n": {
+      "identity": 182,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "224 Parasomnias",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:182"
+    }
+  },
+  {
+    "n": {
+      "identity": 183,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "225 NREM-RELATED PARASOMNIAS Disorders of Arousal (From NREM Sleep)",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:183"
+    }
+  },
+  {
+    "n": {
+      "identity": 184,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "228 Confusional Arousals",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:184"
+    }
+  },
+  {
+    "n": {
+      "identity": 185,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleepwalking",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:185"
+    }
+  },
+  {
+    "n": {
+      "identity": 186,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Terrors",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:186"
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "OTHER PARASOMNIAS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:187"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "229",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:188"
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Eating Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:189"
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "REM-RELATED PARASOMNIAS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:190"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "REM Sleep Behavior Disorder",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:191"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Recurrent Isolated Sleep Paralysis",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:192"
+    }
+  },
+  {
+    "n": {
+      "identity": 193,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Nightmare Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:193"
+    }
+  },
+  {
+    "n": {
+      "identity": 194,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Exploding Head Syndrome",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:194"
+    }
+  },
+  {
+    "n": {
+      "identity": 195,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Hallucinations",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:195"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "264",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 197,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Enuresis",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:197"
+    }
+  },
+  {
+    "n": {
+      "identity": 198,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "267",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:198"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Parasomnia Due to a Medical Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:199"
+    }
+  },
+  {
+    "n": {
+      "identity": 200,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "N/A",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:200"
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Parasomnia Due to a Medication or Substance",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:201"
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "276",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:202"
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Parasomnia, Unspecified",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:203"
+    }
+  },
+  {
+    "n": {
+      "identity": 204,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "278",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:204"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "276 Parasomnia Due to a Medication or Substance",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 206,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "278 ISOLATED SYMPTOMS AND NORMAL VARIANTS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:206"
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Parasomnia",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:207"
+    }
+  },
+  {
+    "n": {
+      "identity": 208,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Talking",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:208"
+    }
+  },
+  {
+    "n": {
+      "identity": 209,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "279",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:209"
+    }
+  },
+  {
+    "n": {
+      "identity": 210,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Movement Disorders",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:210"
+    }
+  },
+  {
+    "n": {
+      "identity": 211,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "281",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:211"
+    }
+  },
+  {
+    "n": {
+      "identity": 212,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Restless Legs Syndrome",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:212"
+    }
+  },
+  {
+    "n": {
+      "identity": 213,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "282",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:213"
+    }
+  },
+  {
+    "n": {
+      "identity": 214,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Periodic Limb Movement Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:214"
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "292",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:215"
+    }
+  },
+  {
+    "n": {
+      "identity": 216,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Leg Cramps",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:216"
+    }
+  },
+  {
+    "n": {
+      "identity": 217,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "299",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:217"
+    }
+  },
+  {
+    "n": {
+      "identity": 218,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Bruxism",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:218"
+    }
+  },
+  {
+    "n": {
+      "identity": 219,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:219"
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Rhythmic Movement Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:220"
+    }
+  },
+  {
+    "n": {
+      "identity": 221,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "303",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:221"
+    }
+  },
+  {
+    "n": {
+      "identity": 222,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Benign Sleep Myoclonus of Infancy",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:222"
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "312",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:223"
+    }
+  },
+  {
+    "n": {
+      "identity": 224,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Propriospinal Myoclonus at Sleep Onset",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:224"
+    }
+  },
+  {
+    "n": {
+      "identity": 225,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "317",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:225"
+    }
+  },
+  {
+    "n": {
+      "identity": 226,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Movement Disorder Due to a Medical Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:226"
+    }
+  },
+  {
+    "n": {
+      "identity": 227,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "321",
+        "label": "AHI"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:227"
+    }
+  },
+  {
+    "n": {
+      "identity": 228,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Movement Disorder Due to a Medication or Substance",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:228"
+    }
+  },
+  {
+    "n": {
+      "identity": 229,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Medication or Substance",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:229"
+    }
+  },
+  {
+    "n": {
+      "identity": 230,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Movement Disorder, Unspecified",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 231,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Movement Disorder",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:231"
+    }
+  },
+  {
+    "n": {
+      "identity": 232,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Excessive Fragmentary Myoclonus",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:232"
+    }
+  },
+  {
+    "n": {
+      "identity": 233,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "ISOLATED SYMPTOMS AND NORMAL VARIANTS",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:233"
+    }
+  },
+  {
+    "n": {
+      "identity": 234,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Hypnagogic Foot Tremor and Alternating Leg Muscle Activation",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:234"
+    }
+  },
+  {
+    "n": {
+      "identity": 235,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Starts (Hypnic Jerks)",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:235"
+    }
+  },
+  {
+    "n": {
+      "identity": 236,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Medical and Neurological Disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:236"
+    }
+  },
+  {
+    "n": {
+      "identity": 237,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Other Sleep Disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:237"
+    }
+  },
+  {
+    "n": {
+      "identity": 238,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Fatal Familial Insomnia",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:238"
+    }
+  },
+  {
+    "n": {
+      "identity": 239,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Epilepsy",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:239"
+    }
+  },
+  {
+    "n": {
+      "identity": 240,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Headaches",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:240"
+    }
+  },
+  {
+    "n": {
+      "identity": 241,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Laryngospasm",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:241"
+    }
+  },
+  {
+    "n": {
+      "identity": 242,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Gastroesophageal Reflux",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:242"
+    }
+  },
+  {
+    "n": {
+      "identity": 243,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Sleep Related Myocardial Ischemia",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:243"
+    }
+  },
+  {
+    "n": {
+      "identity": 244,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Substance-Induced Sleep Disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:244"
+    }
+  },
+  {
+    "n": {
+      "identity": 245,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "ICD-10-CM Coding",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:245"
+    }
+  },
+  {
+    "n": {
+      "identity": 246,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Index",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:246"
+    }
+  },
+  {
+    "n": {
+      "identity": 247,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "371",
+        "label": "None"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:247"
+    }
+  },
+  {
+    "n": {
+      "identity": 248,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Table of Contents",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:248"
+    }
+  },
+  {
+    "n": {
+      "identity": 249,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "377",
+        "label": "None"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:249"
+    }
+  },
+  {
+    "n": {
+      "identity": 250,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Michael Sateia, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:250"
+    }
+  },
+  {
+    "n": {
+      "identity": 251,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Psychiatry",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:251"
+    }
+  },
+  {
+    "n": {
+      "identity": 252,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Makoto Uchiyama, MD, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:252"
+    }
+  },
+  {
+    "n": {
+      "identity": 253,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Kenneth Wright, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:253"
+    }
+  },
+  {
+    "n": {
+      "identity": 254,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "James Wyatt, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:254"
+    }
+  },
+  {
+    "n": {
+      "identity": 255,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "SLEEP RELATED BREATHING DISORDERS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:255"
+    }
+  },
+  {
+    "n": {
+      "identity": 256,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Richard Berry, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:256"
+    }
+  },
+  {
+    "n": {
+      "identity": 257,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Teofilo Lee-Chiong, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:257"
+    }
+  },
+  {
+    "n": {
+      "identity": 258,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Carole Marcus, MBBCh",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:258"
+    }
+  },
+  {
+    "n": {
+      "identity": 259,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Stuart Quan, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:259"
+    }
+  },
+  {
+    "n": {
+      "identity": 260,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "PARASOMNIAS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:260"
+    }
+  },
+  {
+    "n": {
+      "identity": 261,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Michel Cramer Bornemann, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:261"
+    }
+  },
+  {
+    "n": {
+      "identity": 262,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Carlos Schenck, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:262"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Gerald Rosen, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:263"
+    }
+  },
+  {
+    "n": {
+      "identity": 264,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Mark Pressman, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:264"
+    }
+  },
+  {
+    "n": {
+      "identity": 265,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "HYPERSOMNOLENCE",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:265"
+    }
+  },
+  {
+    "n": {
+      "identity": 266,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Michael Silber, MB, ChB",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:266"
+    }
+  },
+  {
+    "n": {
+      "identity": 267,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Isabelle Arnulf, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:267"
+    }
+  },
+  {
+    "n": {
+      "identity": 268,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Suresh Kotagal, MBBS",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:268"
+    }
+  },
+  {
+    "n": {
+      "identity": 269,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Thomas Scammell, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:269"
+    }
+  },
+  {
+    "n": {
+      "identity": 270,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "MOVEMENT DISORDERS",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:270"
+    }
+  },
+  {
+    "n": {
+      "identity": 271,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Arthur Walters, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:271"
+    }
+  },
+  {
+    "n": {
+      "identity": 272,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Ronald Chervin, MD, MS",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:272"
+    }
+  },
+  {
+    "n": {
+      "identity": 273,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Stephen Duntley, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:273"
+    }
+  },
+  {
+    "n": {
+      "identity": 274,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Giles Lavigne, DMD, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:274"
+    }
+  },
+  {
+    "n": {
+      "identity": 275,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Daniel Picchietti, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:275"
+    }
+  },
+  {
+    "n": {
+      "identity": 276,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Denise Sharon, MD, PhD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:276"
+    }
+  },
+  {
+    "n": {
+      "identity": 277,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Marco Zucconi, MD",
+        "label": "Person"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:277"
+    }
+  },
+  {
+    "n": {
+      "identity": 278,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "disease states",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:278"
+    }
+  },
+  {
+    "n": {
+      "identity": 279,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "guide to clinicians",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:279"
+    }
+  },
+  {
+    "n": {
+      "identity": 280,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "classification systems",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:280"
+    }
+  },
+  {
+    "n": {
+      "identity": 281,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "provide",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:281"
+    }
+  },
+  {
+    "n": {
+      "identity": 282,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "related factors",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:282"
+    }
+  },
+  {
+    "n": {
+      "identity": 283,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "nosologic decisions",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:283"
+    }
+  },
+  {
+    "n": {
+      "identity": 284,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "clinicians",
+        "label": "Clinician"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:284"
+    }
+  },
+  {
+    "n": {
+      "identity": 285,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "guiding",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:285"
+    }
+  },
+  {
+    "n": {
+      "identity": 286,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "decision-making",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:286"
+    }
+  },
+  {
+    "n": {
+      "identity": 287,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "based on",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:287"
+    }
+  },
+  {
+    "n": {
+      "identity": 288,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "therapeutic response",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:288"
+    }
+  },
+  {
+    "n": {
+      "identity": 289,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "given discipline",
+        "label": "Discipline"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:289"
+    }
+  },
+  {
+    "n": {
+      "identity": 290,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "related pathologies",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:290"
+    }
+  },
+  {
+    "n": {
+      "identity": 291,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "each disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:291"
+    }
+  },
+  {
+    "n": {
+      "identity": 292,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "35 years ago",
+        "label": "Time"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:292"
+    }
+  },
+  {
+    "n": {
+      "identity": 293,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "American Sleep Disorders Association",
+        "label": "Organization"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:293"
+    }
+  },
+  {
+    "n": {
+      "identity": 294,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "classification issue",
+        "label": "Event"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:294"
+    }
+  },
+  {
+    "n": {
+      "identity": 295,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Diagnostic Classification of Sleep and Arousal Disorders",
+        "label": "Publication"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:295"
+    }
+  },
+  {
+    "n": {
+      "identity": 296,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Knowledge and understanding of sleep disorders",
+        "label": "Knowledge and understanding"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:296"
+    }
+  },
+  {
+    "n": {
+      "identity": 297,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Structural approaches",
+        "label": "Structural approaches"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:297"
+    }
+  },
+  {
+    "n": {
+      "identity": 298,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Classification system of sleep disorders",
+        "label": "Classification system"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:298"
+    }
+  },
+  {
+    "n": {
+      "identity": 299,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "International Classification of Sleep Disorders, 2nd Edition",
+        "label": "International Classification of Sleep Disorders, 2nd Edition"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:299"
+    }
+  },
+  {
+    "n": {
+      "identity": 300,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "edition limitations",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:300"
+    }
+  },
+  {
+    "n": {
+      "identity": 301,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "limitations",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:301"
+    }
+  },
+  {
+    "n": {
+      "identity": 302,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "organization of the edition",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:302"
+    }
+  },
+  {
+    "n": {
+      "identity": 303,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "edition",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:303"
+    }
+  },
+  {
+    "n": {
+      "identity": 304,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "effective and user-friendly",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:304"
+    }
+  },
+  {
+    "n": {
+      "identity": 305,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "current revision",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:305"
+    }
+  },
+  {
+    "n": {
+      "identity": 306,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "pathophysiology",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:306"
+    }
+  },
+  {
+    "n": {
+      "identity": 307,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "disease or disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:307"
+    }
+  },
+  {
+    "n": {
+      "identity": 308,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "within a given discipline",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:308"
+    }
+  },
+  {
+    "n": {
+      "identity": 309,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "knowledge",
+        "label": "Knowledge"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:309"
+    }
+  },
+  {
+    "n": {
+      "identity": 310,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "International Classification of Sleep Disorders, 3rd Edition",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:310"
+    }
+  },
+  {
+    "n": {
+      "identity": 311,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "approach",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:311"
+    }
+  },
+  {
+    "n": {
+      "identity": 312,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "predecessors",
+        "label": "Relation between any pair of Entities"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:312"
+    }
+  },
+  {
+    "n": {
+      "identity": 313,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "this approach",
+        "label": "Medical approach"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:313"
+    }
+  },
+  {
+    "n": {
+      "identity": 314,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "American Academy of Sleep Medicine Board of Directors",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:314"
+    }
+  },
+  {
+    "n": {
+      "identity": 315,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "2011",
+        "label": "Time"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:315"
+    }
+  },
+  {
+    "n": {
+      "identity": 316,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "major division of the manual",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:316"
+    }
+  },
+  {
+    "n": {
+      "identity": 317,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "task force",
+        "label": "Task force"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:317"
+    }
+  },
+  {
+    "n": {
+      "identity": 318,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "individual work group chairs",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:318"
+    }
+  },
+  {
+    "n": {
+      "identity": 319,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "pediatric consultants",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:319"
+    }
+  },
+  {
+    "n": {
+      "identity": 320,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "focus group",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:320"
+    }
+  },
+  {
+    "n": {
+      "identity": 321,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "structural issues",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:321"
+    }
+  },
+  {
+    "n": {
+      "identity": 322,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "content issues",
+        "label": "Symptom"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:322"
+    }
+  },
+  {
+    "n": {
+      "identity": 323,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "convened",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:323"
+    }
+  },
+  {
+    "n": {
+      "identity": 324,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "June 2011",
+        "label": "Test result"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:324"
+    }
+  },
+  {
+    "n": {
+      "identity": 325,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "disorders",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:325"
+    }
+  },
+  {
+    "n": {
+      "identity": 326,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "list of disorders",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:326"
+    }
+  },
+  {
+    "n": {
+      "identity": 327,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "each diagnosis",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:327"
+    }
+  },
+  {
+    "n": {
+      "identity": 328,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "proposed criteria for each diagnosis",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:328"
+    }
+  },
+  {
+    "n": {
+      "identity": 329,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "potential diagnosis",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:329"
+    }
+  },
+  {
+    "n": {
+      "identity": 330,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "literature searches",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:330"
+    }
+  },
+  {
+    "n": {
+      "identity": 331,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "major features",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:331"
+    }
+  },
+  {
+    "n": {
+      "identity": 332,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "task force consisting of the work group chairs and pediatric advisors",
+        "label": "Task force"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:332"
+    }
+  },
+  {
+    "n": {
+      "identity": 333,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "draft diagnostic criteria",
+        "label": "Disease diagnostic criteria creation"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:333"
+    }
+  },
+  {
+    "n": {
+      "identity": 334,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "AASM (American Academy of Sleep Medicine)",
+        "label": "Disease organization"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:334"
+    }
+  },
+  {
+    "n": {
+      "identity": 335,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "board of the AASM",
+        "label": "Board"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:335"
+    }
+  },
+  {
+    "n": {
+      "identity": 336,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "review and modification of the draft diagnostic criteria",
+        "label": "Disease diagnostic criteria review"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:336"
+    }
+  },
+  {
+    "n": {
+      "identity": 337,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "external peer reviewers",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:337"
+    }
+  },
+  {
+    "n": {
+      "identity": 338,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "respective areas",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:338"
+    }
+  },
+  {
+    "n": {
+      "identity": 339,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "international societies",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:339"
+    }
+  },
+  {
+    "n": {
+      "identity": 340,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "membership sections of the AASM",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:340"
+    }
+  },
+  {
+    "n": {
+      "identity": 341,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "text revisions",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:341"
+    }
+  },
+  {
+    "n": {
+      "identity": 342,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "same review process and modifications",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:342"
+    }
+  },
+  {
+    "n": {
+      "identity": 343,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "scientific evidence",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:343"
+    }
+  },
+  {
+    "n": {
+      "identity": 344,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "not specified",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:344"
+    }
+  },
+  {
+    "n": {
+      "identity": 345,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "nosology",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:345"
+    }
+  },
+  {
+    "n": {
+      "identity": 346,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "work groups, task force, and reviewers",
+        "label": "Medical equipment"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:346"
+    }
+  },
+  {
+    "n": {
+      "identity": 347,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "ICSD-3",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:347"
+    }
+  },
+  {
+    "n": {
+      "identity": 348,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "current edition",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:348"
+    }
+  },
+  {
+    "n": {
+      "identity": 349,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "second edition",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:349"
+    }
+  },
+  {
+    "n": {
+      "identity": 350,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "pediatric diagnoses",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:350"
+    }
+  },
+  {
+    "n": {
+      "identity": 351,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "obstructive sleep apnea",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:351"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "major clinical diagnoses",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:352"
+    }
+  },
+  {
+    "n": {
+      "identity": 353,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "pediatric presentations",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:353"
+    }
+  },
+  {
+    "n": {
+      "identity": 354,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "variation in the diagnostic criteria",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:354"
+    }
+  },
+  {
+    "n": {
+      "identity": 355,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "disorder",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:355"
+    }
+  },
+  {
+    "n": {
+      "identity": 356,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "developmentally-specific",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:356"
+    }
+  },
+  {
+    "n": {
+      "identity": 357,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "ICD codes",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:357"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "Diagnosis",
+        "label": "Medical test"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:358"
+    }
+  },
+  {
+    "n": {
+      "identity": 359,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "International Classification of Sleep Disorders diagnoses",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:359"
+    }
+  },
+  {
+    "n": {
+      "identity": 360,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "ICD system",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:360"
+    }
+  },
+  {
+    "n": {
+      "identity": 361,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "specific terms",
+        "label": "Disease category"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:361"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "clinically significant conditions",
+        "label": "Clinically significant conditions"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:362"
+    }
+  },
+  {
+    "n": {
+      "identity": 363,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "given diagnosis",
+        "label": "Disease"
+      },
+      "elementId": "4:5f43300e-1a50-4447-b99d-36da0e363b78:363"
+    }
+  }
+]

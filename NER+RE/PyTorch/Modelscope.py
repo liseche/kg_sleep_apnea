@@ -1,5 +1,7 @@
 """
-Script to do NER using modelscope libraries (HuggingFace unavailable in China)
+Script to do NER using modelscope libraries (HuggingFace unavailable in China).
+
+Does not work.
 """
 from modelscope.pipelines import pipeline
 import unicodedata
