@@ -3,7 +3,7 @@
 Code inspired from Clinical Biomedical Named Entity Recognition following the guide on Scispacy.ipynb from 
 https://huggingface.co/Precious1/Clinical-Biomedical-Named-Entity-Recognition-Using-Scispacy/blob/main/Clinical%20Biomedical%20Named%20Entity%20Recognition%20Using%C2%A0Scispacy.ipynb
 
-## en_core_med7_lg
+## en_core_med7_lg 0.5.1
 
 labels: `DOSAGE`, `DRUG`, `DURATION`, `FORM`, `FREQUENCY`, `ROUTE`, `STRENGTH`
 
@@ -28,6 +28,6 @@ Human evaluation of performance (by myself):
 | `ROUTE`     | medium             | names, abbreviations ("iv" in "DSM-IV-TR") | Substantial FPs.                                                                  |
 | `STRENGTH`  | bad                | article publication dates, page numbers,   | No identified entities were correct                                               |
 
-## en_ner_bc5cdr_md_ICSD3
+## en_ner_bc5cdr_md_ICSD3 0.5.1
 
 Few labels. Only disease and something else? Good at identifying diseases. But not perfect.

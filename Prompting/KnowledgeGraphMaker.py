@@ -47,12 +47,13 @@ def make_graph(max_retries = 3, delay = 13):
             try:
                 graph = graph_maker.from_documents(
                 list(docs), 
-                delay_s_between=1 ## delay_s_between because otherwise groq api maxes out pretty fast. 
+                delay_s_between=2 ## delay_s_between because otherwise groq api maxes out pretty fast. 
                 )
                 return graph
             except Exception as e:
                 print(e)
                 if attempt < max_retries:
+
                     print(f"Retrying in {delay} seconds...")
                     time.sleep(delay)
                 else:
@@ -76,8 +77,8 @@ with GraphDatabase.driver(URI, auth=AUTH) as driver:
 
 ### CONFIG ###
 chunk_size = 50 # how many lines of the input file to process through Groq at once
-chunk_counter = 300 # counter for the size we're at now
-to_line = 600 # how many total lines from input file to process
+chunk_counter = 600 # counter for the size we're at now
+to_line = 3000 # how many total lines from input file to process
 ontology = Ontology(
     labels=[
         {"Symptom": "A characteristic or manifestation of a condition (e.g., snoring, daytime fatigue)."},
@@ -141,8 +142,11 @@ while chunk_counter < to_line:
     except Exception as e:
         print(f"Graph creation failed: {e}. Got to line {start}")
 
-    print("Total number of Edges", len(graph))
-
+    try:
+        print("Total number of Edges", len(graph))
+    except Exception as e:
+        print(f"Graph creation failed: {e}. Got to line {start}")
+        
     for edge in graph:
         print(edge.model_dump(exclude=['metadata']), "\n\n")
 

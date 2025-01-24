@@ -1,0 +1,6700 @@
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disord	DOCUMENT
+Third	DOCUMENT
+Edition	DOCUMENT
+CI	DOCUMENT
+S	DOCUMENT
+ers	DOCUMENT
+D3	DOCUMENT
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disord	DOCUMENT
+Third	DOCUMENT
+Edition	DOCUMENT
+CI	DOCUMENT
+S	DOCUMENT
+ers	DOCUMENT
+D3	DOCUMENT
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+manual	DOCUMENT
+
+AASM	DOCUMENT
+book	DOCUMENT
+
+computer	DOCUMENT
+programs	DOCUMENT
+
+
+sleep	CONDITION
+disorders	CONDITION
+
+
+sleep	CONDITION
+disorders	CONDITION
+
+
+
+Sleep	CONDITION
+Disorders	CONDITION
+Classification	CONCEPT
+
+Sleep	CONDITION
+Disorders	CONDITION
+Diagnosis	TEST
+0991543416	DOCUMENT
+0991543408	DOCUMENT
+
+Editor	DOCUMENT
+’s	DOCUMENT
+Notes	DOCUMENT
+Insomnia19	CONDITION
+Chronic	CONDITION
+Insomnia	CONDITION
+Disorder	CONDITION
+
+Short	CONDITION
+-	CONDITION
+Term	CONDITION
+Insomnia	CONDITION
+Disorder41	CONDITION
+Insomnia	CONDITION
+Disorder46	CONDITION
+SYMPTOMS	SYMPTOM
+Excessive	RISKFACTOR
+Time	RISKFACTOR
+in	RISKFACTOR
+Bed47	RISKFACTOR
+Short	CONDITION
+Sleeper47	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+OBSTRUCTIVE	CONDITION
+SLEEP	CONDITION
+APNEA	CONDITION
+DISORDERS	CONDITION
+Obstructive	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+
+Obstructive	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Pediatric	CONDITION
+
+CENTRAL	CONDITION
+SLEEP	CONDITION
+
+APNEA	CONDITION
+SYNDROMES	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Cheyne	SYMPTOM
+-	SYMPTOM
+Stokes	SYMPTOM
+Breathing	SYMPTOM
+Central	CONDITION
+Apnea	CONDITION
+Medical	CONDITION
+Disorder	CONDITION
+Cheyne	SYMPTOM
+-	SYMPTOM
+Stokes	SYMPTOM
+Breathing	SYMPTOM
+
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+
+High	SYMPTOM
+Altitude	SYMPTOM
+Periodic	SYMPTOM
+Breathing79	SYMPTOM
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+
+Primary	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Infancy	SYMPTOM
+
+Primary	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+of	CONDITION
+Prematurity	CONDITION
+
+Treatment	TREATMENT
+Central	CONDITION
+Sleep	CONDITION
+Apnea102	CONDITION
+SLEEP	CONDITION
+RELATED	CONDITION
+HYPOVENTILATION	CONDITION
+DISORDERS	CONDITION
+Obesity	CONDITION
+Hypoventilation	CONDITION
+Syndrome108	CONDITION
+Congenital	CONDITION
+Central	CONDITION
+Alveolar	CONDITION
+Hypoventilation	CONDITION
+Syndrome	CONDITION
+
+Central	CONDITION
+Hypoventilation	CONDITION
+Hypothalamic	CONDITION
+Dysfunction	CONDITION
+
+Idiopathic	CONDITION
+Central	CONDITION
+Alveolar	CONDITION
+Hypoventilation	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Hypoventilation	CONDITION
+Medication	RISKFACTOR
+or	RISKFACTOR
+Substance	RISKFACTOR
+Sleep	SYMPTOM
+Related	SYMPTOM
+Hypoventilation	SYMPTOM
+Medical	CONDITION
+Disorder	CONDITION
+
+SLEEP	CONDITION
+RELATED	CONDITION
+HYPOXEMIA	CONDITION
+DISORDER	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Hypoxemia	CONDITION
+
+SYMPTOMS	SYMPTOM
+
+Snoring	SYMPTOM
+Catathrenia	CONDITION
+
+Central	CONDITION
+Disorders	CONDITION
+of	CONDITION
+Hypersomnolence143	CONDITION
+Narcolepsy	CONDITION
+Type	CONDITION
+1	CONDITION
+
+Narcolepsy	CONDITION
+Type	CONDITION
+2	CONDITION
+
+Idiopathic	SYMPTOM
+Hypersomnia	SYMPTOM
+
+Kleine	CONDITION
+-	CONDITION
+Levin	CONDITION
+Syndrome166	CONDITION
+Hypersomnia	SYMPTOM
+Medical	CONDITION
+Disorder	CONDITION
+
+Hypersomnia	SYMPTOM
+Medication	TREATMENT
+Hypersomnia	SYMPTOM
+Psychiatric	CONDITION
+Disorder	CONDITION
+
+Insufficient	SYMPTOM
+Sleep	SYMPTOM
+Syndrome	SYMPTOM
+
+ISOLATED	SYMPTOM
+SYMPTOMS	SYMPTOM
+Long	CONDITION
+Sleeper187	CONDITION
+Circadian	CONDITION
+Rhythm	CONDITION
+Sleep	CONDITION
+-	CONDITION
+Wake	CONDITION
+Disorders189	CONDITION
+Delayed	CONDITION
+Sleep	CONDITION
+-	CONDITION
+Wake	CONDITION
+Phase	CONDITION
+Disorder	CONDITION
+Advanced	CONDITION
+Sleep	CONDITION
+-	CONDITION
+Wake	CONDITION
+Phase	CONDITION
+Disorder198	CONDITION
+Irregular	CONDITION
+Sleep	CONDITION
+-	CONDITION
+Wake	CONDITION
+Rhythm	CONDITION
+Disorder	CONDITION
+
+Non-24	CONDITION
+-	CONDITION
+Hour	CONDITION
+Sleep	CONDITION
+-	CONDITION
+Wake	CONDITION
+Rhythm	CONDITION
+Disorder209	CONDITION
+Shift	CONDITION
+Work	CONDITION
+Disorder215	CONDITION
+Jet	CONDITION
+Lag	CONDITION
+Disorder220	CONDITION
+Circadian	CONDITION
+Sleep	CONDITION
+-	CONDITION
+Wake	CONDITION
+Disorder	CONDITION
+Parasomnias	CONDITION
+PARASOMNIAS	CONDITION
+Disorders	CONDITION
+of	CONDITION
+Arousal	CONDITION
+NREM	CONDITION
+Sleep	CONDITION
+
+Confusional	SYMPTOM
+Arousals	SYMPTOM
+
+Sleepwalking	SYMPTOM
+
+Sleep	SYMPTOM
+Terrors	SYMPTOM
+Sleep	CONDITION
+Related	CONDITION
+Eating	CONDITION
+Disorder240	CONDITION
+REM	CONDITION
+-	CONDITION
+RELATED	CONDITION
+PARASOMNIAS	CONDITION
+REM	CONDITION
+Sleep	CONDITION
+Behavior	CONDITION
+Disorder246	CONDITION
+
+Recurrent	CONDITION
+Isolated	CONDITION
+Sleep	CONDITION
+Paralysis254	CONDITION
+Nightmare	CONDITION
+Disorder257	CONDITION
+OTHER	CONDITION
+PARASOMNIAS	CONDITION
+Exploding	CONDITION
+Head	CONDITION
+Syndrome	CONDITION
+
+Sleep	SYMPTOM
+Related	SYMPTOM
+Hallucinations267	SYMPTOM
+Sleep	SYMPTOM
+Enuresis270	SYMPTOM
+
+Parasomnia	SYMPTOM
+
+Medical	CONDITION
+Disorder	CONDITION
+
+Parasomnia	CONDITION
+Medication	TREATMENT
+Parasomnia	CONDITION
+ISOLATED	SYMPTOM
+SYMPTOMS	SYMPTOM
+Sleep	CONDITION
+Talking279	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Movement	CONDITION
+Disorders	CONDITION
+Restless	CONDITION
+Legs	CONDITION
+Syndrome282	CONDITION
+Periodic	CONDITION
+Limb	CONDITION
+Movement	CONDITION
+Disorder292	CONDITION
+Sleep	SYMPTOM
+Related	SYMPTOM
+Leg	SYMPTOM
+Cramps299	SYMPTOM
+Sleep	CONDITION
+Related	CONDITION
+Bruxism	CONDITION
+
+Sleep	CONDITION
+Related	CONDITION
+Rhythmic	CONDITION
+Movement	CONDITION
+Disorder312	CONDITION
+Benign	SYMPTOM
+Sleep	SYMPTOM
+Myoclonus	SYMPTOM
+Propriospinal	SYMPTOM
+Myoclonus	SYMPTOM
+Sleep	CONDITION
+Related	CONDITION
+Movement	CONDITION
+Disorder	CONDITION
+Medical	CONDITION
+Disorder	CONDITION
+
+Sleep	CONDITION
+Related	CONDITION
+Movement	CONDITION
+Disorder	CONDITION
+Medication	TREATMENT
+Sleep	CONDITION
+Related	CONDITION
+Movement	CONDITION
+Disorder	CONDITION
+
+ISOLATED	SYMPTOM
+SYMPTOMS	SYMPTOM
+Excessive	SYMPTOM
+Fragmentary	SYMPTOM
+Myoclonus	SYMPTOM
+Hypnagogic	SYMPTOM
+Foot	SYMPTOM
+Tremor	SYMPTOM
+Alternating	CONDITION
+Leg	CONDITION
+Muscle	CONDITION
+Activation	CONDITION
+Sleep	SYMPTOM
+Starts	SYMPTOM
+Hypnic	SYMPTOM
+Jerks	SYMPTOM
+
+Other	CONDITION
+Sleep	CONDITION
+Disorder339	CONDITION
+Appendix	DOCUMENT
+A	DOCUMENT
+Neurological	CONDITION
+Disorders341	CONDITION
+Fatal	CONDITION
+Familial	CONDITION
+Insomnia342	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Epilepsy345	CONDITION
+Sleep	SYMPTOM
+Related	SYMPTOM
+Headaches	SYMPTOM
+
+Sleep	CONDITION
+Related	CONDITION
+Laryngospasm355	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Gastroesophageal	CONDITION
+Reflux358	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Myocardial	CONDITION
+Ischemia363	CONDITION
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+Substance	CONDITION
+-	CONDITION
+Induced	CONDITION
+Sleep	CONDITION
+Disorders369	CONDITION
+
+Sleep	CONCEPT
+Medicine	CONCEPT
+
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+Journal	DOCUMENT
+of	DOCUMENT
+Clinical	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+Academic	DOCUMENT
+Award	DOCUMENT
+National	DOCUMENT
+Heart	DOCUMENT
+,	DOCUMENT
+Lung	DOCUMENT
+,	DOCUMENT
+and	DOCUMENT
+Blood	DOCUMENT
+Institute	DOCUMENT
+
+Accreditation	DOCUMENT
+Council	DOCUMENT
+on	DOCUMENT
+Graduate	DOCUMENT
+Medical	DOCUMENT
+Education	DOCUMENT
+Advisory	DOCUMENT
+Committee	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+American	DOCUMENT
+Board	DOCUMENT
+of	DOCUMENT
+Internal	DOCUMENT
+Medicine	DOCUMENT
+Policy	DOCUMENT
+Test	DOCUMENT
+Committee	DOCUMENT
+Sleep	TEST
+Medicine	TEST
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+,	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+Insomnia	SYMPTOM
+Diagnosis	TEST
+and	TEST
+Treatment	TEST
+
+Nathaniel	DOCUMENT
+Kleitman	DOCUMENT
+Award	DOCUMENT
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+3rd	DOCUMENT
+Edition	DOCUMENT
+pharmacological	TREATMENT
+management	TREATMENT
+insomnia	SYMPTOM
+
+scientific	DOCUMENT
+articles	DOCUMENT
+sleep	TREATMENT
+medi-	TREATMENT
+cine	TREATMENT
+insomnia	SYMPTOM
+professional	CONCEPT
+education	CONCEPT
+sleep	CONCEPT
+
+
+manual	DOCUMENT
+
+Task	DOCUMENT
+Force	DOCUMENT
+ICSD-3	DOCUMENT
+
+
+
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+AASM	DOCUMENT
+
+
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+AASM	DOCUMENT
+
+
+World	DOCUMENT
+Sleep	DOCUMENT
+Federation	DOCUMENT
+
+WSF	DOCUMENT
+
+DSM-5	DOCUMENT
+sleep	CONDITION
+disorders	CONDITION
+
+psychiatric	SYMPTOM
+conditions	SYMPTOM
+Movement	CONDITION
+Disorders	CONDITION
+
+manual	DOCUMENT
+
+CIRCADIAN	CONDITION
+RHYTHM	CONDITION
+SLEEP	CONDITION
+WAKE	CONDITION
+DISORDERS	CONDITION
+
+PARASOMNIAS	CONDITION
+HYPERSOMNOLENCE	CONDITION
+Classification	CONCEPT
+of	CONCEPT
+disorders	CONCEPT
+
+disease	CONDITION
+states	CONDITION
+
+classification	CONCEPT
+systems	CONCEPT
+prognosis	RISKFACTOR
+
+therapeutic	TREATMENT
+interventions	TREATMENT
+
+therapeutic	OUTCOME
+response	OUTCOME
+disease	CONDITION
+states	CONDITION
+
+Classification	CONCEPT
+systems	CONCEPT
+
+research	DOCUMENT
+agendas	DOCUMENT
+treatment	OUTCOME
+response	OUTCOME
+disorder	CONDITION
+
+sleep	TREATMENT
+medicine	TREATMENT
+American	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+Association	DOCUMENT
+Diagnostic	CONCEPT
+Classification	CONCEPT
+Sleep	CONDITION
+and	CONDITION
+Arousal	CONDITION
+Disorders	CONDITION
+
+sleep	CONDITION
+disorders	CONDITION
+classification	CONCEPT
+system	CONCEPT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+
+current	DOCUMENT
+revision	DOCUMENT
+
+
+pathophysiol-	CONCEPT
+ogies	CONCEPT
+
+diag-	CONCEPT
+nostic	CONCEPT
+systems	CONCEPT
+sleep	CONDITION
+disorders	CONDITION
+
+3rd	DOCUMENT
+Edition	DOCUMENT
+hybrid	CONCEPT
+approach	CONCEPT
+pathophysiology	CONCEPT
+phenomenology	CONCEPT
+organ	CONCEPT
+system	CONCEPT
+approaches	CONCEPT
+
+sleep	CONCEPT
+medicine	CONCEPT
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+
+Introduction	DOCUMENT
+manual	DOCUMENT
+
+
+
+literature	DOCUMENT
+
+draft	DOCUMENT
+diagnostic	DOCUMENT
+crite-	DOCUMENT
+ria	DOCUMENT
+
+AASM	DOCUMENT
+
+
+
+AASM	DOCUMENT
+board	DOCUMENT
+
+scientific	CONCEPT
+evidence	CONCEPT
+
+nosol-	CONCEPT
+ogy	CONCEPT
+
+ICSD-3	DOCUMENT
+second	DOCUMENT
+edition	DOCUMENT
+
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+pediatric	TEST
+diagnoses	TEST
+clinical	TEST
+diagnoses	TEST
+obstructive	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+pediatric	CONCEPT
+presentations	CONCEPT
+diagnostic	CONCEPT
+criteria	CONCEPT
+
+Developmental	CONCEPT
+Issues	CONCEPT
+
+ICD	DOCUMENT
+codes	DOCUMENT
+9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+International	DOCUMENT
+Classification	DOCUMENT
+Sleep	CONDITION
+Disorders	CONDITION
+ICD	DOCUMENT
+
+
+classification	CONCEPT
+systems	CONCEPT
+disorders	CONDITION
+clinically	SYMPTOM
+significant	SYMPTOM
+conditions	SYMPTOM
+diagnosis	TEST
+
+
+
+Sleep	CONDITION
+Disorders	CONDITION
+clinical	RISKFACTOR
+significance	RISKFACTOR
+disturbing	SYMPTOM
+symptoms	SYMPTOM
+significant	RISKFACTOR
+conse-	RISKFACTOR
+quences	RISKFACTOR
+
+sleep	SYMPTOM
+-	SYMPTOM
+wake	SYMPTOM
+treatment	TREATMENT
+
+Notes	DOCUMENT
+section	DOCUMENT
+
+
+chronic	CONDITION
+insomnia	CONDITION
+chronic	CONDITION
+insomnia	CONDITION
+
+Insomnia	CONDITION
+disorders	CONDITION
+
+short	SYMPTOM
+-	SYMPTOM
+term	SYMPTOM
+insomnia	SYMPTOM
+
+Central	CONDITION
+Disorders	CONDITION
+Hypersomnolence	SYMPTOM
+narcolepsy	CONDITION
+narcolepsy	CONDITION
+type	CONDITION
+1	CONDITION
+type	CONDITION
+2	CONDITION
+
+
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Syndromes	CONDITION
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+complex	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+central	CONDITION
+apnea	CONDITION
+positive	TREATMENT
+airway	TREATMENT
+pressure	TREATMENT
+treatment	TREATMENT
+obstructive	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+Central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+Cheyne	CONDITION
+-	CONDITION
+Stokes	CONDITION
+breathing	CONDITION
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+treatment	RISKFACTOR
+-	RISKFACTOR
+emergent	RISKFACTOR
+
+hypoventilation	CONDITION
+disorder	CONDITION
+arterial	TEST
+blood	TEST
+gas	TEST
+end	TEST
+-	TEST
+tidal	TEST
+trans-	TEST
+cutaneous	TEST
+CO2	TEST
+determination	TEST
+
+sleep	CONDITION
+related	CONDITION
+hypoxemia	CONDITION
+disor-	CONDITION
+der	CONDITION
+SaO2	TEST
+PaCO2	TEST
+
+parasomnia	CONDITION
+general	CONCEPT
+criteria	CONCEPT
+disorders	CONDITION
+of	CONDITION
+arousal	CONDITION
+non	TEST
+-	TEST
+rapid	TEST
+eye	TEST
+movement	TEST
+sleep	TEST
+confusional	SYMPTOM
+arousal	SYMPTOM
+sleepwalking	SYMPTOM
+sleep	SYMPTOM
+terror	SYMPTOM
+
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+Isolated	SYMPTOM
+Symptoms	SYMPTOM
+Normal	CONCEPT
+Variants	CONCEPT
+
+
+snoring	SYMPTOM
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+long	SYMPTOM
+sleeper	SYMPTOM
+Central	CONDITION
+Disorders	CONDITION
+of	CONDITION
+Hypersomnolence	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Movement	CONDITION
+Disorder	CONDITION
+
+diagnostic	DOCUMENT
+section	DOCUMENT
+
+
+hard	DOCUMENT
+copy	DOCUMENT
+version	DOCUMENT
+
+Demographics	CONCEPT
+Gender	CONCEPT
+bias	CONCEPT
+Racial	CONCEPT
+/	CONCEPT
+ethnic	CONCEPT
+bias	CONCEPT
+Cultural	CONCEPT
+issues	CONCEPT
+Risk	RISKFACTOR
+factors	RISKFACTOR
+Familial	CONCEPT
+Pattern	CONCEPT
+Genetics	CONCEPT
+Neurological	CONDITION
+Developmental	CONDITION
+Issues	CONDITION
+Pediatric	CONDITION
+Geriatric	CONDITION
+Sleep	TEST
+logs	TEST
+Actigraphy	TEST
+
+Questionnaires	DOCUMENT
+Polysomnography	TEST
+Multiple	TEST
+sleep	TEST
+latency	TEST
+test	TEST
+Neurological	CONDITION
+Electroencephalogram	TEST
+
+Neuroimaging	TEST
+Electromyogram	TEST
+
+Endocrine	CONDITION
+Genetic	TEST
+testing	TEST
+Physical	TEST
+findings	TEST
+Respiratory	CONDITION
+Arterial	TEST
+blood	TEST
+gas	TEST
+Pulmonary	TEST
+function	TEST
+
+Ventilatory	TEST
+response	TEST
+Cardiac	CONDITION
+
+Electrocardiogram	TEST
+Echocardiogram	TEST
+Cardiac	TEST
+catheterization	TEST
+Serum	TEST
+chemistry	TEST
+Classification	CONCEPT
+Systems	CONCEPT
+classifications	CONCEPT
+systems	CONCEPT
+sleep	SYMPTOM
+disorders	SYMPTOM
+
+International	CONCEPT
+Classification	CONCEPT
+of	CONCEPT
+Sleep	CONCEPT
+Disorders	CONCEPT
+Diagnostic	DOCUMENT
+and	DOCUMENT
+Statistical	DOCUMENT
+Manual	DOCUMENT
+of	DOCUMENT
+Mental	DOCUMENT
+Disorders	DOCUMENT
+International	CONCEPT
+Classification	CONCEPT
+of	CONCEPT
+Diseases	CONCEPT
+sleep	CONDITION
+disorders	CONDITION
+
+
+DSM-5	DOCUMENT
+International	DOCUMENT
+Classification	DOCUMENT
+Sleep	CONDITION
+Disorders	CONDITION
+DSM	DOCUMENT
+
+
+Insomnia	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+DSM-5	DOCUMENT
+
+Central	CONDITION
+Disorders	CONDITION
+Hypersomnolence	SYMPTOM
+DSM	DOCUMENT
+narcolepsy	CONDITION
+criteria	CONCEPT
+
+Circadian	CONDITION
+Rhythm	CONDITION
+Sleep	CONDITION
+-	CONDITION
+Wake	CONDITION
+Disorder	CONDITION
+DSM	DOCUMENT
+jet	SYMPTOM
+lag	SYMPTOM
+
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+DSM-5	DOCUMENT
+
+Sleep	CONDITION
+Related	CONDITION
+Movement	CONDITION
+Disorders	CONDITION
+Parasomnias	CONDITION
+DSM-5	DOCUMENT
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+,	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+sleep	TEST
+related	TEST
+diagnoses	TEST
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+sleep	SYMPTOM
+related	SYMPTOM
+diag-	SYMPTOM
+noses	SYMPTOM
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+Diseases	CONDITION
+of	CONDITION
+the	CONDITION
+Nervous	CONDITION
+System	CONDITION
+
+non	CONDITION
+-	CONDITION
+organic	CONDITION
+”	CONDITION
+disorders	CONDITION
+ICD	DOCUMENT
+sleep	SYMPTOM
+neurological	CONDITION
+mental	CONDITION
+disorder	CONDITION
+
+ICD-	DOCUMENT
+9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+sleep	CONDITION
+disorders	CONDITION
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+chronic	SYMPTOM
+insomnia	SYMPTOM
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+
+
+Coding	DOCUMENT
+Diagnostic	DOCUMENT
+codes	DOCUMENT
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+3rd	DOCUMENT
+Edition	DOCUMENT
+ICD	CONCEPT
+
+Sleep	CONDITION
+Disorders	CONDITION
+ICD	CONCEPT
+
+ICD	DOCUMENT
+sleep	CONDITION
+disorders	CONDITION
+ICSD	CONCEPT
+Clinical	TREATMENT
+Modification	TREATMENT
+
+ICD	DOCUMENT
+codes	DOCUMENT
+
+chronic	SYMPTOM
+insomnia	SYMPTOM
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+307.42	CONCEPT
+Nonorganic	CONDITION
+persistent	CONDITION
+disorder	CONDITION
+of	CONDITION
+initiating	CONDITION
+or	CONDITION
+maintaining	CONDITION
+sleep	CONDITION
+F51.01	CONCEPT
+Primary	CONDITION
+insomnia	CONDITION
+
+insomnia	SYMPTOM
+ICD	DOCUMENT
+sleep	TREATMENT
+medicine	TREATMENT
+
+ICD	CONCEPT
+codes	CONCEPT
+
+Insomnia	CONDITION
+Chronic	CONDITION
+Insomnia	CONDITION
+Disorder21	CONDITION
+Insomnia	CONDITION
+Disorder41	CONDITION
+Insomnia	CONDITION
+Disorder	CONDITION
+Symptoms	SYMPTOM
+Excessive	RISKFACTOR
+Time	RISKFACTOR
+in	RISKFACTOR
+Bed	RISKFACTOR
+
+
+sleep	CONDITION
+disorders	CONDITION
+insom-	SYMPTOM
+nia	SYMPTOM
+
+manual	DOCUMENT
+insomnia	SYMPTOM
+persistent	SYMPTOM
+difficulty	SYMPTOM
+with	SYMPTOM
+sleep	SYMPTOM
+initiation	SYMPTOM
+daytime	SYMPTOM
+impair-	SYMPTOM
+ment	SYMPTOM
+
+insomnia	CONDITION
+persistent	SYMPTOM
+sleep	SYMPTOM
+difficulty	SYMPTOM
+adequate	RISKFACTOR
+sleep	RISKFACTOR
+opportunity	RISKFACTOR
+associated	CONDITION
+daytime	CONDITION
+dysfunction	CONDITION
+insomnia	CONDITION
+
+insomnia	CONDITION
+sleep	SYMPTOM
+complaints	SYMPTOM
+
+nocturnal	CONDITION
+wakefulness	CONDITION
+poor	SYMPTOM
+sleep	SYMPTOM
+quality	SYMPTOM
+
+sleep	SYMPTOM
+related	SYMPTOM
+symptoms	SYMPTOM
+daytime	RISKFACTOR
+impairment	RISKFACTOR
+insomnia	CONDITION
+disorder	CONDITION
+
+Insomnia	CONDITION
+bedtime	SYMPTOM
+resistance	SYMPTOM
+frequent	SYMPTOM
+nighttime	SYMPTOM
+awakenings	SYMPTOM
+inability	SYMPTOM
+to	SYMPTOM
+sleep	SYMPTOM
+independently	SYMPTOM
+
+nighttime	SYMPTOM
+sleep	SYMPTOM
+diffi-	SYMPTOM
+culties	SYMPTOM
+
+fatigue	SYMPTOM
+decreased	SYMPTOM
+mood	SYMPTOM
+irritability	SYMPTOM
+general	SYMPTOM
+malaise	SYMPTOM
+cognitive	SYMPTOM
+impairment	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+quality	CONCEPT
+of	CONCEPT
+life	CONCEPT
+poor	RISKFACTOR
+school	RISKFACTOR
+performance	RISKFACTOR
+impaired	SYMPTOM
+attention	SYMPTOM
+behavioral	SYMPTOM
+disturbance	SYMPTOM
+
+physical	SYMPTOM
+symptoms	SYMPTOM
+muscle	SYMPTOM
+tension	SYMPTOM
+palpita-	SYMPTOM
+tions	SYMPTOM
+headache	SYMPTOM
+insomnia	CONDITION
+
+insomnia	SYMPTOM
+motor	RISKFACTOR
+vehicle	RISKFACTOR
+work	RISKFACTOR
+-	RISKFACTOR
+site	RISKFACTOR
+acci-	RISKFACTOR
+dents	RISKFACTOR
+psychiatric	CONDITION
+cardiovascular	CONDITION
+disorders	CONDITION
+
+Insomnia	SYMPTOM
+medical	CONDITION
+illnesses	CONDITION
+mental	CONDITION
+disorders	CONDITION
+sleep	CONDITION
+disorders	CONDITION
+
+certain	RISKFACTOR
+substances	RISKFACTOR
+
+insomnia	SYMPTOM
+comorbid	RISKFACTOR
+sep-	TEST
+arate	TEST
+insomnia	TEST
+diagnosis	TEST
+
+Insomnia	SYMPTOM
+insomnia	SYMPTOM
+nosology	CONCEPT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+insomnia	SYMPTOM
+classification	CONCEPT
+system	CONCEPT
+conceptual	CONCEPT
+framework	CONCEPT
+
+insomnia	CONDITION
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+insomnia	CONDITION
+sleep	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+disturbance	SYMPTOM
+psychiatric	CONDITION
+medical	CONDITION
+substance	CONDITION
+abuse	CONDITION
+disorder	CONDITION
+
+symptoms	SYMPTOM
+secondary	CONDITION
+insomnias	CONDITION
+subtypes	CONCEPT
+
+insomnia	SYMPTOM
+clinically	CONCEPT
+significant	CONCEPT
+primary	CONDITION
+condition	CONDITION
+
+insomnia	SYMPTOM
+adversely	RISKFACTOR
+affect	RISKFACTOR
+outcome	OUTCOME
+comorbid	CONDITION
+conditions	CONDITION
+
+treatment	TREATMENT
+outcome	OUTCOME
+sleep	SYMPTOM
+disturbance	SYMPTOM
+comorbid	CONDITION
+conditions	CONDITION
+
+insomnia	SYMPTOM
+comorbid	CONDITION
+disorder	CONDITION
+treatment	TREATMENT
+
+secondary	SYMPTOM
+insomnia	SYMPTOM
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+primary	CONDITION
+insomnia	CONDITION
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+primary	CONDITION
+insomnia	CONDITION
+psycho-	CONDITION
+physiological	CONDITION
+insomnia	CONDITION
+idiopathic	CONDITION
+insomnia	CONDITION
+inadequate	SYMPTOM
+sleep	SYMPTOM
+hygiene	SYMPTOM
+paradox-	CONDITION
+ical	CONDITION
+insomnia	CONDITION
+
+diagnostic	CONCEPT
+criteria	CONCEPT
+
+subtypes	CONCEPT
+sleep	SYMPTOM
+-	SYMPTOM
+disruptive	SYMPTOM
+habits	SYMPTOM
+conditioned	RISKFACTOR
+arousal	RISKFACTOR
+insomnia	CONDITION
+subtypes	CONCEPT
+subtypes	CONCEPT
+insomnia	CONDITION
+
+International	DOCUMENT
+Classification	DOCUMENT
+Sleep	CONDITION
+Disorders	CONDITION
+
+insomnia	SYMPTOM
+classification	CONCEPT
+scheme	CONCEPT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+
+diagnostic	CONCEPT
+categories	CONCEPT
+insomnia	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+other	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+diag-	TEST
+noses	TEST
+comorbidities	CONDITION
+comorbidities	CONDITION
+sleep	SYMPTOM
+disruptive	SYMPTOM
+
+Chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+chronic	SYMPTOM
+sleep	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+asso-	SYMPTOM
+ciated	SYMPTOM
+daytime	SYMPTOM
+impairment	SYMPTOM
+sleep	SYMPTOM
+difficulties	SYMPTOM
+frequency	RISKFACTOR
+and	RISKFACTOR
+duration	RISKFACTOR
+thresholds	RISKFACTOR
+clin-	OUTCOME
+ically	OUTCOME
+significant	OUTCOME
+morbidity	OUTCOME
+
+Short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+difficulties	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+dissatisfaction	SYMPTOM
+waking	SYMPTOM
+impairment	SYMPTOM
+
+insomnia	CONDITION
+disorders	CONDITION
+criteria	CONCEPT
+insomnia	CONDITION
+disorder	CONDITION
+symptoms	SYMPTOM
+insomnia	CONDITION
+clinical	RISKFACTOR
+attention	RISKFACTOR
+
+Chronic	CONDITION
+Insomnia	CONDITION
+Disorder	CONDITION
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+Chronic	CONDITION
+insomnia	CONDITION
+primary	CONDITION
+insomnia	CONDITION
+secondary	CONDITION
+insomnia	CONDITION
+comorbid	CONDITION
+insomnia	CONDITION
+disor-	CONDITION
+der	CONDITION
+of	CONDITION
+initiating	CONDITION
+and	CONDITION
+maintaining	CONDITION
+sleep	CONDITION
+behavioral	CONDITION
+insomnia	CONDITION
+of	CONDITION
+childhood	CONDITION
+sleep	CONDITION
+-	CONDITION
+onset	CONDITION
+association	CONDITION
+disorder	CONDITION
+limit	CONDITION
+-	CONDITION
+setting	CONDITION
+sleep	CONDITION
+disorder	CONDITION
+
+Diagnostic	DOCUMENT
+Criteria	DOCUMENT
+
+
+Difficulty	SYMPTOM
+initiating	SYMPTOM
+sleep	SYMPTOM
+
+Difficulty	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+
+
+
+Difficulty	SYMPTOM
+sleeping	SYMPTOM
+
+nighttime	SYMPTOM
+sleep	SYMPTOM
+difficulty	SYMPTOM
+
+Fatigue	SYMPTOM
+malaise	SYMPTOM
+
+Attention	SYMPTOM
+concentration	SYMPTOM
+memory	SYMPTOM
+impairment	SYMPTOM
+
+
+
+Mood	SYMPTOM
+disturbance	SYMPTOM
+irritability	SYMPTOM
+
+Daytime	SYMPTOM
+sleepiness	SYMPTOM
+
+Behavioral	CONDITION
+problems	CONDITION
+hyperactivity	SYMPTOM
+impulsivity	SYMPTOM
+aggression	SYMPTOM
+
+Reduced	SYMPTOM
+motivation	SYMPTOM
+
+errors	RISKFACTOR
+/	RISKFACTOR
+accidents	RISKFACTOR
+
+
+
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+complaints	SYMPTOM
+safe	CONCEPT
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+daytime	SYMPTOM
+symptoms	SYMPTOM
+
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+daytime	SYMPTOM
+symptoms	SYMPTOM
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+difficulty	SYMPTOM
+sleep	CONDITION
+disorder	CONDITION
+
+
+difficulties	SYMPTOM
+initiating	SYMPTOM
+sleep	SYMPTOM
+difficulties	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+waking	SYMPTOM
+up	SYMPTOM
+too	SYMPTOM
+early	SYMPTOM
+
+difficulty	SYMPTOM
+sleeping	SYMPTOM
+dementia	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+difficulties	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+intermittent	SYMPTOM
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+hypnotic	TREATMENT
+medications	TREATMENT
+sleep	SYMPTOM
+well	SYMPTOM
+insomnia	CONDITION
+disorder	CONDITION
+
+
+inability	SYMPTOM
+to	SYMPTOM
+sleep	SYMPTOM
+sleep	TREATMENT
+medications	TREATMENT
+
+comorbid	CONDITION
+conditions	CONDITION
+chronic	CONDITION
+pain	CONDITION
+disorders	CONDITION
+gast-	CONDITION
+roesophageal	CONDITION
+reflux	CONDITION
+disease	CONDITION
+GERD	CONDITION
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+complaints	SYMPTOM
+
+sleep	SYMPTOM
+difficulty	SYMPTOM
+insomnia	CONDITION
+
+sleep	SYMPTOM
+difficulty	SYMPTOM
+
+insomnia	CONDITION
+comorbid	RISKFACTOR
+condition	RISKFACTOR
+pain	SYMPTOM
+GERD	CONDITION
+
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+complaints	SYMPTOM
+these	RISKFACTOR
+factors	RISKFACTOR
+
+cognitive	CONCEPT
+or	CONCEPT
+behavioral	CONCEPT
+factors	CONCEPT
+negative	RISKFACTOR
+expectations	RISKFACTOR
+conditioned	RISKFACTOR
+arousal	RISKFACTOR
+sleep	RISKFACTOR
+-	RISKFACTOR
+disruptive	RISKFACTOR
+habits	RISKFACTOR
+insomnia	SYMPTOM
+
+sleep/	SYMPTOM
+wake	SYMPTOM
+complaints	SYMPTOM
+medical	RISKFACTOR
+condition	RISKFACTOR
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+complaints	SYMPTOM
+treatment	TREATMENT
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+frequent	SYMPTOM
+and	SYMPTOM
+persistent	SYMPTOM
+difficulty	SYMPTOM
+initiating	SYMPTOM
+or	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+general	SYMPTOM
+sleep	SYMPTOM
+dissatisfaction	SYMPTOM
+
+sleep	SYMPTOM
+complaint	SYMPTOM
+poor	SYMPTOM
+sleep	SYMPTOM
+family	CONCEPT
+social	CONCEPT
+vocational	CONCEPT
+academic	CONCEPT
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+waking	SYMPTOM
+symptoms	SYMPTOM
+
+Chronic	CONDITION
+insomnia	CONDITION
+dis-	CONDITION
+order	CONDITION
+mental	CONDITION
+disorder	CONDITION
+medical	CONDITION
+condition	CONDITION
+substance	RISKFACTOR
+use	RISKFACTOR
+
+sleep	SYMPTOM
+complaints	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+difficul-	SYMPTOM
+ties	SYMPTOM
+initiating	SYMPTOM
+sleep	SYMPTOM
+difficulties	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+
+
+Chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+complaints	SYMPTOM
+
+sleep	SYMPTOM
+com-	SYMPTOM
+plaints	SYMPTOM
+sleep	SYMPTOM
+onset	SYMPTOM
+complaints	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+complaints	SYMPTOM
+
+sleep	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+difficulties	SYMPTOM
+
+poor	SYMPTOM
+-	SYMPTOM
+quality	SYMPTOM
+unrefreshing	SYMPTOM
+nonrestorative	SYMPTOM
+sleep	SYMPTOM
+sleep	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+complaint	SYMPTOM
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+diag	TEST
+
+nosis	CONCEPT
+Insomnia	CONDITION
+Insomnia	CONDITION
+complaints	SYMPTOM
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+clinical	CONCEPT
+significance	CONCEPT
+
+sleep	SYMPTOM
+disturbances	SYMPTOM
+
+onset	SYMPTOM
+latencies	SYMPTOM
+clin-	CONCEPT
+ical	CONCEPT
+significance	CONCEPT
+
+Complaints	SYMPTOM
+early	SYMPTOM
+morning	SYMPTOM
+awakening	SYMPTOM
+
+
+clinical	RISKFACTOR
+significance	RISKFACTOR
+
+
+Symptoms	SYMPTOM
+sleep	SYMPTOM
+difficulties	SYMPTOM
+impairment	RISKFACTOR
+of	RISKFACTOR
+normal	RISKFACTOR
+functioning	RISKFACTOR
+
+fatigue	SYMPTOM
+reduced	SYMPTOM
+motivation	SYMPTOM
+reduced	SYMPTOM
+concentration	SYMPTOM
+attention	SYMPTOM
+memory	SYMPTOM
+functioning	SYMPTOM
+irritability	SYMPTOM
+reduced	SYMPTOM
+mood	SYMPTOM
+
+subjective	CONDITION
+daytime	CONDITION
+sleepiness	CONDITION
+hypersomnolence	CONDITION
+conditions	CONDITION
+
+reduced	SYMPTOM
+performance	SYMPTOM
+impaired	SYMPTOM
+social	SYMPTOM
+functioning	SYMPTOM
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+Somatic	SYMPTOM
+symptoms	SYMPTOM
+headaches	SYMPTOM
+gastrointes-	CONDITION
+tinal	CONDITION
+dysfunction	CONDITION
+sleep	RISKFACTOR
+difficulties	RISKFACTOR
+
+fatigue	SYMPTOM
+insomnia	CONDITION
+
+symptom	SYMPTOM
+subjective	CONDITION
+sleepiness	CONDITION
+unintended	CONDITION
+sleep	CONDITION
+episodes	CONDITION
+
+Insomnia	CONDITION
+subjective	SYMPTOM
+sleepiness	SYMPTOM
+reduced	SYMPTOM
+alertness	SYMPTOM
+enhanced	SYMPTOM
+need	SYMPTOM
+or	SYMPTOM
+desire	SYMPTOM
+to	SYMPTOM
+sleep	SYMPTOM
+
+
+insomnia	SYMPTOM
+
+daytime	SYMPTOM
+sleep	SYMPTOM
+episodes	SYMPTOM
+sleep	CONDITION
+disorders	CONDITION
+sleep	CONDITION
+disordered	CONDITION
+breathing	CONDITION
+narcolepsy	CONDITION
+idio-	CONDITION
+pathic	CONDITION
+hypersomnia	CONDITION
+
+difficulty	SYMPTOM
+falling	SYMPTOM
+asleep	SYMPTOM
+staying	SYMPTOM
+asleep	SYMPTOM
+inappropriate	CONCEPT
+sleep	CONCEPT
+associations	CONCEPT
+inadequate	CONCEPT
+limit	CONCEPT
+setting	CONCEPT
+
+Inappropriate	SYMPTOM
+sleep	SYMPTOM
+
+
+frequent	SYMPTOM
+nighttime	SYMPTOM
+awakenings	SYMPTOM
+nighttime	SYMPTOM
+fears	SYMPTOM
+anxiety	SYMPTOM
+
+
+disorder	CONDITION
+difficulty	SYMPTOM
+falling	SYMPTOM
+asleep	SYMPTOM
+
+
+sleep	CONCEPT
+-	CONCEPT
+onset	CONCEPT
+associations	CONCEPT
+disorder	CONDITION
+extended	SYMPTOM
+rocking	SYMPTOM
+car	SYMPTOM
+rides	SYMPTOM
+caregiver	TREATMENT
+intervention	TREATMENT
+
+Limit	CONDITION
+-	CONDITION
+setting	CONDITION
+issues	CONDITION
+
+Sleep	SYMPTOM
+problems	SYMPTOM
+
+sleep	SYMPTOM
+problems	SYMPTOM
+prolonged	SYMPTOM
+nocturnal	SYMPTOM
+awakenings	SYMPTOM
+
+anxiety	SYMPTOM
+fears	SYMPTOM
+
+nightmares	SYMPTOM
+
+insomnia	CONDITION
+clinically	RISKFACTOR
+significant	RISKFACTOR
+daytime	RISKFACTOR
+consequences	RISKFACTOR
+insomnia	CONDITION
+morbidity	OUTCOME
+out-	OUTCOME
+comes	OUTCOME
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+insomnia	SYMPTOM
+significant	RISKFACTOR
+distress	RISKFACTOR
+functional	RISKFACTOR
+impairment	RISKFACTOR
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+reduced	SYMPTOM
+well	SYMPTOM
+-	SYMPTOM
+being	SYMPTOM
+general	SYMPTOM
+malaise	SYMPTOM
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+Insomnia	CONDITION
+Insomnia	CONDITION
+
+performance	SYMPTOM
+anxiety	SYMPTOM
+
+insomnia	CONDITION
+anxious	SYMPTOM
+worry	SYMPTOM
+-	SYMPTOM
+prone	SYMPTOM
+anxiety	SYMPTOM
+worry	SYMPTOM
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+anxiety	SYMPTOM
+worry	SYMPTOM
+sleep	SYMPTOM
+problems	SYMPTOM
+comorbid	CONDITION
+anxiety	CONDITION
+disorder	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+conditioned	SYMPTOM
+arousal	SYMPTOM
+
+physiological	SYMPTOM
+arousal	SYMPTOM
+
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+daytime	SYMPTOM
+behavioral	SYMPTOM
+prob-	SYMPTOM
+lems	SYMPTOM
+limit	SYMPTOM
+-	SYMPTOM
+setting	SYMPTOM
+difficulties	SYMPTOM
+
+nighttime	SYMPTOM
+sleep	SYMPTOM
+distur-	SYMPTOM
+bance	SYMPTOM
+poor	SYMPTOM
+parental	SYMPTOM
+sleep	SYMPTOM
+daytime	SYMPTOM
+impairment	SYMPTOM
+
+sleep	SYMPTOM
+problem	SYMPTOM
+
+
+Subtypes	CONCEPT
+subtypes	CONCEPT
+insomnia	SYMPTOM
+
+Diagnostic	DOCUMENT
+and	DOCUMENT
+Statistical	DOCUMENT
+Manual	DOCUMENT
+,	DOCUMENT
+4th	DOCUMENT
+Edition	DOCUMENT
+,	DOCUMENT
+Text	DOCUMENT
+Revision	DOCUMENT
+DSM	DOCUMENT
+-	DOCUMENT
+IV	DOCUMENT
+-	DOCUMENT
+TR	DOCUMENT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+insomnia	SYMPTOM
+
+DSM	DOCUMENT
+-	DOCUMENT
+IV	DOCUMENT
+-	DOCUMENT
+TR	DOCUMENT
+global	CONCEPT
+term	CONCEPT
+primary	CONDITION
+insomnia	CONDITION
+insomnia	SYMPTOM
+
+abuse	CONDITION
+disorder	CONDITION
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+primary	SYMPTOM
+insomnia	SYMPTOM
+
+primary	CONDITION
+insomnia	CONDITION
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+Psychophysiological	CONDITION
+insomnia	CONDITION
+complaint	SYMPTOM
+insomnia	SYMPTOM
+
+insomnia	CONDITION
+sleep	SYMPTOM
+difficulty	SYMPTOM
+fall	OUTCOME
+asleep	OUTCOME
+easily	OUTCOME
+novel	RISKFACTOR
+sleep	RISKFACTOR
+setting	RISKFACTOR
+
+somatic	SYMPTOM
+arousal	SYMPTOM
+
+Idiopathic	CONDITION
+insomnia	CONDITION
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+
+sleep	CONCEPT
+-	CONCEPT
+inducing	CONCEPT
+arousal	CONCEPT
+systems	CONCEPT
+
+genetic	TEST
+markers	TEST
+neural	CONDITION
+pathology	CONDITION
+suffer	SYMPTOM
+
+Paradoxical	CONDITION
+insomnia	CONDITION
+sleep	CONCEPT
+state	CONCEPT
+misperception	CONCEPT
+sleep	SYMPTOM
+disturbance	SYMPTOM
+sleep	SYMPTOM
+disturbance	SYMPTOM
+
+sleep	SYMPTOM
+difficulty	SYMPTOM
+underestimate	RISKFACTOR
+
+
+norma-	OUTCOME
+tive	OUTCOME
+amounts	OUTCOME
+of	OUTCOME
+sleep	OUTCOME
+polysomnographic	TEST
+measures	TEST
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+symptoms	SYMPTOM
+insomnia	CONDITION
+disorders	CONDITION
+
+sleep	TEST
+electroencephalograph	TEST
+(	TEST
+EEG	TEST
+)	TEST
+spectral	TEST
+analysis	TEST
+techniques	TEST
+subjective	DOCUMENT
+sleep	DOCUMENT
+reports	DOCUMENT
+
+Inadequate	SYMPTOM
+sleep	SYMPTOM
+hygiene	SYMPTOM
+
+insomnia	CONDITION
+sleep/	SYMPTOM
+wake	SYMPTOM
+difficulties	SYMPTOM
+sleep	RISKFACTOR
+-	RISKFACTOR
+disruptive	RISKFACTOR
+products	RISKFACTOR
+caf-	RISKFACTOR
+feine	RISKFACTOR
+tobacco	RISKFACTOR
+alcohol	RISKFACTOR
+
+Behavioral	SYMPTOM
+insomnia	SYMPTOM
+sleep	TREATMENT
+train-	TREATMENT
+ing	TREATMENT
+limit	CONCEPT
+setting	CONCEPT
+
+
+Sleep	CONCEPT
+-	CONCEPT
+onset	CONCEPT
+association	CONCEPT
+type	CONCEPT
+
+Limit	CONCEPT
+-	CONCEPT
+setting	CONCEPT
+type	CONCEPT
+
+Insomnia	CONDITION
+Insomnia	CONDITION
+sleep	SYMPTOM
+-	SYMPTOM
+onset	SYMPTOM
+association	SYMPTOM
+difficulties	SYMPTOM
+bedtime	SYMPTOM
+resistance	SYMPTOM
+diagnostic	CONCEPT
+category	CONCEPT
+
+DSM	DOCUMENT
+-	DOCUMENT
+IV	DOCUMENT
+-	DOCUMENT
+TR	DOCUMENT
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+secondary	SYMPTOM
+insomnias	SYMPTOM
+causative	CONDITION
+conditions	CONDITION
+
+Insomnia	SYMPTOM
+mental	CONDITION
+disorder	CONDITION
+psychiatric	CONDITION
+condition	CONDITION
+
+Insomnia	SYMPTOM
+mood	CONDITION
+disorders	CONDITION
+anxiety	CONDITION
+disorders	CONDITION
+
+sleep	SYMPTOM
+distur-	SYMPTOM
+bance	SYMPTOM
+psychotic	CONDITION
+spectrum	CONDITION
+disorders	CONDITION
+Axis	CONDITION
+II	CONDITION
+(	CONDITION
+personality	CONDITION
+)	CONDITION
+disorders	CONDITION
+
+insomnia	SYMPTOM
+mental	CONDITION
+disorder	CONDITION
+insomnia	SYMPTOM
+secondary	SYMPTOM
+symptom	SYMPTOM
+mental	CONDITION
+disorder	CONDITION
+
+Insomnia	SYMPTOM
+medical	CONDITION
+condition	CONDITION
+medical	CONDITION
+condition	CONDITION
+
+mental	CONDITION
+disorders	CONDITION
+medical	CONDITION
+condi-	CONDITION
+tions	CONDITION
+insomnia	SYMPTOM
+
+pain	SYMPTOM
+discomfort	SYMPTOM
+breathing	SYMPTOM
+disturbance	SYMPTOM
+insomnia	CONDITION
+complaints	CONDITION
+
+insomnia	SYMPTOM
+medical	CONDITION
+disor-	CONDITION
+der	CONDITION
+insomnia	SYMPTOM
+secondary	SYMPTOM
+symptom	SYMPTOM
+medical	CONDITION
+disorder	CONDITION
+
+Insomnia	SYMPTOM
+drug	CONCEPT
+or	CONCEPT
+substance	CONCEPT
+drug	CONCEPT
+or	CONCEPT
+substance	CONCEPT
+
+nonprescrip-	RISKFACTOR
+tion	RISKFACTOR
+medications	RISKFACTOR
+street	RISKFACTOR
+drugs	RISKFACTOR
+sleep	SYMPTOM
+disturbances	SYMPTOM
+
+insomnia	SYMPTOM
+complaints	SYMPTOM
+
+insom-	CONDITION
+nia	CONDITION
+drug	CONCEPT
+or	CONCEPT
+substance	CONCEPT
+insomnia	SYMPTOM
+secondary	SYMPTOM
+symptom	SYMPTOM
+
+
+primary	CONDITION
+insomnia	CONDITION
+conditioned	SYMPTOM
+arousal	SYMPTOM
+poor	SYMPTOM
+sleep	SYMPTOM
+hygiene	SYMPTOM
+underestimation	RISKFACTOR
+of	RISKFACTOR
+sleep	RISKFACTOR
+time	RISKFACTOR
+
+primary	SYMPTOM
+insomnia	SYMPTOM
+
+symptom	SYMPTOM
+primary	CONDITION
+insomnias	CONDITION
+secondary	CONDITION
+insomnias	CONDITION
+
+insomnia	SYMPTOM
+psychiatric	CONCEPT
+comorbidities	CONCEPT
+
+
+insomnia	SYMPTOM
+co	CONDITION
+-	CONDITION
+occur-	CONDITION
+ring	CONDITION
+medical	CONDITION
+mental	CONDITION
+substance	CONDITION
+use	CONDITION
+disorders	CONDITION
+
+insomnia	SYMPTOM
+insom-	CONDITION
+nia	CONDITION
+
+secondary	SYMPTOM
+insomnia	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+insomnia	SYMPTOM
+
+comorbidities	CONDITION
+insomnia	SYMPTOM
+insomnia	SYMPTOM
+
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+pediatric	TEST
+diagnosis	TEST
+behavioral	CONDITION
+insomnia	CONDITION
+sleep	SYMPTOM
+difficulties	SYMPTOM
+inappropriate	RISKFACTOR
+sleep	RISKFACTOR
+associations	RISKFACTOR
+
+inappropriate	SYMPTOM
+sleep	SYMPTOM
+associations	SYMPTOM
+
+insomnia	SYMPTOM
+quiet	RISKFACTOR
+and	RISKFACTOR
+dark	RISKFACTOR
+settings	RISKFACTOR
+television	RISKFACTOR
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+
+cognitively	CONDITION
+impaired	CONDITION
+disruptive	SYMPTOM
+awakenings	SYMPTOM
+night	SYMPTOM
+wandering	SYMPTOM
+
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+dysfunc-	SYMPTOM
+tion	SYMPTOM
+childhood	CONDITION
+insomnia	CONDITION
+global	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+insomnia	SYMPTOM
+diagno-	TEST
+sis	TEST
+
+subtype	CONCEPT
+insomnia	CONDITION
+short	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+
+insom-	SYMPTOM
+nia	SYMPTOM
+complaints	SYMPTOM
+documented	DOCUMENT
+morbidity	RISKFACTOR
+
+Insomnia	CONDITION
+Insomnia	SYMPTOM
+insomnia	SYMPTOM
+insomnia	SYMPTOM
+
+chronic	SYMPTOM
+insomnia	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+insomnia	SYMPTOM
+complaints	SYMPTOM
+psychiatric	CONDITION
+illness	CONDITION
+medical	CONDITION
+disorder	CONDITION
+substance	RISKFACTOR
+use	RISKFACTOR
+
+full	CONDITION
+clinical	CONDITION
+syndrome	CONDITION
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+transient	SYMPTOM
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+
+Chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+psychiatric	CONDITION
+substance	CONDITION
+disorders	CONDITION
+lower	RISKFACTOR
+socioeco-	RISKFACTOR
+nomic	RISKFACTOR
+strata	RISKFACTOR
+
+sleep	SYMPTOM
+continuity	SYMPTOM
+medical	CONCEPT
+comorbidities	CONCEPT
+medication	TREATMENT
+insomnia	CONDITION
+
+Insomnia	SYMPTOM
+parental	RISKFACTOR
+/	RISKFACTOR
+caregiver	RISKFACTOR
+presence	RISKFACTOR
+insomnia	SYMPTOM
+limit	RISKFACTOR
+-	RISKFACTOR
+setting	RISKFACTOR
+difficulties	RISKFACTOR
+
+chronic	CONDITION
+illnesses	CONDITION
+neurodevelopmental	CONDITION
+disorders	CONDITION
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleeplessness	SYMPTOM
+
+sleep	SYMPTOM
+-	SYMPTOM
+onset	SYMPTOM
+associations	SYMPTOM
+limit	SYMPTOM
+-	SYMPTOM
+set-	SYMPTOM
+ting	SYMPTOM
+problems	SYMPTOM
+culture	CONCEPT
+
+nighttime	SYMPTOM
+awakenings	SYMPTOM
+context	CONCEPT
+culture	CONCEPT
+
+sleep	SYMPTOM
+problems	SYMPTOM
+cultural	CONCEPT
+definitions	CONCEPT
+
+diagnostic	CONCEPT
+criteria	CONCEPT
+
+Predisposing	RISKFACTOR
+and	RISKFACTOR
+Precipitating	RISKFACTOR
+Factors	RISKFACTOR
+difficulty	SYMPTOM
+sleeping	SYMPTOM
+light	SYMPTOM
+sleepers	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+
+poor	SYMPTOM
+sleep	SYMPTOM
+risk	RISKFACTOR
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+death	RISKFACTOR
+of	RISKFACTOR
+a	RISKFACTOR
+loved	RISKFACTOR
+one	RISKFACTOR
+divorce	RISKFACTOR
+marked	RISKFACTOR
+change	RISKFACTOR
+in	RISKFACTOR
+work	RISKFACTOR
+schedule	RISKFACTOR
+job	RISKFACTOR
+loss	RISKFACTOR
+major	RISKFACTOR
+life	RISKFACTOR
+changes	RISKFACTOR
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+Personality	RISKFACTOR
+factors	RISKFACTOR
+general	SYMPTOM
+well	SYMPTOM
+-	SYMPTOM
+being	SYMPTOM
+daytime	SYMPTOM
+func-	SYMPTOM
+tioning	SYMPTOM
+predisposing	CONCEPT
+characteristics	CONCEPT
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	TREATMENT
+-	TREATMENT
+promot-	TREATMENT
+ing	TREATMENT
+practices	TREATMENT
+
+psychological	CONCEPT
+style	CONCEPT
+disturbing	SYMPTOM
+affect	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+predisposing	RISKFACTOR
+trait	RISKFACTOR
+
+insomnia	SYMPTOM
+
+psychiatric	CONDITION
+conditions	CONDITION
+mood	CONDITION
+anxiety	CONDITION
+disorders	CONDITION
+increased	RISKFACTOR
+risk	RISKFACTOR
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+restless	CONDITION
+legs	CONDITION
+syndrome	CONDITION
+medical	CONDITION
+disorders	CONDITION
+GERD	CONDITION
+chronic	SYMPTOM
+pain	SYMPTOM
+breathing	SYMPTOM
+difficulties	SYMPTOM
+immobility	SYMPTOM
+increased	RISKFACTOR
+risk	RISKFACTOR
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+alcohol	CONDITION
+dependence	CONDITION
+caffeine	RISKFACTOR
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+Insomnia	SYMPTOM
+difficult	RISKFACTOR
+temperament	RISKFACTOR
+comorbid	CONDITION
+medical	CONDITION
+psychiatric	CONDITION
+conditions	CONDITION
+
+Unstable	RISKFACTOR
+home	RISKFACTOR
+situations	RISKFACTOR
+safety	RISKFACTOR
+concerns	RISKFACTOR
+domestic	RISKFACTOR
+abuse	RISKFACTOR
+
+relationship	RISKFACTOR
+factors	RISKFACTOR
+
+medical	CONDITION
+problems	CONDITION
+psychological	SYMPTOM
+harm	SYMPTOM
+
+parent	RISKFACTOR
+extended	RISKFACTOR
+family	RISKFACTOR
+cramped	RISKFACTOR
+living	RISKFACTOR
+accommodations	RISKFACTOR
+sleep	SYMPTOM
+-	SYMPTOM
+onset	SYMPTOM
+associations	SYMPTOM
+
+
+familial	CONCEPT
+pattern	CONCEPT
+insomnia	SYMPTOM
+
+insomnia	SYMPTOM
+monozygotic	RISKFACTOR
+twins	RISKFACTOR
+dizygotic	RISKFACTOR
+twins	RISKFACTOR
+first	CONCEPT
+-	CONCEPT
+degree	CONCEPT
+relatives	CONCEPT
+
+
+familial	CONCEPT
+aggregation	CONCEPT
+genetic	CONCEPT
+predisposition	CONCEPT
+learned	CONCEPT
+behavior	CONCEPT
+parental	CONCEPT
+behavior	CONCEPT
+
+Insomnia	SYMPTOM
+Insomnia	SYMPTOM
+Complications	CONDITION
+
+symptoms	SYMPTOM
+insomnia	CONDITION
+early	RISKFACTOR
+life	RISKFACTOR
+young	RISKFACTOR
+adulthood	RISKFACTOR
+
+insomnia	CONDITION
+major	RISKFACTOR
+life	RISKFACTOR
+events	RISKFACTOR
+separation	RISKFACTOR
+death	RISKFACTOR
+of	RISKFACTOR
+a	RISKFACTOR
+loved	RISKFACTOR
+one	RISKFACTOR
+minor	RISKFACTOR
+daily	RISKFACTOR
+stressors	RISKFACTOR
+sleep	SYMPTOM
+schedule	SYMPTOM
+
+insomnia	SYMPTOM
+
+sleep	SYMPTOM
+complaint	SYMPTOM
+
+diffi-	SYMPTOM
+culty	SYMPTOM
+falling	SYMPTOM
+asleep	SYMPTOM
+difficulty	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+sleep	SYMPTOM
+difficulties	SYMPTOM
+triggering	RISKFACTOR
+factor	RISKFACTOR
+
+insomnia	CONDITION
+poor	SYMPTOM
+sleep	SYMPTOM
+daytime	SYMPTOM
+impairments	SYMPTOM
+apprehension	RISKFACTOR
+insomnia	CONDITION
+sleep	SYMPTOM
+disturbances	SYMPTOM
+
+insomnia	CONDITION
+sleep	SYMPTOM
+difficulties	SYMPTOM
+stressful	RISKFACTOR
+life	RISKFACTOR
+events	RISKFACTOR
+
+persistent	CONDITION
+insomnia	CONDITION
+good	OUTCOME
+night	OUTCOME
+’s	OUTCOME
+sleep	OUTCOME
+poor	SYMPTOM
+night	SYMPTOM
+’s	SYMPTOM
+sleep	SYMPTOM
+
+70	OUTCOME
+%	OUTCOME
+insomnia	SYMPTOM
+insomnia	SYMPTOM
+50	OUTCOME
+%	OUTCOME
+insomnia	SYMPTOM
+three	OUTCOME
+years	OUTCOME
+later	OUTCOME
+
+persistent	SYMPTOM
+insomnia	SYMPTOM
+depression	CONDITION
+hypertension	CONDITION
+work	RISKFACTOR
+disability	RISKFACTOR
+prescription	DOCUMENT
+over-	TREATMENT
+the	TREATMENT
+-	TREATMENT
+counter	TREATMENT
+sleep	TREATMENT
+aids	TREATMENT
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleeplessness	SYMPTOM
+
+limit	RISKFACTOR
+-	RISKFACTOR
+setting	RISKFACTOR
+factors	RISKFACTOR
+negative	SYMPTOM
+sleep	SYMPTOM
+associations	SYMPTOM
+
+inde-	CONCEPT
+pendence	CONCEPT
+privacy	CONCEPT
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+sleep	SYMPTOM
+loss	SYMPTOM
+irritability	SYMPTOM
+decreased	SYMPTOM
+attention	SYMPTOM
+school	RISKFACTOR
+performance	RISKFACTOR
+
+family	RISKFACTOR
+tensions	RISKFACTOR
+sleep	SYMPTOM
+loss	SYMPTOM
+
+insomnia	SYMPTOM
+childhood	RISKFACTOR
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+Developmental	CONDITION
+Issues	CONDITION
+Developmental	CONDITION
+issues	CONDITION
+separation	SYMPTOM
+anxiety	SYMPTOM
+develop-	RISKFACTOR
+mental	RISKFACTOR
+milestones	RISKFACTOR
+sleep	SYMPTOM
+problems	SYMPTOM
+
+verbal	SYMPTOM
+skills	SYMPTOM
+
+insomnia	CONDITION
+disorder	CONDITION
+sleeplessness	SYMPTOM
+
+sleep	CONDITION
+disordered	CONDITION
+breathing	CONDITION
+GERD	CONDITION
+pain	SYMPTOM
+
+symptoms	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+per-	RISKFACTOR
+petuating	RISKFACTOR
+factors	RISKFACTOR
+
+phase	SYMPTOM
+delay	SYMPTOM
+endoge-	CONCEPT
+nous	CONCEPT
+circadian	CONCEPT
+rhythms	CONCEPT
+phase	SYMPTOM
+advance	SYMPTOM
+increased	SYMPTOM
+number	SYMPTOM
+of	SYMPTOM
+awakenings	SYMPTOM
+
+Epidemiological	DOCUMENT
+studies	DOCUMENT
+sleep	SYMPTOM
+onset	SYMPTOM
+difficulties	SYMPTOM
+nonrestorative	SYMPTOM
+sleep	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	CONDITION
+maintenance	CONDITION
+insomnia	CONDITION
+early	SYMPTOM
+morning	SYMPTOM
+awakening	SYMPTOM
+
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+insomnia	CONDITION
+
+sleep	SYMPTOM
+dissatisfaction	SYMPTOM
+sleep	SYMPTOM
+continuity	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+medication	TREATMENT
+
+perpetuating	RISKFACTOR
+factors	RISKFACTOR
+
+age	RISKFACTOR
+sleep	SYMPTOM
+continuity	SYMPTOM
+
+medical	CONDITION
+disorders	CONDITION
+pain	SYMPTOM
+dyspnea	SYMPTOM
+impaired	SYMPTOM
+mobility	SYMPTOM
+medications	TREATMENT
+insomnia	CONDITION
+older	RISKFACTOR
+adults	RISKFACTOR
+younger	RISKFACTOR
+adults	RISKFACTOR
+
+Hypnotic	TREATMENT
+medications	TREATMENT
+limited	OUTCOME
+benefit	OUTCOME
+insomnia	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+physiological	SYMPTOM
+hyperarousal	SYMPTOM
+
+insomnia	SYMPTOM
+comorbidities	RISKFACTOR
+physiological	TEST
+mea-	TEST
+sures	TEST
+
+
+studies	DOCUMENT
+insomnia	SYMPTOM
+corti-	TEST
+sol	TEST
+adrenocorticotropic	TEST
+hormone	TEST
+CRF	TEST
+levels	TEST
+high	TEST
+-	TEST
+frequency	TEST
+electroencephalographic	TEST
+(	TEST
+EEG	TEST
+
+Insomnia	CONDITION
+Insomnia	CONDITION
+sympathetic	CONCEPT
+nervous	CONCEPT
+system	CONCEPT
+hypothalamic	CONCEPT
+-	CONCEPT
+pitu-	CONCEPT
+itary	CONCEPT
+-	CONCEPT
+adrenal	CONCEPT
+axis	CONCEPT
+
+insomnia	CONDITION
+subjective	SYMPTOM
+-	SYMPTOM
+objective	SYMPTOM
+sleep	SYMPTOM
+discrepancies	SYMPTOM
+insomnia	CONDITION
+short	SYMPTOM
+objective	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+
+insomnia	SYMPTOM
+mental	CONDITION
+disorders	CONDITION
+
+structural	SYMPTOM
+brain	SYMPTOM
+pathology	SYMPTOM
+insom-	CONDITION
+nia	CONDITION
+
+insomnia	SYMPTOM
+neurological	CONDITION
+disorders	CONDITION
+stroke	CONDITION
+brain	CONDITION
+trauma	CONDITION
+multiple	CONDITION
+sclerosis	CONDITION
+brain	CONDITION
+lesions	CONDITION
+insomnia	SYMPTOM
+neurological	SYMPTOM
+symptom	SYMPTOM
+
+reduced	SYMPTOM
+hippocampal	SYMPTOM
+anterior	SYMPTOM
+cingulate	SYMPTOM
+volume	SYMPTOM
+
+
+polysomnography	TEST
+sleep	CONDITION
+disorders	CONDITION
+sleep	SYMPTOM
+-	SYMPTOM
+disordered	SYMPTOM
+breathing	SYMPTOM
+criteria	CONCEPT
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+sleep	CONDITION
+disorders	CONDITION
+polysomnographic	TEST
+sleep	TEST
+monitoring	TEST
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+increased	SYMPTOM
+sleep	SYMPTOM
+latency	SYMPTOM
+reduced	SYMPTOM
+sleep	SYMPTOM
+efficiency	SYMPTOM
+age	RISKFACTOR
+-	RISKFACTOR
+appropriate	RISKFACTOR
+norms	RISKFACTOR
+
+
+reduced	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+less	OUTCOME
+than	OUTCOME
+six	OUTCOME
+hours	OUTCOME
+
+stage	TEST
+N1	TEST
+sleep	TEST
+slow	TEST
+wave	TEST
+sleep	TEST
+
+sleep	SYMPTOM
+difficulty	SYMPTOM
+first	OUTCOME
+-	OUTCOME
+night	OUTCOME
+effect	OUTCOME
+sleep	TEST
+laboratory	TEST
+
+sleep	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+difficulties	SYMPTOM
+polysomnographic	TEST
+PSG	TEST
+
+insomnia	CONDITION
+power	OUTCOME
+density	OUTCOME
+measures	OUTCOME
+sleep	TEST
+EEG	TEST
+sleep	SYMPTOM
+complaints	SYMPTOM
+
+high	CONCEPT
+frequency	CONCEPT
+beta	CONCEPT
+and	CONCEPT
+gamma	CONCEPT
+ranges	CONCEPT
+
+reports	DOCUMENT
+elevated	OUTCOME
+high	OUTCOME
+-	OUTCOME
+frequency	OUTCOME
+power	OUTCOME
+insomnia	CONDITION
+sleep	TEST
+mea-	TEST
+sures	TEST
+insomnia	CONDITION
+sleep	SYMPTOM
+disturbances	SYMPTOM
+sleep	SYMPTOM
+complaints	SYMPTOM
+
+PSG	TEST
+actigraphy	TEST
+night	SYMPTOM
+-	SYMPTOM
+to	SYMPTOM
+-	SYMPTOM
+night	SYMPTOM
+vari-	SYMPTOM
+ability	SYMPTOM
+
+good	SYMPTOM
+sleepers	SYMPTOM
+
+insomnia	SYMPTOM
+polysom-	TEST
+nography	TEST
+PSG	TEST
+
+subjective	SYMPTOM
+insomnia	SYMPTOM
+sleep	SYMPTOM
+state	SYMPTOM
+misperception	SYMPTOM
+paradoxical	CONDITION
+insomnia	CONDITION
+
+insomnia	CONDITION
+sleep	SYMPTOM
+duration	SYMPTOM
+sleep	SYMPTOM
+latency	SYMPTOM
+awakenings	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+sleep	SYMPTOM
+latency	SYMPTOM
+awakenings	SYMPTOM
+PSG	TEST
+
+subjective	CONCEPT
+-	CONCEPT
+ob-	CONCEPT
+jective	CONCEPT
+mismatch	CONCEPT
+physiological	SYMPTOM
+hyperarousal	SYMPTOM
+insomnia	SYMPTOM
+
+Multiple	TEST
+Sleep	TEST
+Latency	TEST
+Test	TEST
+MSLT	TEST
+
+insomnia	SYMPTOM
+MSLT	TEST
+hyperalertness	SYMPTOM
+hyperarousal	SYMPTOM
+
+insomnia	CONDITION
+insomnia	CONDITION
+MSLT	TEST
+sleepiness	SYMPTOM
+
+sleep	CONDITION
+disorders	CONDITION
+obstructive	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+PSG	TEST
+monitoring	TEST
+
+PSG	TEST
+MSLT	TEST
+insomnia	CONDITION
+disorder	CONDITION
+
+PSG	TEST
+symptoms	SYMPTOM
+bed	RISKFACTOR
+partner	RISKFACTOR
+observations	RISKFACTOR
+sleep	CONDITION
+disordered	CONDITION
+breathing	CONDITION
+periodic	CONDITION
+limb	CONDITION
+movements	CONDITION
+
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+excessive	RISKFACTOR
+daytime	RISKFACTOR
+sleepiness	RISKFACTOR
+PSG	TEST
+MSLT	TEST
+narcolepsy	CONDITION
+
+insom-	TREATMENT
+nia	TREATMENT
+therapies	TREATMENT
+treatment	OUTCOME
+response	OUTCOME
+PSG	TEST
+sleep	SYMPTOM
+disorder	SYMPTOM
+
+functional	TEST
+imaging	TEST
+studies	TEST
+insomnia	SYMPTOM
+control	RISKFACTOR
+groups	RISKFACTOR
+
+insomnia	SYMPTOM
+
+Insomnia	SYMPTOM
+Insomnia	SYMPTOM
+insomnia	SYMPTOM
+
+sleep	SYMPTOM
+disruptions	SYMPTOM
+
+animal	CONCEPT
+model	CONCEPT
+stress	SYMPTOM
+-	SYMPTOM
+induced	SYMPTOM
+insomnia	SYMPTOM
+
+nuclear	TEST
+magnetic	TEST
+resonance	TEST
+spectroscopy	TEST
+insomnia	SYMPTOM
+
+blood	TEST
+oxygenation	TEST
+level	TEST
+dependent	TEST
+functional	TEST
+magnetic	TEST
+resonance	TEST
+imaging	TEST
+BOLD	TEST
+fMRI	TEST
+paradigms	CONCEPT
+reduced	OUTCOME
+activation	OUTCOME
+insomnia	SYMPTOM
+
+normalization	CONCEPT
+cognitive	TREATMENT
+behavioral	TREATMENT
+treatment	TREATMENT
+
+Differential	TREATMENT
+Diagnosis	TREATMENT
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+difficulty	SYMPTOM
+initiating	SYMPTOM
+sleep	SYMPTOM
+delayed	CONDITION
+sleep	CONDITION
+-	CONDITION
+wake	CONDITION
+phase	CONDITION
+disorder	CONDITION
+
+endogenous	CONCEPT
+circadian	CONCEPT
+rhythm	CONCEPT
+sleep	CONCEPT
+schedule	CONCEPT
+
+Sleep	SYMPTOM
+-	SYMPTOM
+onset	SYMPTOM
+difficulties	SYMPTOM
+endogenous	CONCEPT
+circadian	CONCEPT
+rhythm	CONCEPT
+
+delayed	CONDITION
+sleep	CONDITION
+-	CONDITION
+wake	CONDITION
+phase	CONDITION
+disorder	CONDITION
+delayed	CONCEPT
+endogenous	CONCEPT
+rhythm	CONCEPT
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleepy	SYMPTOM
+
+sleep	SYMPTOM
+problems	SYMPTOM
+insomnia	CONDITION
+disorder	CONDITION
+
+delayed	CONDITION
+sleep-	CONDITION
+wake	CONDITION
+phase	CONDITION
+disorder	CONDITION
+comorbid	TEST
+diagnosis	TEST
+sleep	SYMPTOM
+onset	SYMPTOM
+insomnia	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+difficulty	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+pre-	RISKFACTOR
+mature	RISKFACTOR
+morning	RISKFACTOR
+rise	RISKFACTOR
+times	RISKFACTOR
+advanced	CONDITION
+sleep	CONDITION
+-	CONDITION
+wake	CONDITION
+phase	CONDITION
+disorder	CONDITION
+
+
+advanced	CONDITION
+sleep	CONDITION
+phase	CONDITION
+pattern	CONDITION
+endogenous	CONCEPT
+circadian	CONCEPT
+rhythm	CONCEPT
+sleep	CONCEPT
+schedule	CONCEPT
+
+circadian	CONCEPT
+rhythm	CONCEPT
+
+chronic	CONDITION
+insomnia	CONDITION
+dis-	CONDITION
+order	CONDITION
+sleep	SYMPTOM
+maintenance	SYMPTOM
+difficulties	SYMPTOM
+early	RISKFACTOR
+morning	RISKFACTOR
+rise	RISKFACTOR
+time	RISKFACTOR
+sleep	CONCEPT
+schedule	CONCEPT
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+advanced	CONDITION
+sleep	CONDITION
+-	CONDITION
+wake	CONDITION
+phase	CONDITION
+disorders	CONDITION
+
+delayed	CONDITION
+sleep	CONDITION
+pattern	CONDITION
+frustrated	SYMPTOM
+anxious	SYMPTOM
+frustration	SYMPTOM
+anxiety	SYMPTOM
+endogenous	CONCEPT
+rhythm	CONCEPT
+
+Early	SYMPTOM
+morning	SYMPTOM
+awakenings	SYMPTOM
+sleep	SYMPTOM
+disruptive	SYMPTOM
+effects	SYMPTOM
+advanced	CONCEPT
+sleep	CONCEPT
+phase	CONCEPT
+
+circadian	TEST
+rhythm	TEST
+sleep	TEST
+-	TEST
+wake	TEST
+disorder	TEST
+diagnosis	TEST
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+Chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+situational	SYMPTOM
+sleep	SYMPTOM
+dif-	SYMPTOM
+ficulties	SYMPTOM
+sleep	RISKFACTOR
+-	RISKFACTOR
+disruptive	RISKFACTOR
+environmental	RISKFACTOR
+circumstances	RISKFACTOR
+
+excessive	RISKFACTOR
+noise	RISKFACTOR
+light	RISKFACTOR
+extreme	RISKFACTOR
+temperatures	RISKFACTOR
+sleep	SYMPTOM
+
+imminent	RISKFACTOR
+threat	RISKFACTOR
+danger	RISKFACTOR
+safety	RISKFACTOR
+
+snore	SYMPTOM
+loudly	SYMPTOM
+parasomnias	CONDITION
+
+environmental	RISKFACTOR
+circumstances	RISKFACTOR
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+Chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+difficulty	SYMPTOM
+sleep	RISKFACTOR
+-	RISKFACTOR
+conducive	RISKFACTOR
+envi-	RISKFACTOR
+ronment	RISKFACTOR
+circumstances	RISKFACTOR
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+environmental	RISKFACTOR
+factors	RISKFACTOR
+
+environmental	RISKFACTOR
+circumstances	RISKFACTOR
+sleep	SYMPTOM
+disturbance	SYMPTOM
+diagnosis	TEST
+sleep	CONDITION
+disorder	CONDITION
+
+Chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+chronic	CONDITION
+voli-	CONDITION
+tional	CONDITION
+sleep	CONDITION
+restriction	CONDITION
+insufficient	SYMPTOM
+sleep	SYMPTOM
+syndrome	SYMPTOM
+
+excessive	SYMPTOM
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+fatigue	SYMPTOM
+reduced	SYMPTOM
+sleep	SYMPTOM
+
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+excessive	SYMPTOM
+wake	SYMPTOM
+time	SYMPTOM
+reduced	SYMPTOM
+sleep	SYMPTOM
+time	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+excessive	SYMPTOM
+daytime	SYMPTOM
+sleepi-	SYMPTOM
+ness	SYMPTOM
+unintentional	SYMPTOM
+daytime	SYMPTOM
+sleep	SYMPTOM
+episodes	SYMPTOM
+volitional	SYMPTOM
+sleep	SYMPTOM
+restriction	SYMPTOM
+
+Insomnia	SYMPTOM
+symptoms	SYMPTOM
+comorbid	RISKFACTOR
+sleep	CONDITION
+disorder	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+restless	CONDITION
+legs	CONDITION
+syndrome	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+Insomnia	CONDITION
+Insomnia	CONDITION
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+symptoms	SYMPTOM
+sleep	CONDITION
+disorder	CONDITION
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+adequate	TREATMENT
+treatment	TREATMENT
+symptom	SYMPTOM
+sleep	CONDITION
+disorder	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+diagnosis	TEST
+treatment	TREATMENT
+sleep	CONDITION
+disorder	CONDITION
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+insomnia	CONDITION
+
+insomnia	SYMPTOM
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+separation	CONDITION
+anxiety	CONDITION
+anxiety	CONDITION
+disorder	CONDITION
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+gas-	CONDITION
+troesophageal	CONDITION
+reflux	CONDITION
+developmental	CONCEPT
+milestones	CONCEPT
+language	CONCEPT
+cognitive	CONCEPT
+development	CONCEPT
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+psychiatric	CONDITION
+disorder	CONDITION
+
+Insomnia	SYMPTOM
+symp-	SYMPTOM
+toms	SYMPTOM
+sleep	CONDITION
+disorder	CONDITION
+medical	CONDITION
+condition	CONDITION
+psychiatric	CONDITION
+disorder	CONDITION
+sleep	RISKFACTOR
+-	RISKFACTOR
+disruptive	RISKFACTOR
+effects	RISKFACTOR
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+symptoms	SYMPTOM
+sleep	CONDITION
+medical	CONDITION
+psychiatric	CONDITION
+disorder	CONDITION
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+ade-	TREATMENT
+quate	TREATMENT
+treatment	TREATMENT
+symptom	SYMPTOM
+improvement	CONCEPT
+sleep	CONDITION
+medical	CONDITION
+psychiatric	CONDITION
+disorder	CONDITION
+
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+symptoms	SYMPTOM
+persistent	RISKFACTOR
+chronic	CONDITION
+medical	CONDITION
+psychiatric	CONDITION
+disorder	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+diagnosis	TEST
+treatment	TREATMENT
+sleep	CONDITION
+psychiatric	CONDITION
+disorder	CONDITION
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+
+
+insomnia	SYMPTOM
+insomnia	SYMPTOM
+unitary	CONDITION
+disorder	CONDITION
+subtypes	CONCEPT
+
+
+insomnia	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+single	CONDITION
+disease	CONDITION
+multiple	CONDITION
+separate	CONDITION
+diseases	CONDITION
+
+global	CONCEPT
+classification	CONCEPT
+insomnia	TREATMENT
+therapy	TREATMENT
+insomnia	SYMPTOM
+subgroups	CONCEPT
+
+insomnia	SYMPTOM
+generic	TREATMENT
+treatments	TREATMENT
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+insomnia	CONDITION
+diagnosis	TEST
+com-	SYMPTOM
+plaints	SYMPTOM
+nonrestorative	SYMPTOM
+sleep	SYMPTOM
+poor	SYMPTOM
+in	SYMPTOM
+quality	SYMPTOM
+unrefreshing	SYMPTOM
+sleep	SYMPTOM
+-	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+insomnia	CONDITION
+diagnosis	TEST
+
+nosology	CONCEPT
+insomnia	SYMPTOM
+diagnostic	CONCEPT
+categories	CONCEPT
+
+
+insom-	CONDITION
+nia	CONDITION
+sleep	SYMPTOM
+initiation	SYMPTOM
+maintenance	SYMPTOM
+difficulties	SYMPTOM
+
+nonrestorative	SYMPTOM
+sleep	SYMPTOM
+symptoms	SYMPTOM
+insomnia	SYMPTOM
+sleep	CONDITION
+disordered	CONDITION
+breathing	CONDITION
+sleep	CONDITION
+disorders	CONDITION
+chronic	CONDITION
+medical	CONDITION
+conditions	CONDITION
+fibromyalgia	CONDITION
+chronic	CONDITION
+fatigue	CONDITION
+syndrome	CONDITION
+
+epidemiological	DOCUMENT
+studies	DOCUMENT
+insomnia	CONDITION
+disorder	CONDITION
+non-	SYMPTOM
+restorative	SYMPTOM
+unrefreshing	SYMPTOM
+polysomnography	TEST
+sleep	CONDITION
+disorders	CONDITION
+
+nonrestorative	CONDITION
+sleep	CONDITION
+sleep	SYMPTOM
+disturbance	SYMPTOM
+poor	CONDITION
+sleep	CONDITION
+fatigue	SYMPTOM
+anergia	SYMPTOM
+
+clinical	CONCEPT
+significance	CONCEPT
+insomnia	SYMPTOM
+
+nonrestorative	SYMPTOM
+sleep	SYMPTOM
+diagnostic	TEST
+definition	TEST
+insomnia	CONDITION
+disorders	CONDITION
+manual	DOCUMENT
+
+
+Insomnia	SYMPTOM
+predictor	RISKFACTOR
+depression	CONDITION
+meta	DOCUMENT
+-	DOCUMENT
+analytic	DOCUMENT
+evaluation	DOCUMENT
+longitudinal	DOCUMENT
+epidemiological	DOCUMENT
+studies	DOCUMENT
+
+J	DOCUMENT
+Affect	DOCUMENT
+Dis	DOCUMENT
+
+Chronic	CONDITION
+psychophysiological	CONDITION
+insomnia	CONDITION
+hyperarousal	SYMPTOM
+inhibition	SYMPTOM
+deficits	SYMPTOM
+
+ERPs	CONCEPT
+
+Sleep	SYMPTOM
+
+
+Family	DOCUMENT
+history	DOCUMENT
+insomnia	SYMPTOM
+population	RISKFACTOR
+-	RISKFACTOR
+based	RISKFACTOR
+sample	RISKFACTOR
+
+Sleep	SYMPTOM
+
+Family	CONCEPT
+disorganization	CONCEPT
+sleep	CONDITION
+hygiene	CONDITION
+sleep	SYMPTOM
+disturbance	SYMPTOM
+
+J	DOCUMENT
+Clin	DOCUMENT
+Child	DOCUMENT
+Adolesc	DOCUMENT
+Psychol	DOCUMENT
+
+Arand	DOCUMENT
+DL	DOCUMENT
+metabolic	TEST
+rate	TEST
+insomniacs	SYMPTOM
+
+
+
+Heart	TEST
+rate	TEST
+insomniacs	SYMPTOM
+normal	SYMPTOM
+sleepers	SYMPTOM
+
+Psychosom	DOCUMENT
+Med	DOCUMENT
+
+Hyperarousal	SYMPTOM
+insomnia	SYMPTOM
+State	CONCEPT
+of	CONCEPT
+the	CONCEPT
+science	CONCEPT
+
+Sleep	DOCUMENT
+Med	DOCUMENT
+Rev	DOCUMENT
+
+comorbidity	CONCEPT
+insomnia	SYMPTOM
+depression	CONDITION
+
+Sleep	SYMPTOM
+
+Short	DOCUMENT
+MA	DOCUMENT
+
+Insomnia	CONDITION
+symptoms	SYMPTOM
+DSM	DOCUMENT
+-	DOCUMENT
+IV	DOCUMENT
+ICSD	TEST
+-	TEST
+II	TEST
+diagnostic	CONCEPT
+criteria	CONCEPT
+
+J	DOCUMENT
+Clin	DOCUMENT
+Sleep	DOCUMENT
+Med	DOCUMENT
+
+
+DSM	DOCUMENT
+-	DOCUMENT
+IV	DOCUMENT
+-	DOCUMENT
+TR	DOCUMENT
+ICSD-2	DOCUMENT
+insomnia	SYMPTOM
+diagnoses	TREATMENT
+results	OUTCOME
+multi	TEST
+-	TEST
+method	TEST
+/	TEST
+multi	TEST
+-	TEST
+trait	TEST
+analysis	TEST
+
+Arch	DOCUMENT
+Gen	DOCUMENT
+Psychiatry	DOCUMENT
+
+
+EEG	TEST
+sleep	SYMPTOM
+complaints	SYMPTOM
+primary	CONDITION
+insomnia	CONDITION
+
+
+
+chronic	SYMPTOM
+insomnia	SYMPTOM
+
+Sleep	DOCUMENT
+Med	DOCUMENT
+
+
+Secondary	SYMPTOM
+insomnia	SYMPTOM
+
+Lichstein	DOCUMENT
+KL	DOCUMENT
+Morin	DOCUMENT
+CM	DOCUMENT
+
+Treatment	TREATMENT
+late	SYMPTOM
+-	SYMPTOM
+life	SYMPTOM
+insomnia	SYMPTOM
+
+
+Behavioral	TREATMENT
+treatment	TREATMENT
+bedtime	CONDITION
+problems	CONDITION
+night	SYMPTOM
+wakings	SYMPTOM
+
+Sleep	SYMPTOM
+
+
+
+Sleep	DOCUMENT
+Med	DOCUMENT
+
+
+behavioral	TREATMENT
+treatment	TREATMENT
+bedtime	CONDITION
+problems	CONDITION
+night	SYMPTOM
+wakings	SYMPTOM
+
+Sleep	SYMPTOM
+
+
+natural	CONCEPT
+history	CONCEPT
+insomnia	SYMPTOM
+
+Arch	DOCUMENT
+Intern	DOCUMENT
+Med	DOCUMENT
+
+
+Functional	TEST
+neuroimaging	TEST
+hyperarousal	SYMPTOM
+insomnia	CONDITION
+
+Am	DOCUMENT
+J	DOCUMENT
+Psychiatry	DOCUMENT
+
+
+insomnia	SYMPTOM
+
+J	DOCUMENT
+Clin	DOCUMENT
+Sleep	DOCUMENT
+Med	DOCUMENT
+
+
+insomnia	SYMPTOM
+
+Sleep	DOCUMENT
+Med	DOCUMENT
+Rev	DOCUMENT
+
+Comorbidity	CONCEPT
+mental	CONDITION
+insomnia	SYMPTOM
+
+Compr	DOCUMENT
+Psychiatry	DOCUMENT
+
+
+sleep	CONDITION
+disorders	CONDITION
+diagnoses	TEST
+DSM	DOCUMENT
+-	DOCUMENT
+IV	DOCUMENT
+ICSD	CONCEPT
+
+Sleep	SYMPTOM
+
+
+Beta	TEST
+/	TEST
+gamma	TEST
+EEG	TEST
+activity	OUTCOME
+secondary	SYMPTOM
+insomnia	SYMPTOM
+good	RISKFACTOR
+sleeper	RISKFACTOR
+controls	RISKFACTOR
+
+Sleep	SYMPTOM
+
+
+Chronic	SYMPTOM
+insomnia	SYMPTOM
+MRI	TREATMENT
+hippocampal	OUTCOME
+volumes	OUTCOME
+
+pilot	DOCUMENT
+study	DOCUMENT
+
+Sleep	SYMPTOM
+
+
+hyperarousal	SYMPTOM
+insomnia	SYMPTOM
+concept	CONCEPT
+
+Sleep	DOCUMENT
+Med	DOCUMENT
+Rev	DOCUMENT
+
+symptoms	SYMPTOM
+insomnia	CONDITION
+
+
+
+instability	SYMPTOM
+sleep	SYMPTOM
+DSM	DOCUMENT
+-	DOCUMENT
+IV	DOCUMENT
+-	DOCUMENT
+TR	DOCUMENT
+insomnia	CONDITION
+subtypes	CONCEPT
+
+Sleep	DOCUMENT
+
+Daytime	SYMPTOM
+alertness	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+asymptomatic	SYMPTOM
+
+
+Insomnia	SYMPTOM
+short	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+high	RISKFACTOR
+risk	RISKFACTOR
+hypertension	CONDITION
+
+
+
+brain	CONDITION
+GABA	CONDITION
+primary	SYMPTOM
+insomnia	SYMPTOM
+4	TEST
+T	TEST
+proton	TEST
+magnetic	TEST
+resonance	TEST
+spectroscopy	TEST
+1H	TEST
+-	TEST
+MRS	TEST
+
+Sleep	SYMPTOM
+
+
+primary	SYMPTOM
+insomnia	SYMPTOM
+good	RISKFACTOR
+sleeper	RISKFACTOR
+controls	RISKFACTOR
+MRI	TEST
+3	TEST
+Tesla	TEST
+
+Sleep	DOCUMENT
+Med	DOCUMENT
+
+
+community	DOCUMENT
+-	DOCUMENT
+based	DOCUMENT
+study	DOCUMENT
+insomnia	SYMPTOM
+Prevalence	OUTCOME
+risk	RISKFACTOR
+factors	RISKFACTOR
+familial	CONDITION
+aggregation	CONDITION
+
+Sleep	DOCUMENT
+Med	DOCUMENT
+
+Short	CONDITION
+-	CONDITION
+Term	CONDITION
+Insomnia	CONDITION
+Disorder	CONDITION
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+Acute	SYMPTOM
+insomnia	SYMPTOM
+adjustment	SYMPTOM
+insomnia	SYMPTOM
+
+
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+
+Insomnia	SYMPTOM
+
+Difficulty	SYMPTOM
+initiating	SYMPTOM
+sleep	SYMPTOM
+
+Difficulty	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+
+
+
+Difficulty	SYMPTOM
+sleeping	SYMPTOM
+
+nighttime	SYMPTOM
+sleep	SYMPTOM
+difficulty	SYMPTOM
+
+Fatigue	SYMPTOM
+malaise	SYMPTOM
+
+Attention	SYMPTOM
+concentration	SYMPTOM
+memory	SYMPTOM
+impairment	SYMPTOM
+
+academic	SYMPTOM
+performance	SYMPTOM
+
+Mood	SYMPTOM
+disturbance	SYMPTOM
+irritability	SYMPTOM
+
+Daytime	SYMPTOM
+sleepiness	SYMPTOM
+
+Behavioral	CONDITION
+problems	CONDITION
+hyperactivity	SYMPTOM
+impulsivity	SYMPTOM
+aggression	SYMPTOM
+
+Reduced	SYMPTOM
+motivation	SYMPTOM
+
+errors	RISKFACTOR
+/	RISKFACTOR
+accidents	RISKFACTOR
+
+
+
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+complaints	SYMPTOM
+safe	CONCEPT
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+daytime	SYMPTOM
+symptoms	SYMPTOM
+
+
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+difficulty	SYMPTOM
+sleep	CONDITION
+disorder	CONDITION
+
+
+difficulties	SYMPTOM
+initiating	SYMPTOM
+sleep	SYMPTOM
+difficulties	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+waking	SYMPTOM
+up	SYMPTOM
+too	SYMPTOM
+early	SYMPTOM
+
+difficulty	SYMPTOM
+sleeping	SYMPTOM
+dementia	CONDITION
+
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep/	SYMPTOM
+wake	SYMPTOM
+difficulties	SYMPTOM
+clinically	RISKFACTOR
+significant	RISKFACTOR
+concerns	RISKFACTOR
+symptoms	SYMPTOM
+clinical	RISKFACTOR
+attention	RISKFACTOR
+
+grief	CONDITION
+acute	SYMPTOM
+pain	SYMPTOM
+acute	RISKFACTOR
+stressors	RISKFACTOR
+poor	SYMPTOM
+sleep	SYMPTOM
+
+sleep	SYMPTOM
+difficulty	SYMPTOM
+insomnia	CONDITION
+
+insomnia	CONDITION
+diagnosis	TEST
+sleep	SYMPTOM
+disturbance	SYMPTOM
+independent	RISKFACTOR
+clinical	RISKFACTOR
+attention	RISKFACTOR
+
+insomnia	CONDITION
+disorder	CONDITION
+short	SYMPTOM
+-	SYMPTOM
+term	SYMPTOM
+difficulty	SYMPTOM
+ini-	SYMPTOM
+tiating	SYMPTOM
+or	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+general	SYMPTOM
+sleep	SYMPTOM
+dissatisfaction	SYMPTOM
+
+sleep	SYMPTOM
+complaint	SYMPTOM
+daytime	SYMPTOM
+distress	SYMPTOM
+poor	SYMPTOM
+sleep	SYMPTOM
+family	CONCEPT
+social	CONCEPT
+occupational	CONCEPT
+academic	CONCEPT
+other	CONCEPT
+important	CONCEPT
+areas	CONCEPT
+of	CONCEPT
+functioning	CONCEPT
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+daytime	SYMPTOM
+symptoms	SYMPTOM
+
+insomnia	SYMPTOM
+disorder	SYMPTOM
+isolation	CONCEPT
+mental	CONDITION
+disorder	CONDITION
+medical	CONDITION
+condition	CONDITION
+substance	CONDITION
+use	CONDITION
+
+short	SYMPTOM
+-	SYMPTOM
+term	SYMPTOM
+insomnia	SYMPTOM
+
+insomnia	SYMPTOM
+daytime	RISKFACTOR
+stressors	RISKFACTOR
+insomnia	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+complaints	SYMPTOM
+insomnia	CONDITION
+disorder	CONDITION
+difficulties	SYMPTOM
+initiating	SYMPTOM
+sleep	SYMPTOM
+
+
+Short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+
+sleep	SYMPTOM
+complaints	SYMPTOM
+sleep	SYMPTOM
+onset	SYMPTOM
+difficulties	SYMPTOM
+sleep	SYMPTOM
+maintenance	SYMPTOM
+difficulties	SYMPTOM
+
+poor	SYMPTOM
+-	SYMPTOM
+quality	SYMPTOM
+unrefreshing	SYMPTOM
+nonrestorative	SYMPTOM
+sleep	SYMPTOM
+sleep	SYMPTOM
+onset	SYMPTOM
+sleep	SYMPTOM
+mainte-	SYMPTOM
+nance	SYMPTOM
+complaints	SYMPTOM
+
+Sleep	SYMPTOM
+disturbance	SYMPTOM
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+waking	SYMPTOM
+symptoms	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+fatigue	SYMPTOM
+impaired	SYMPTOM
+attention	SYMPTOM
+and	SYMPTOM
+concentration	SYMPTOM
+poor	SYMPTOM
+memory	SYMPTOM
+irritability	SYMPTOM
+distress	SYMPTOM
+poor	SYMPTOM
+sleep	SYMPTOM
+
+insomnia	CONDITION
+stressful	RISKFACTOR
+life	RISKFACTOR
+event	RISKFACTOR
+loss	RISKFACTOR
+of	RISKFACTOR
+a	RISKFACTOR
+loved	RISKFACTOR
+one	RISKFACTOR
+major	CONDITION
+illness	CONDITION
+divorce	RISKFACTOR
+anxiety	SYMPTOM
+worry	SYMPTOM
+ruminative	SYMPTOM
+thoughts	SYMPTOM
+sadness	SYMPTOM
+depression	SYMPTOM
+stressor	CONCEPT
+
+alcohol	RISKFACTOR
+illicit	RISKFACTOR
+drugs	RISKFACTOR
+medications	RISKFACTOR
+self	TREATMENT
+-	TREATMENT
+treatment	TREATMENT
+symptoms	SYMPTOM
+
+
+Short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+insomnia	CONDITION
+stressors	RISKFACTOR
+sleep	SYMPTOM
+disturbances	SYMPTOM
+
+insomnia	SYMPTOM
+disorder	SYMPTOM
+
+insomnia	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+older	RISKFACTOR
+age	RISKFACTOR
+groups	RISKFACTOR
+
+Predisposing	RISKFACTOR
+and	RISKFACTOR
+Precipitating	RISKFACTOR
+Factors	RISKFACTOR
+light	SYMPTOM
+sleep	SYMPTOM
+diffi-	SYMPTOM
+culty	SYMPTOM
+sleeping	SYMPTOM
+stress	CONDITION
+
+previous	RISKFACTOR
+history	RISKFACTOR
+anxiety	CONDITION
+depressive	CONDITION
+Insomnia	CONDITION
+Insomnia	CONDITION
+symptoms	SYMPTOM
+disorders	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+insomnia	SYMPTOM
+sleep	CONCEPT
+/	CONCEPT
+wake	CONCEPT
+schedule	CONCEPT
+
+acute	RISKFACTOR
+,	RISKFACTOR
+identifiable	RISKFACTOR
+event	RISKFACTOR
+stressor	RISKFACTOR
+insomnia	SYMPTOM
+
+interpersonal	CONCEPT
+relation-	CONCEPT
+ships	CONCEPT
+occupational	RISKFACTOR
+stress	RISKFACTOR
+medical	CONDITION
+condition	CONDITION
+
+
+insomnia	SYMPTOM
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+environ-	CONCEPT
+mental	CONCEPT
+factors	CONCEPT
+sib-	RISKFACTOR
+lings	RISKFACTOR
+extended	RISKFACTOR
+family	RISKFACTOR
+cramped	RISKFACTOR
+living	RISKFACTOR
+accommodations	RISKFACTOR
+negative	SYMPTOM
+sleep	SYMPTOM
+-	SYMPTOM
+onset	SYMPTOM
+associations	SYMPTOM
+poor	SYMPTOM
+limit	SYMPTOM
+setting	SYMPTOM
+
+Familial	RISKFACTOR
+patterns	RISKFACTOR
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disor-	CONDITION
+der	CONDITION
+criteria	CONCEPT
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+familial	CONDITION
+aggregation	CONDITION
+chronic	CONDITION
+insomnia	CONDITION
+disorders	CONDITION
+insomnia	SYMPTOM
+
+genetic	SYMPTOM
+diathesis	SYMPTOM
+stressors	RISKFACTOR
+
+constitutional	CONCEPT
+predisposition	CONCEPT
+adjustment	SYMPTOM
+insomnia	SYMPTOM
+
+insomnia	CONDITION
+disorder	CONDITION
+remission	OUTCOME
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+
+distress	SYMPTOM
+stressor	RISKFACTOR
+
+short	SYMPTOM
+-	SYMPTOM
+term	SYMPTOM
+insomnia	SYMPTOM
+insomnia	SYMPTOM
+criteria	CONCEPT
+chronic	CONDITION
+insomnia	CONDITION
+dis-	CONDITION
+order	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+Developmental	CONDITION
+Issues	CONDITION
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+stress	RISKFACTOR
+young	RISKFACTOR
+and	RISKFACTOR
+older	RISKFACTOR
+individuals	RISKFACTOR
+insomnia	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+onset	SYMPTOM
+difficulties	SYMPTOM
+young	RISKFACTOR
+adults	RISKFACTOR
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+sleep	SYMPTOM
+maintenance	SYMPTOM
+complaints	SYMPTOM
+early	SYMPTOM
+morning	SYMPTOM
+awakening	SYMPTOM
+middle	RISKFACTOR
+-	RISKFACTOR
+aged	RISKFACTOR
+older	RISKFACTOR
+adults	RISKFACTOR
+
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+family	RISKFACTOR
+stressors	RISKFACTOR
+insomnia	SYMPTOM
+
+insomnia	SYMPTOM
+disorder	SYMPTOM
+comorbid	CONDITION
+chronic	CONDITION
+medical	CONDITION
+con-	CONDITION
+ditions	CONDITION
+loss	RISKFACTOR
+of	RISKFACTOR
+loved	RISKFACTOR
+ones	RISKFACTOR
+advancing	RISKFACTOR
+age	RISKFACTOR
+
+insomnia	CONDITION
+disorder	CONDITION
+chronic	CONDITION
+insomnia	CONDITION
+disorders	CONDITION
+
+Differential	TREATMENT
+Diagnosis	TREATMENT
+Short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+short	SYMPTOM
+-	SYMPTOM
+term	SYMPTOM
+insomnia	SYMPTOM
+disor-	SYMPTOM
+der	SYMPTOM
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+diagnosis	TEST
+
+insomnia	CONDITION
+disorder	CONDITION
+circadian	CONDITION
+rhythm	CONDITION
+sleep	CONDITION
+-	CONDITION
+wake	CONDITION
+disorders	CONDITION
+rotating	RISKFACTOR
+shift	RISKFACTOR
+work	RISKFACTOR
+jet	RISKFACTOR
+lag	RISKFACTOR
+
+sleep	SYMPTOM
+disturbance	SYMPTOM
+sleep	CONCEPT
+-	CONCEPT
+wake	CONCEPT
+schedule	CONCEPT
+endogenous	CONCEPT
+circadian	CONCEPT
+rhythm	CONCEPT
+sleep	CONCEPT
+-	CONCEPT
+wake	CONCEPT
+schedule	CONCEPT
+
+insomnia	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+onset	SYMPTOM
+maintenance	SYMPTOM
+difficulties	SYMPTOM
+
+Williams	DOCUMENT
+RL	DOCUMENT
+
+EEG	TEST
+
+Psychophysiology	DOCUMENT
+
+Zurich	DOCUMENT
+Study	DOCUMENT
+
+
+Insomnia	CONDITION
+symptoms	SYMPTOM
+classification	CONCEPT
+
+Eur	DOCUMENT
+Arch	DOCUMENT
+Psychiatry	DOCUMENT
+Clin	DOCUMENT
+Neurosci	DOCUMENT
+
+
+insomnia	SYMPTOM
+life-	RISKFACTOR
+stress	RISKFACTOR
+events	RISKFACTOR
+
+Psychosom	DOCUMENT
+Med	DOCUMENT
+
+coping	CONCEPT
+skills	CONCEPT
+primary	SYMPTOM
+insomnia	SYMPTOM
+
+Psychosom	DOCUMENT
+Med	DOCUMENT
+
+short	SYMPTOM
+-	SYMPTOM
+term	SYMPTOM
+insomnias	SYMPTOM
+
+Krieger	DOCUMENT
+MH	DOCUMENT
+Dement	DOCUMENT
+WC	DOCUMENT
+
+sleep	CONCEPT
+medicine	CONCEPT
+3rd	DOCUMENT
+ed	DOCUMENT
+.	DOCUMENT
+
+WB	DOCUMENT
+Saunders	DOCUMENT
+
+
+insomnia	SYMPTOM
+psychosocial	RISKFACTOR
+stress	RISKFACTOR
+insomnia	SYMPTOM
+
+Psychiatry	DOCUMENT
+Clin	DOCUMENT
+Neurosci	DOCUMENT
+
+Insomnia	CONDITION
+Insomnia	CONDITION
+Insomnia	CONDITION
+Disorder	CONDITION
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+code	DOCUMENT
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+code	DOCUMENT
+difficulty	SYMPTOM
+initiating	SYMPTOM
+and	SYMPTOM
+maintaining	SYMPTOM
+sleep	SYMPTOM
+criteria	CONCEPT
+chronic	CONDITION
+insomnia	CONDITION
+dis-	CONDITION
+order	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+chronic	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+short	CONDITION
+-	CONDITION
+term	CONDITION
+insomnia	CONDITION
+disorder	CONDITION
+
+
+Symptoms	SYMPTOM
+Excessive	RISKFACTOR
+Time	RISKFACTOR
+in	RISKFACTOR
+Bed	RISKFACTOR
+
+insomnia	CONDITION
+prolonged	SYMPTOM
+sleep	SYMPTOM
+latencies	SYMPTOM
+long	SYMPTOM
+periods	SYMPTOM
+of	SYMPTOM
+wakefulness	SYMPTOM
+insomnia	CONDITION
+daytime	RISKFACTOR
+impairments	RISKFACTOR
+
+
+noncomplaining	CONCEPT
+groups	CONCEPT
+
+retired	RISKFACTOR
+from	RISKFACTOR
+work	RISKFACTOR
+not	RISKFACTOR
+currently	RISKFACTOR
+employed	RISKFACTOR
+expanded	SYMPTOM
+periods	SYMPTOM
+of	SYMPTOM
+wakefulness	SYMPTOM
+
+adverse	RISKFACTOR
+health	RISKFACTOR
+outcomes	RISKFACTOR
+sleep	SYMPTOM
+difficulties	SYMPTOM
+dissatisfaction	SYMPTOM
+objective	CONCEPT
+indices	CONCEPT
+sleep	TEST
+duration	TEST
+sleep	TEST
+latency	TEST
+sleep	TEST
+continuity	TEST
+
+Short	CONDITION
+Sleeper	CONDITION
+no	SYMPTOM
+sleep	SYMPTOM
+/	SYMPTOM
+wake	SYMPTOM
+complaints	SYMPTOM
+
+sleep	SYMPTOM
+difficulties	SYMPTOM
+daytime	CONDITION
+dysfunction	CONDITION
+
+insufficient	SYMPTOM
+sleep	SYMPTOM
+syndrome	SYMPTOM
+constitutional	CONCEPT
+disposition	CONCEPT
+reduced	SYMPTOM
+sleep	SYMPTOM
+requirement	SYMPTOM
+
+short	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+subtypes	CONCEPT
+
+short	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+metabolic	CONDITION
+cardiovascular	CONDITION
+medical	RISKFACTOR
+morbidity	RISKFACTOR
+
+short	SYMPTOM
+sleep	SYMPTOM
+insomnia	CONDITION
+sleep	CONDITION
+disorder	CONDITION
+short	SYMPTOM
+sleep	SYMPTOM
+
+Short	SYMPTOM
+sleep	SYMPTOM
+
+insomnia	CONDITION
+diagnosis	TEST
+insomnia	CONDITION
+disorder	CONDITION
+subtypes	CONCEPT
+
+Insomnia	SYMPTOM
+Insomnia	SYMPTOM
+Insomnia	SYMPTOM
+short	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+neuropsychological	TEST
+performance	TEST
+
+Sleep	DOCUMENT
+
+long	SYMPTOM
+sleepers	SYMPTOM
+short	SYMPTOM
+sleepers	SYMPTOM
+variable	SYMPTOM
+sleepers	SYMPTOM
+insomniacs	CONDITION
+
+Psychosomatics	DOCUMENT
+
+complaint	SYMPTOM
+insomnia	SYMPTOM
+
+
+short	SYMPTOM
+-	SYMPTOM
+term	SYMPTOM
+insomnias	SYMPTOM
+
+Krieger	DOCUMENT
+MH	DOCUMENT
+Dement	DOCUMENT
+WC	DOCUMENT
+
+sleep	CONCEPT
+medicine	CONCEPT
+3rd	DOCUMENT
+ed	DOCUMENT
+.	DOCUMENT
+
+WB	DOCUMENT
+Saunders	DOCUMENT
+
+Insomnia	SYMPTOM
+short	SYMPTOM
+sleep	SYMPTOM
+duration	SYMPTOM
+high	RISKFACTOR
+risk	RISKFACTOR
+hypertension	CONDITION
+
+
+short	SYMPTOM
+sleepers	SYMPTOM
+preliminary	DOCUMENT
+report	DOCUMENT
+
+Psychol	DOCUMENT
+Rep	DOCUMENT
+
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Obstructive	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Obstructive	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Obstructive	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Syndromes	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Cheyne	SYMPTOM
+-	SYMPTOM
+Stokes	SYMPTOM
+Breathing	SYMPTOM
+Central	CONDITION
+Apnea	CONDITION
+Medical	CONDITION
+Disorder	CONDITION
+Cheyne	SYMPTOM
+-	SYMPTOM
+Stokes	SYMPTOM
+Breathing75	SYMPTOM
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+
+High	SYMPTOM
+Altitude	SYMPTOM
+Periodic	SYMPTOM
+Breathing	SYMPTOM
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+
+Primary	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+of	CONDITION
+Infancy94	CONDITION
+Primary	CONDITION
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+of	CONDITION
+Prematurity98	CONDITION
+Treatment	TREATMENT
+Central	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Hypoventilation	CONDITION
+Disorders	CONDITION
+Obesity	CONDITION
+Hypoventilation	CONDITION
+Syndrome	CONDITION
+Congenital	CONDITION
+Central	CONDITION
+Alveolar	CONDITION
+Hypoventilation	CONDITION
+Syndrome	CONDITION
+
+Late	CONDITION
+-	CONDITION
+Onset	CONDITION
+Central	CONDITION
+Hypoventilation	CONDITION
+Hypothalamic	CONDITION
+Dysfunction	CONDITION
+Idiopathic	CONDITION
+Central	CONDITION
+Alveolar	CONDITION
+Hypoventilation	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Hypoventilation	CONDITION
+Medication	TREATMENT
+
+Sleep	CONDITION
+Related	CONDITION
+Hypoventilation	CONDITION
+Medical	CONDITION
+Disorder128	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Hypoxemia	CONDITION
+Disorder	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Hypoxemia134	CONDITION
+Symptoms	SYMPTOM
+
+Snoring	SYMPTOM
+Catathrenia	CONDITION
+sleep	CONDITION
+related	CONDITION
+breathing	CONDITION
+disorders	CONDITION
+
+respiration	SYMPTOM
+
+obstructive	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+sleep	CONDITION
+related	CONDITION
+hypoventilation	CONDITION
+disorders	CONDITION
+sleep	CONDITION
+related	CONDITION
+hypoxemia	CONDITION
+disorder	CONDITION
+
+
+obstruc-	CONDITION
+tive	CONDITION
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+
+central	CONDITION
+apneas	CONDITION
+closed	CONDITION
+upper	CONDITION
+airway	CONDITION
+obstructive	CONDITION
+apneas	CONDITION
+falling	SYMPTOM
+ventilatory	SYMPTOM
+drive	SYMPTOM
+
+apneas	CONDITION
+hypopneas	SYMPTOM
+hypoventilation	CONDITION
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+(	DOCUMENT
+AASM	DOCUMENT
+)	DOCUMENT
+Manual	DOCUMENT
+for	DOCUMENT
+the	DOCUMENT
+Scoring	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+and	DOCUMENT
+Associated	DOCUMENT
+Events	DOCUMENT
+
+AASM	DOCUMENT
+Manual	DOCUMENT
+obstructive	CONDITION
+central	CONDITION
+apneas	CONDITION
+hypopneas	SYMPTOM
+Cheyne	TEST
+-	TEST
+Stokes	TEST
+breathing	TEST
+hypoventilation	CONDITION
+
+OSA	CONDITION
+disorders	CONDITION
+pediatric	CONCEPT
+categories	CONCEPT
+diagnostic	CONCEPT
+criteria	CONCEPT
+complications	SYMPTOM
+
+upper	SYMPTOM
+airway	SYMPTOM
+narrowing	SYMPTOM
+closure	SYMPTOM
+respiratory	TEST
+effort	TEST
+
+out	TEST
+-	TEST
+of	TEST
+-	TEST
+cen-	TEST
+ter	TEST
+sleep	TEST
+testing	TEST
+OCST	TEST
+electroencephalogram	TEST
+EEG	TEST
+diagnostic	CONCEPT
+criteria	CONCEPT
+OSA	CONDITION
+
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+syndromes	CONDITION
+reduction	OUTCOME
+or	OUTCOME
+cessation	OUTCOME
+of	OUTCOME
+airflow	OUTCOME
+
+Central	CONDITION
+apnea	CONDITION
+hypopnea	SYMPTOM
+
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+OSA	SYMPTOM
+
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+arterial	TEST
+partial	TEST
+pressure	TEST
+of	TEST
+carbon	TEST
+dioxide	TEST
+PaCO2	TEST
+wake	SYMPTOM
+
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+dis-	CONDITION
+orders	CONDITION
+
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+Cheyne	CONDITION
+-	CONDITION
+Stokes	CONDITION
+breathing	CONDITION
+crescendo	SYMPTOM
+-	SYMPTOM
+decrescendo	SYMPTOM
+respiration	SYMPTOM
+central	CONDITION
+apneas	CONDITION
+central	CONDITION
+hypopneas	CONDITION
+
+congestive	CONDITION
+heart	CONDITION
+failure	CONDITION
+breathing	SYMPTOM
+pattern	SYMPTOM
+stroke	CONDITION
+neurological	CONDITION
+disorders	CONDITION
+
+high	RISKFACTOR
+-	RISKFACTOR
+altitude	RISKFACTOR
+peri-	SYMPTOM
+odic	SYMPTOM
+breathing	SYMPTOM
+high	RISKFACTOR
+altitude	RISKFACTOR
+
+Symptoms	SYMPTOM
+high	CONDITION
+-	CONDITION
+altitude	CONDITION
+periodic	CONDITION
+breathing	CONDITION
+altitude	RISKFACTOR
+
+Central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+neurological	SYMPTOM
+condition	SYMPTOM
+Cheyne	CONDITION
+-	CONDITION
+Stokes	CONDITION
+struc-	SYMPTOM
+tural	SYMPTOM
+lesion	SYMPTOM
+
+primary	CONDITION
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+central	CONDITION
+apneas	CONDITION
+opioids	RISKFACTOR
+respiratory	RISKFACTOR
+depressants	RISKFACTOR
+respiratory	TEST
+control	TEST
+centers	TEST
+
+Treatment	TREATMENT
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+International	CONCEPT
+Classification	CONCEPT
+of	CONCEPT
+Sleep	CONCEPT
+Disorders	CONCEPT
+
+obstructive	SYMPTOM
+events	SYMPTOM
+diagnostic	TEST
+sleep	TEST
+testing	TEST
+obstructive	CONDITION
+mixed	CONDITION
+apneas	CONDITION
+obstructive	CONDITION
+hypopneas	CONDITION
+central	CONDITION
+apneas	CONDITION
+central	CONDITION
+hypopneas	CONDITION
+positive	TREATMENT
+airway	TREATMENT
+pressure	TREATMENT
+treatment	TREATMENT
+residual	SYMPTOM
+breathing	SYMPTOM
+abnormality	SYMPTOM
+obstructive	SYMPTOM
+events	SYMPTOM
+
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+Sleep	CONDITION
+related	CONDITION
+hypoventilation	CONDITION
+disorders	CONDITION
+arterial	TEST
+PCO2	TEST
+PaCO2	TEST
+
+hypoventilation	CONDITION
+disorders	CONDITION
+
+arterial	TEST
+PCO2	TEST
+
+
+PaCO2	TEST
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+sleep	SYMPTOM
+related	SYMPTOM
+hypoventilation	SYMPTOM
+disorders	SYMPTOM
+
+obesity	CONDITION
+hypoventilation	CONDITION
+syndrome	CONDITION
+clinical	SYMPTOM
+characteristics	SYMPTOM
+
+obesity	CONDITION
+hypoventilation	CONDITION
+syndrome	CONDITION
+documenta-	DOCUMENT
+tion	DOCUMENT
+hypoventilation	SYMPTOM
+PaCO2	TEST
+
+awake	CONDITION
+hypoventilation	CONDITION
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+sleep	CONDITION
+related	CONDITION
+hypoventilation	CONDITION
+hypoxemia	CONDITION
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+3rd	DOCUMENT
+Edition	DOCUMENT
+hypoventilation	SYMPTOM
+hypoxemia	CONDITION
+arterial	TEST
+oxygen	TEST
+desaturation	TEST
+
+hypoventilation	SYMPTOM
+hypoxemia	CONDITION
+diagnostic	CONCEPT
+treatment	TREATMENT
+consequences	OUTCOME
+
+Sleep	CONDITION
+related	CONDITION
+hypoxemia	CONDITION
+disorders	CONDITION
+oxyhemoglobin	TEST
+saturation	TEST
+
+diagnostic	CONCEPT
+category	CONCEPT
+sleep	CONDITION
+related	CONDITION
+hypoventilation	CONDITION
+
+Sleep	CONDITION
+related	CONDITION
+hypoxemia	CONDITION
+hypoventilation	SYMPTOM
+ven-	RISKFACTOR
+tilation	RISKFACTOR
+-	RISKFACTOR
+perfusion	RISKFACTOR
+mismatch	RISKFACTOR
+shunt	TREATMENT
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+
+sleep	CONDITION
+related	CONDITION
+hypoxemia	CONDITION
+
+hypoventilation	SYMPTOM
+hypoxemia	CONDITION
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+2nd	DOCUMENT
+Edition	DOCUMENT
+lower	CONDITION
+airway	CONDITION
+obstruction	CONDITION
+pulmonary	CONDITION
+parenchymal	CONDITION
+vascular	CONDITION
+pathology	CONDITION
+neuromus-	CONDITION
+cular	CONDITION
+chest	CONDITION
+wall	CONDITION
+disorders	CONDITION
+
+International	DOCUMENT
+Classification	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Disorders	DOCUMENT
+3rd	DOCUMENT
+Edition	DOCUMENT
+neurological	CONDITION
+disorder	CONDITION
+sleep	SYMPTOM
+related	SYMPTOM
+hypoventilation	SYMPTOM
+neurological	CONDITION
+condition	CONDITION
+sleep	CONDITION
+related	CONDITION
+hypoxemia	CONDITION
+
+Pharyngeal	SYMPTOM
+narrowing	SYMPTOM
+central	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+J	DOCUMENT
+Appl	DOCUMENT
+Physiol	DOCUMENT
+1995;78:1806–15	DOCUMENT
+
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+AASM	DOCUMENT
+Manual	DOCUMENT
+Scoring	TEST
+Sleep	SYMPTOM
+Terminology	CONCEPT
+Technical	DOCUMENT
+Specifications	DOCUMENT
+
+American	DOCUMENT
+Academy	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+Medicine	DOCUMENT
+
+obstructive	CONDITION
+central	CONDITION
+apneas	CONDITION
+heart	CONDITION
+failure	CONDITION
+PCO2	TEST
+circulatory	SYMPTOM
+delay	SYMPTOM
+
+
+
+sleep	SYMPTOM
+apnea	SYMPTOM
+heart	CONDITION
+failure	CONDITION
+
+
+Obstructive	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+Disorders	CONDITION
+Obstructive	CONDITION
+Sleep	CONDITION
+Apnea	CONDITION
+ICD-9	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+code	DOCUMENT
+ICD-10	DOCUMENT
+-	DOCUMENT
+CM	DOCUMENT
+code	DOCUMENT
+OSA	CONDITION
+syndrome	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+syndrome	CONDITION
+obstructive	CONDITION
+apnea	CONDITION
+sleep	SYMPTOM
+disor-	SYMPTOM
+dered	SYMPTOM
+breathing	SYMPTOM
+obstructive	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+hypopnea	CONDITION
+syndrome	CONDITION
+
+upper	CONDITION
+airway	CONDITION
+resistance	CONDITION
+syndrome	CONDITION
+UARS	CONDITION
+obstructive	CONDITION
+sleep	CONDITION
+apnea	CONDITION
+
+Pickwickian	CONDITION
+syndrome	CONDITION
+OSA	CONDITION
+obese	SYMPTOM
+obesity	CONDITION
+hypoventilation	CONDITION
+syndrome	CONDITION
+
+Diagnostic	TEST
+Criteria	TEST
+
+
+sleepiness	SYMPTOM
+nonrestorative	SYMPTOM
+sleep	SYMPTOM
+fatigue	SYMPTOM
+insomnia	SYMPTOM
+symptoms	SYMPTOM
+
+breath	CONDITION
+holding	CONDITION
+gasping	SYMPTOM
+choking	SYMPTOM
+
+habitual	SYMPTOM
+snoring	SYMPTOM
+breathing	SYMPTOM
+interruptions	SYMPTOM
+
+hypertension	CONDITION
+mood	CONDITION
+disorder	CONDITION
+cognitive	CONDITION
+dysfunction	CONDITION
+coronary	CONDITION
+artery	CONDITION
+disease	CONDITION
+stroke	CONDITION
+congestive	CONDITION
+heart	CONDITION
+failure	CONDITION
+atrial	CONDITION
+fibrillation	CONDITION
+type	CONDITION
+2	CONDITION
+diabetes	CONDITION
+mellitus	CONDITION
+
+Polysomnography	TEST
+PSG	TEST
+OCST1	TEST
+
+obstructive	CONDITION
+mixed	CONDITION
+apneas	CONDITION
+hypopneas	SYMPTOM
+PSG	TEST
+monitoring	TEST
+OCST	TEST
+PSG	TEST
+OCST1	TEST
+
+obstructive	SYMPTOM
+respiratory	SYMPTOM
+events	SYMPTOM
+apneas	CONDITION
+hypopneas	SYMPTOM
+RERAs	SYMPTOM
+PSG	TEST
+monitoring	TEST
+OCST	TEST
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Notes	DOCUMENT
+
+OCST	TEST
+obstructive	SYMPTOM
+respiratory	SYMPTOM
+events	SYMPTOM
+PSG	TEST
+EEG	TEST
+
+respiratory	TEST
+event	TEST
+index	TEST
+REI	TEST
+
+Respiratory	SYMPTOM
+events	SYMPTOM
+AASM	DOCUMENT
+Manual	DOCUMENT
+Sleep	CONDITION
+and	CONDITION
+Associated	CONDITION
+Events	CONDITION
+
+hypopnea	SYMPTOM
+OCST	TEST
+EEG	TEST
+criteria	CONCEPT
+
+OSA	CONDITION
+apnea	CONDITION
+hypopnea	SYMPTOM
+upper	CONDITION
+airway	CONDITION
+obstruction	CONDITION
+
+blood	TEST
+oxygen	TEST
+saturation	TEST
+brief	SYMPTOM
+arousals	SYMPTOM
+
+apneic	SYMPTOM
+hypopneic	SYMPTOM
+
+
+N1	CONCEPT
+N2	CONCEPT
+R	CONCEPT
+stage	CONCEPT
+N3	CONCEPT
+
+oxygen	TEST
+saturation	TEST
+stage	CONDITION
+R	CONDITION
+sleep	CONDITION
+
+Oxygen	TEST
+saturation	TEST
+baseline	OUTCOME
+values	OUTCOME
+apneic	SYMPTOM
+hypopneic	SYMPTOM
+events	SYMPTOM
+pulmonary	CONDITION
+pathology	CONDITION
+
+Snoring	SYMPTOM
+apneas	CONDITION
+gasping	SYMPTOM
+choking	SYMPTOM
+body	SYMPTOM
+movements	SYMPTOM
+
+tired	SYMPTOM
+unrefreshed	SYMPTOM
+
+Apneas	CONDITION
+hypopneas	CONDITION
+snoring	SYMPTOM
+alcohol	RISKFACTOR
+sedating	RISKFACTOR
+medications	RISKFACTOR
+body	RISKFACTOR
+weight	RISKFACTOR
+
+Excessive	SYMPTOM
+sleepiness	SYMPTOM
+
+sleepiness	SYMPTOM
+
+sleepi-	SYMPTOM
+ness	SYMPTOM
+
+excessive	SYMPTOM
+sleepiness	SYMPTOM
+
+insomnia	CONDITION
+poor	SYMPTOM
+sleep	SYMPTOM
+quality	SYMPTOM
+fatigue	SYMPTOM
+
+Quality	CONCEPT
+of	CONCEPT
+life	CONCEPT
+unrefreshing	SYMPTOM
+sleep	SYMPTOM
+sleepiness	SYMPTOM
+fatigue	SYMPTOM
+
+sleep	SYMPTOM
+disruption	SYMPTOM
+
+apneas	CONDITION
+hypopneas	CONDITION
+symptom	SYMPTOM
+quality	CONCEPT
+of	CONCEPT
+life	CONCEPT
+
+symptoms	SYMPTOM
+
+Associated	SYMPTOM
+Features	SYMPTOM
+Systemic	CONDITION
+hypertension	CONDITION
+OSA	CONDITION
+
+clinical	CONCEPT
+and	CONCEPT
+epidemiologic	CONCEPT
+evidence	CONCEPT
+OSA	CONDITION
+risk	RISKFACTOR
+factor	RISKFACTOR
+systemic	CONDITION
+hypertension	CONDITION
+obesity	CONDITION
+smoking	RISKFACTOR
+
+OSA	CONDITION
+cor-	CONDITION
+onary	CONDITION
+artery	CONDITION
+disease	CONDITION
+atrial	SYMPTOM
+fibrillation	SYMPTOM
+stroke	CONDITION
+risk	RISKFACTOR
+factor	RISKFACTOR
+
+OSA	CONDITION
+type	CONDITION
+2	CONDITION
+diabetes	CONDITION
+risk	RISKFACTOR
+factor	RISKFACTOR
+type	CONDITION
+2	CONDITION
+diabetes	CONDITION
+
+severe	CONDITION
+disease	CONDITION
+pulmo-	CONDITION
+nary	CONDITION
+hypertension	CONDITION
+cor	CONDITION
+pulmonale	CONDITION
+daytime	SYMPTOM
+hypercapnia	SYMPTOM
+comorbid	RISKFACTOR
+conditions	RISKFACTOR
+morbid	CONDITION
+obesity	CONDITION
+chronic	CONDITION
+obstructive	CONDITION
+pulmonary	CONDITION
+disease	CONDITION
+COPD	CONDITION
+
+OSA	CONDITION
+dilated	CONDITION
+cardiomyopathy	CONDITION
+ischemic	CONDITION
+heart	CONDITION
+disease	CONDITION
+heart	CONDITION
+disease	CONDITION
+predisposition	RISKFACTOR
+congestive	CONDITION
+heart	CONDITION
+failure	CONDITION
+
+Gastroesophageal	SYMPTOM
+reflux	SYMPTOM
+nocturia	SYMPTOM
+mood	SYMPTOM
+disturbance	SYMPTOM
+erectile	SYMPTOM
+dysfunction	SYMPTOM
+OSA	CONDITION
+
+motor	CONDITION
+parasomnias	CONDITION
+OSA	CONDITION
+disorder	CONDITION
+of	CONDITION
+arousal	CONDITION
+confusional	CONDITION
+arousal	CONDITION
+OSA	CONDITION
+REM	CONDITION
+sleep	CONDITION
+behavior	CONDITION
+disorder	CONDITION
+disorders	CONDITION
+of	CONDITION
+arousal	CONDITION
+slow	CONDITION
+wave	CONDITION
+sleep	CONDITION
+nasal	TREATMENT
+continuous	TREATMENT
+positive	TREATMENT
+airway	TREATMENT
+pressure	TREATMENT
+(	TREATMENT
+CPAP	TREATMENT
+)	TREATMENT
+therapy	TREATMENT
+OSA	CONDITION
+OSA	CONDITION
+sleep	CONDITION
+related	CONDITION
+eating	CONDITION
+disorder	CONDITION
+OSA	CONDITION
+nocturnal	SYMPTOM
+seizures	SYMPTOM
+cerebral	CONDITION
+anoxic	CONDITION
+attacks	CONDITION
+
+OSA	CONDITION
+apneas	CONDITION
+hypopneas	CONDITION
+oxygen	TEST
+desaturation	TEST
+symptomatic	SYMPTOM
+sleepiness	SYMPTOM
+
+sleepiness	SYMPTOM
+sleepiness	SYMPTOM
+Epworth	DOCUMENT
+Sleepiness	DOCUMENT
+Scale	DOCUMENT
+Multiple	TEST
+Sleep	TEST
+Latency	TEST
+Test	TEST
+MSLT	TEST
+sleepiness	SYMPTOM
+
+sleepiness	SYMPTOM
+
+snoring	SYMPTOM
+
+sleepiness	CONDITION
+Differential	TEST
+Diagnosis	TEST
+
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Apneas	SYMPTOM
+hypopneas	SYMPTOM
+
+clinical	CONCEPT
+perspective	CONCEPT
+apnea	CONDITION
+hypopnea	SYMPTOM
+
+REM	CONDITION
+-	CONDITION
+related	CONDITION
+apneas	CONDITION
+hypopneas	SYMPTOM
+pathophysiological	CONCEPT
+subtype	CONCEPT
+
+arterial	CONDITION
+oxygen	CONDITION
+desaturations	CONDITION
+respiratory	SYMPTOM
+events	SYMPTOM
+narrowing	CONDITION
+of	CONDITION
+the	CONDITION
+upper	CONDITION
+airway	CONDITION
+brief	SYMPTOM
+arousals	SYMPTOM
+
+hypopnea	SYMPTOM
+hypopneas	SYMPTOM
+arousal	SYMPTOM
+RERAs	TEST
+
+UARS	CONDITION
+
+OSA	CONDITION
+arousal	SYMPTOM
+arterial	SYMPTOM
+oxygen	SYMPTOM
+desaturation	SYMPTOM
+
+snore	SYMPTOM
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+fatigue	SYMPTOM
+
+snoring	SYMPTOM
+
+obese	CONDITION
+respiratory	SYMPTOM
+event	SYMPTOM
+arterial	TEST
+oxygen	TEST
+saturation	TEST
+
+
+AASM	DOCUMENT
+Manual	DOCUMENT
+for	DOCUMENT
+the	DOCUMENT
+Scoring	DOCUMENT
+of	DOCUMENT
+Sleep	DOCUMENT
+and	DOCUMENT
+Associated	DOCUMENT
+Events	DOCUMENT
+OSA	CONDITION
+
+COPD	CONDITION
+OSA	CONDITION
+
+nocturnal	SYMPTOM
+oxygen	SYMPTOM
+desaturation	SYMPTOM
+daytime	SYMPTOM
+hypercapnia	SYMPTOM
+bronchial	CONDITION
+airflow	CONDITION
+obstruc-	CONDITION
+tion	CONDITION
+pulmonary	CONDITION
+hypertension	CONDITION
+right	CONDITION
+heart	CONDITION
+failure	CONDITION
+
+both	CONDITION
+conditions	CONDITION
+
+OSA	CONDITION
+age	RISKFACTOR
+group	RISKFACTOR
+
+sleep	SYMPTOM
+related	SYMPTOM
+respiratory	SYMPTOM
+events	SYMPTOM
+disease	CONDITION
+
+general	CONCEPT
+population	CONCEPT
+-	CONCEPT
+based	CONCEPT
+studies	CONCEPT
+OSA	CONDITION
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+
+OSA	CONDITION
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+
+apnea	TEST
+-	TEST
+hypopnea	TEST
+index	TEST
+AHI	TEST
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+criterion	CONCEPT
+
+OSA	CONDITION
+elderly	RISKFACTOR
+
+OSA	CONDITION
+
+dispar-	SYMPTOM
+ity	SYMPTOM
+OSA	CONDITION
+women	RISKFACTOR
+
+OSA	CONDITION
+ethnic	CONCEPT
+groups	CONCEPT
+
+OSA	CONDITION
+
+OSA	CONDITION
+body	TEST
+mass	TEST
+index	TEST
+BMI	TEST
+
+craniofacial	RISKFACTOR
+features	RISKFACTOR
+OSA	CONDITION
+
+Native	RISKFACTOR
+Americans	RISKFACTOR
+OSA	CONDITION
+
+Predisposing	RISKFACTOR
+and	RISKFACTOR
+Precipitating	RISKFACTOR
+Factors	RISKFACTOR
+
+predisposing	RISKFACTOR
+factor	RISKFACTOR
+OSA	CONDITION
+excess	SYMPTOM
+body	SYMPTOM
+weight	SYMPTOM
+
+moderate	CONDITION
+to	CONDITION
+severe	CONDITION
+OSA	CONDITION
+obesity	SYMPTOM
+
+OSA	CONDITION
+additional	SYMPTOM
+weight	SYMPTOM
+OSA	CONDITION
+morbid	CONDITION
+obesity	CONDITION
+
+OSA	CONDITION
+below	RISKFACTOR
+-	RISKFACTOR
+nor-	RISKFACTOR
+mal	RISKFACTOR
+body	RISKFACTOR
+weight	RISKFACTOR
+upper	CONDITION
+airway	CONDITION
+obstruction	CONDITION
+localized	CONDITION
+structural	CONDITION
+abnormality	CONDITION
+maxillomandibular	CONDITION
+malformation	CONDITION
+adenotonsillar	CONDITION
+enlargement	CONDITION
+
+neck	SYMPTOM
+circumference	SYMPTOM
+AHIs	TEST
+BMI	TEST
+
+Instability	SYMPTOM
+ventilatory	TEST
+control	TEST
+risk	RISKFACTOR
+OSA	CONDITION
+
+exaggerated	RISKFACTOR
+ventilatory	RISKFACTOR
+response	RISKFACTOR
+respiratory	SYMPTOM
+disturbance	SYMPTOM
+obstructive	RISKFACTOR
+events	RISKFACTOR
+
+Menopause	SYMPTOM
+disorder	CONDITION
+BMI	TEST
+
+hormone	TREATMENT
+replacement	TREATMENT
+therapy	TREATMENT
+
+smoking	RISKFACTOR
+risk	RISKFACTOR
+factor	RISKFACTOR
+OSA	CONDITION
+
+abnormalities	SYMPTOM
+bony	RISKFACTOR
+and	RISKFACTOR
+soft	RISKFACTOR
+tissue	RISKFACTOR
+structures	RISKFACTOR
+OSA	CONDITION
+
+mandibular	CONCEPT
+size	CONCEPT
+mandibular	CONCEPT
+position	CONCEPT
+palatal	TEST
+height	TEST
+enlarged	CONDITION
+adenoids	CONDITION
+tonsils	CONDITION
+
+Endocrine	CONDITION
+disorders	CONDITION
+acromegaly	RISKFACTOR
+hypothy-	RISKFACTOR
+roidism	RISKFACTOR
+OSA	CONDITION
+
+Down	CONDITION
+syndrome	CONDITION
+OSA	CONDITION
+
+OSA	CONDITION
+neurologic	CONDITION
+disorders	CONDITION
+peripheral	SYMPTOM
+muscles	SYMPTOM
+myotonic	CONDITION
+dystrophy	CONDITION
+
+OSA	CONDITION
+sedating	RISKFACTOR
+medications	RISKFACTOR
+nasal	SYMPTOM
+restriction	SYMPTOM
+congestion	SYMPTOM
+rhinitis	SYMPTOM
+
+OSA	CONDITION
+familial	TEST
+clustering	TEST
+OSA	CONDITION
+
+First	RISKFACTOR
+-	RISKFACTOR
+degree	RISKFACTOR
+relatives	RISKFACTOR
+OSA	CONDITION
+OSA	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+
+OSA	CONDITION
+snoring	SYMPTOM
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+snorting	SYMPTOM
+gasping	SYMPTOM
+
+AHI	TEST
+obesity	SYMPTOM
+
+OSA	CONDITION
+craniofacial	RISKFACTOR
+morphology	RISKFACTOR
+ventilatory	RISKFACTOR
+control	RISKFACTOR
+
+environmental	RISKFACTOR
+factors	RISKFACTOR
+physical	RISKFACTOR
+activity	RISKFACTOR
+eating	RISKFACTOR
+habits	RISKFACTOR
+
+OSA	CONDITION
+
+Complications	SYMPTOM
+longitudinal	DOCUMENT
+population	DOCUMENT
+studies	DOCUMENT
+OSA	CONDITION
+AHI	TEST
+
+OSA	CONDITION
+BMI	TEST
+weight	TREATMENT
+reduction	TREATMENT
+
+weight	SYMPTOM
+gain	SYMPTOM
+OSA	CONDITION
+OSA	CONDITION
+
+weight	SYMPTOM
+change	SYMPTOM
+
+OSA	RISKFACTOR
+systemic	SYMPTOM
+hyper-	SYMPTOM
+tension	SYMPTOM
+coronary	CONDITION
+artery	CONDITION
+disease	CONDITION
+congestive	CONDITION
+heart	CONDITION
+failure	CONDITION
+stroke	CONDITION
+premature	OUTCOME
+mortality	OUTCOME
+
+middle	RISKFACTOR
+-	RISKFACTOR
+aged	RISKFACTOR
+
+OSA	RISKFACTOR
+type	CONDITION
+2	CONDITION
+diabetes	CONDITION
+mellitus	CONDITION
+obesity	CONDITION
+
+arrhythmias	SYMPTOM
+OSA	CONDITION
+
+OSA	CONDITION
+atrial	SYMPTOM
+fibrillation	SYMPTOM
+
+OSA	CONDITION
+depression	SYMPTOM
+
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+func-	CONDITION
+tional	CONDITION
+impairment	CONDITION
+poor	SYMPTOM
+job	SYMPTOM
+performance	SYMPTOM
+loss	OUTCOME
+of	OUTCOME
+employment	OUTCOME
+quality	CONCEPT
+of	CONCEPT
+life	CONCEPT
+
+motor	RISKFACTOR
+vehicle	RISKFACTOR
+accidents	RISKFACTOR
+OSA	CONDITION
+
+Developmental	CONDITION
+Issues	CONDITION
+OSA	CONDITION
+
+OSA	CONDITION
+elderly	RISKFACTOR
+symptoms	SYMPTOM
+
+cardiovascular	CONDITION
+disease	CONDITION
+OSA	CONDITION
+
+
+Pediatric	CONDITION
+OSA	CONDITION
+
+upper	CONDITION
+airway	CONDITION
+narrowing	CONDITION
+
+OSA	CONDITION
+craniofacial	CONCEPT
+anatomy	CONCEPT
+
+
+
+open	CONDITION
+airway	CONDITION
+
+OSA	CONDITION
+pharyngeal	TEST
+dilating	TEST
+muscles	TEST
+narrow-	SYMPTOM
+ing	SYMPTOM
+upper	SYMPTOM
+airway	SYMPTOM
+
+state	RISKFACTOR
+-	RISKFACTOR
+dependent	RISKFACTOR
+change	RISKFACTOR
+obstructed	CONDITION
+upper	CONDITION
+airway	CONDITION
+
+pharyngeal	CONCEPT
+dilating	CONCEPT
+muscles	CONCEPT
+REM	CONCEPT
+sleep	CONCEPT
+phasic	CONCEPT
+REM	CONCEPT
+apneas	CONDITION
+hypopneas	SYMPTOM
+
+Decreased	SYMPTOM
+end	SYMPTOM
+-	SYMPTOM
+expiratory	SYMPTOM
+lung	SYMPTOM
+volume	SYMPTOM
+falling	SYMPTOM
+ventilatory	SYMPTOM
+drive	SYMPTOM
+hypocapnia	TEST
+upper	CONDITION
+airway	CONDITION
+narrowing	CONDITION
+closure	CONDITION
+
+obstructive	CONDITION
+apnea	CONDITION
+end	SYMPTOM
+-	SYMPTOM
+expiratory	SYMPTOM
+upper	SYMPTOM
+airway	SYMPTOM
+caliber	SYMPTOM
+
+
+end	SYMPTOM
+-	SYMPTOM
+expiratory	SYMPTOM
+lung	SYMPTOM
+volume	SYMPTOM
+smaller	OUTCOME
+upper	OUTCOME
+airway	OUTCOME
+size	OUTCOME
+downward	TREATMENT
+traction	TREATMENT
+tracheal	CONDITION
+tug	CONDITION
+
+unstable	CONDITION
+ventilatory	CONDITION
+control	CONDITION
+high	CONDITION
+loop	CONDITION
+gain	CONDITION
+hypocapnia	SYMPTOM
+upper	CONDITION
+airway	CONDITION
+narrowing	CONDITION
+
+apnea	CONDITION
+/	CONDITION
+hypopnea	CONDITION
+termination	TREATMENT
+
+
+upper	CONCEPT
+airway	CONCEPT
+muscle	CONCEPT
+tone	CONCEPT
+PaO2	TEST
+PaCO2	TEST
+upper	CONCEPT
+airway	CONCEPT
+mechanoreceptors	CONCEPT
+
+Cortical	SYMPTOM
+arous-	SYMPTOM
+als	SYMPTOM
+EEG	TEST
+sympathetic	CONCEPT
+tone	CONCEPT
+
+sleep	SYMPTOM
+fragmentation	SYMPTOM
+excessive	SYMPTOM
+daytime	SYMPTOM
+sleepiness	SYMPTOM
+
+Apneas	SYMPTOM
+hypopneas	SYMPTOM
+
+
+apnea	SYMPTOM
+hypopnea	SYMPTOM
+oxygen	CONDITION
+desaturation	CONDITION
+oxygen	TEST
+saturation	TEST
+lung	TEST
+volume	TEST
+comorbid	RISKFACTOR
+lung	CONDITION
+conditions	CONDITION
+
+hypercarbia	SYMPTOM
+apneas	CONDITION
+hypopneas	CONDITION
+
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+Sleep	CONDITION
+Related	CONDITION
+Breathing	CONDITION
+Disorders	CONDITION
+OSA	CONDITION
+circu-	RISKFACTOR
+lating	RISKFACTOR
+inflammatory	RISKFACTOR
+mediators	RISKFACTOR
+oxygen	SYMPTOM
+desaturation	SYMPTOM
+
+hypertension	SYMPTOM
+cardiovascular	CONDITION
+disease	CONDITION
+OSA	CONDITION
+
+Obstructive	CONDITION
+apneas	CONDITION
+cessation	SYMPTOM
+of	SYMPTOM
+airflow	SYMPTOM
+respiratory	SYMPTOM
+efforts	SYMPTOM
+PSG	TEST
+OCST	TEST
+
+respiratory	TEST
+inductance	TEST
+plethysmography	TEST
+paradoxical	SYMPTOM
+movement	SYMPTOM
+
+esophageal	TEST
+manometry	TEST
+
+Obstructive	SYMPTOM
+hypopneas	SYMPTOM
+reduction	OUTCOME
+respiratory	TEST
+effort	TEST
+
+constant	SYMPTOM
+or	SYMPTOM
+reduced	SYMPTOM
+flow	SYMPTOM
+upper	SYMPTOM
+airway	SYMPTOM
+resis-	SYMPTOM
+tance	SYMPTOM
+
+esophageal	TEST
+manometry	TEST
+inspira-	CONDITION
+tory	CONDITION
+airflow	CONDITION
+limitation	CONDITION
+inspiratory	SYMPTOM
+flow	SYMPTOM
+nasal	TEST
+pressure	TEST
+
+OSA	CONDITION
+obstructive	SYMPTOM
+events	SYMPTOM
+central	CONDITION
+apneas	CONDITION
+
+positive	TEST
+airway	TEST
+pressure	TEST
+central	CONDITION
+apneas	CONDITION
+positive	TREATMENT
+airway	TREATMENT
+pressure	TREATMENT
+treatment	TREATMENT
+
+Oxygen	TEST
+saturation	TEST
+apnea	CONDITION
+hypopnea	CONDITION
+
+oxygen	CONDITION
+desaturation	CONDITION
+1	OUTCOME
+%	OUTCOME
+to	OUTCOME
+2	OUTCOME
+%	OUTCOME
+30	OUTCOME
+%	OUTCOME
+to	OUTCOME
+40	OUTCOME
+%	OUTCOME
+
+oxygen	TEST
+saturation	TEST
+oxygen	TEST
+saturation	TEST
+airflow	CONDITION
+limitation	CONDITION
+arousal	SYMPTOM
+
+inspiratory	SYMPTOM
+flow	SYMPTOM
+diagnostic	CONCEPT
+criteria	CONCEPT
+apnea	CONDITION
+hypopnea	CONDITION
+
+RERAs	DOCUMENT
+

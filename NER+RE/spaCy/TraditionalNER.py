@@ -1,4 +1,14 @@
-"""Script that takes in a dataset with one word per line ("word" split strategy in the MakeDatasetWOTarget script.)"""
+"""
+Script that takes in a dataset with one word per line ("word" split strategy in the MakeDatasetWOTarget script.)
+
+Prerequisites:
+- spacy (v. 3.7.5)
+
+Optional:
+medspacy (beta)
+scispacy 0.5.5
+-> with belonging models.
+"""
 
 import argparse
 import spacy
