@@ -13,7 +13,7 @@ def load_model(model_path):
         model = GLiNER.from_pretrained("knowledgator/gliner-multitask-large-v0.5")
         return None, model
     else:    
-        tokenizer = AutoTokenizer.from_pretrained(model_path, truncation=True)
+        tokenizer = AutoTokenizer.from_pretrained(model_path)
         config = AutoConfig.from_pretrained(model_path)
         model = AutoModelForTokenClassification.from_config(config)
         model.to(device)
@@ -32,9 +32,26 @@ def annotated_line(word:str, label:str):
     ret = word + "\t" + label + "\n"
     return ret
 
+def get_sentences_from_path(file_path : str):
+    sentences = []
+    with open(file_path, 'r', encoding='utf-8') as file:
+        sentence = []
+        for line in file:
+            if line.strip():
+                sentence.append(line.strip())
+            else:
+                if sentence: 
+                    sentences.append(sentence)
+                sentence = []
+        if sentence: 
+            sentences.append(sentence)
+    return sentences
+
+
 def predict_and_save(model, tokenizer, path_to_input : str, path_to_output : str, batch_size : int, model_path : str = ""):
     sentences = get_sentences_from_path(path_to_input)
     batch_sentences = [sentences[i:i + batch_size] for i in range(0, len(sentences), batch_size)]
+    # batch_sentences = get_batches(sentences, batch_size)
     
     if model_path == "knowledgator/gliner-multitask-large-v0.5":
         
@@ -61,44 +78,45 @@ def predict_and_save(model, tokenizer, path_to_input : str, path_to_output : str
 
     else:
         id2label = model.config.id2label
-        
+        # rest within else clause is partly written by ChatGPT (original code was missing a chunk)
         with open(path_to_output, 'w+', encoding='utf-8') as file:
             for batch in batch_sentences:
-                encoding = tokenizer(batch, max_length=512, padding=True, truncation=True, return_tensors="pt", is_split_into_words=True)
+                encoding = tokenizer(batch, max_length=512, padding=True, truncation=True, 
+                                    return_tensors="pt", is_split_into_words=True, stride=50)
                 input_ids, attention_mask = encoding['input_ids'].to(device), encoding['attention_mask'].to(device)
 
                 with torch.no_grad():
                     outputs = model(input_ids, attention_mask=attention_mask)
                     predictions = torch.argmax(outputs.logits, dim=-1)
-                
+
                 for i, (sentence, preds) in enumerate(zip(batch, predictions)):
-                    word_preds = [id2label[pred.item()] for pred in preds if pred.item() in id2label]
-                    for word, label in zip(sentence, word_preds):
+                    word_ids = encoding.word_ids(batch_index=i)  # map subwords to words
+                    previous_word_id = None
+                    word_preds = {}
+
+                    for token_idx, word_id in enumerate(word_ids):
+                        if word_id is None:
+                            continue  # skip special tokens
+
+                        if word_id != previous_word_id:  # first subword of the word
+                            word_preds[word_id] = id2label.get(preds[token_idx].item(), "O")
+
+                        previous_word_id = word_id  # track word ID for subword aggregation
+
+                    # Write output
+                    for idx, word in enumerate(sentence):
+                        label = word_preds.get(idx, "O")  # default to 'O' if missing
                         file.write(f"{word}\t{label}\n")
                     file.write("\n")
 
     print(f"NER predictions written to {path_to_output}")
 
-def get_sentences_from_path(file_path : str):
-    sentences = []
-    with open(file_path, 'r', encoding='utf-8') as file:
-        sentence = []
-        for line in file:
-            if line.strip():
-                sentence.append(line.strip())
-            else:
-                if sentence: 
-                    sentences.append(sentence)
-                sentence = []
-        if sentence: 
-            sentences.append(sentence)
-    return sentences
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='NER Prediction Script')
-    parser.add_argument("--model_path", type=str, default="knowledgator/gliner-multitask-large-v0.5", help="path to trained NER model")
+    parser.add_argument("--model_path", type=str, default="kamalkraj/bioelectra-base-discriminator-pubmed-pmc", help="path to trained NER model")
     parser.add_argument("--input_file", type=str, default="../../data/ICSD3.tsv", help="path to tab-separated input data file")
-    parser.add_argument("--output_file", type=str, default="knowledgator_gliner-multitask-large-v0.5_7.tsv", help="path to generated output predictions")
+    parser.add_argument("--output_file", type=str, default="ICSD3_NER/kamalkraj_bioelectra-base-discriminator-pubmed-pmc.tsv", help="path to generated output predictions")
     parser.add_argument("--batch_size", type=int, default=8, help="size of batches to process input data in, for parallelization")
     args = parser.parse_args()
     tokenizer, model = load_model(args.model_path)
