@@ -47,36 +47,62 @@ def get_sentences_from_path(file_path : str):
             sentences.append(sentence)
     return sentences
 
+def create_batches(sentences:list, max_size):
+    batches = []
+    batch = []
+    
+    for sentence in sentences:
+        if len(batch) + len(sentence) < max_size:
+            batch = batch + sentence
+        elif len(sentence) >= max_size:
+            if len(batch) > 0:
+                batches.append(batch)
+                batch = []
+            whole_splits = (len(sentence) // max_size)
+            for i in range(whole_splits):
+                batches.append(sentence[i*max_size : (i+1)*max_size])
+            batches.append(sentence[whole_splits*max_size:])
+        else:
+            batches.append(batch)
+            batch = []
+            batch = batch + sentence
+            
+    if len(batch) > 0:
+        batches.append(batch)
+    
+    return batches
 
 def predict_and_save(model, tokenizer, path_to_input : str, path_to_output : str, batch_size : int, model_path : str = ""):
     sentences = get_sentences_from_path(path_to_input)
-    batch_sentences = [sentences[i:i + batch_size] for i in range(0, len(sentences), batch_size)]
-    # batch_sentences = get_batches(sentences, batch_size)
     
     if model_path == "knowledgator/gliner-multitask-large-v0.5":
         
         with open(path_to_output, 'w+', encoding='utf-8') as file:
-            for batch in batch_sentences:
-                batch_as_string = list2D_to_string(batch)
+            batches_list = create_batches(sentences, 80)
+            
+            for batch in batches_list:
+                
+                batch_as_string = " ".join(batch)
                 entities = model.predict_entities(batch_as_string, entity_labels)
+                
                 pointer = 0
                 for entity in entities:
                     outside = batch_as_string[pointer:entity["start"]]
                     outside_words = outside.split(" ")
                     for word in outside_words:
                         file.write(annotated_line(word, ""))
-                    words = entity["text"].split(" ")
-                    for word in words:
+                    inside = entity["text"].split(" ")
+                    for word in inside:
                         file.write(annotated_line(word, entity["label"]))
                     pointer = entity["end"]
-                file.write("\n")
 
-            rest = batch_as_string[pointer:]
-            rest = rest.split(" ")
-            for word in rest:
-                file.write(annotated_line(word, ""))
+                rest = batch_as_string[pointer:]
+                rest = rest.split(" ")
+                for word in rest:
+                    file.write(annotated_line(word, ""))
 
     else:
+        batch_sentences = [sentences[i:i + batch_size] for i in range(0, len(sentences), batch_size)]
         id2label = model.config.id2label
         # rest within else clause is partly written by ChatGPT (original code was missing a chunk)
         with open(path_to_output, 'w+', encoding='utf-8') as file:
@@ -114,9 +140,9 @@ def predict_and_save(model, tokenizer, path_to_input : str, path_to_output : str
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='NER Prediction Script')
-    parser.add_argument("--model_path", type=str, default="kamalkraj/bioelectra-base-discriminator-pubmed-pmc", help="path to trained NER model")
+    parser.add_argument("--model_path", type=str, default="knowledgator/gliner-multitask-large-v0.5", help="path to trained NER model")
     parser.add_argument("--input_file", type=str, default="../../data/ICSD3.tsv", help="path to tab-separated input data file")
-    parser.add_argument("--output_file", type=str, default="ICSD3_NER/kamalkraj_bioelectra-base-discriminator-pubmed-pmc.tsv", help="path to generated output predictions")
+    parser.add_argument("--output_file", type=str, default="knowledgator_gliner-multitask-large-v0.5.tsv", help="path to generated output predictions")
     parser.add_argument("--batch_size", type=int, default=8, help="size of batches to process input data in, for parallelization")
     args = parser.parse_args()
     tokenizer, model = load_model(args.model_path)

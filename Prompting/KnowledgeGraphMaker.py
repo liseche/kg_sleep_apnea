@@ -77,7 +77,7 @@ with GraphDatabase.driver(URI, auth=AUTH) as driver:
 
 ### CONFIG ###
 chunk_size = 50 # how many lines of the input file to process through Groq at once
-chunk_counter = 1750 # counter for the size we're at now
+chunk_counter = 2200 # counter for the size we're at now
 to_line = 3000 # how many total lines from input file to process
 ontology = Ontology(
     labels=[
