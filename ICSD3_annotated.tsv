@@ -18844,13 +18844,13 @@ Obstructive	condition	b
 Sleep	condition	i
 Apnea	condition	i
 ,
-Adult53	condition	b
+Adult53	condition	b	typo
 Obstructive	condition	i
 Sleep	condition	i
 Apnea	condition	i
 ,
 
-Pediatric63	condition	b
+Pediatric63	condition	b	typo
 Central	condition	i
 Sleep	condition	i
 Apnea	condition	i
@@ -18858,31 +18858,31 @@ Syndromes	condition	i
 Central	condition	b
 Sleep	condition	i
 Apnea	condition	i
-with
-Cheyne	condition	b
--
+with	condition	i
+Cheyne	condition	i
+-	condition	i
 Stokes	condition	i
 Breathing	condition	i
 69
 Central	condition	b
 Apnea	condition	i
-Due
-to
-a
-Medical
-Disorder
-without
-Cheyne	condition	b
--
+Due	condition	i
+to	condition	i
+a	condition	i
+Medical	condition	i
+Disorder	condition	i
+without	condition	i
+Cheyne	condition	i
+-	condition	i
 Stokes	condition	i
 Breathing75	condition	i
 Central	condition	b
 Sleep	condition	i
 Apnea	condition	i
-
-Due
-to
-High	condition	b
+	condition	i
+Due	condition	i
+to	condition	i
+High	condition	i
 Altitude	condition	i
 Periodic	condition	i
 Breathing	condition	i
@@ -18890,12 +18890,12 @@ Breathing	condition	i
 Central	condition	b
 Sleep	condition	i
 Apnea	condition	i
-Due
-to
-a
-Medication
-or
-Substance
+Due	condition	i
+to	condition	i
+a	condition	i
+Medication	condition	i
+or	condition	i
+Substance	condition	i
 85
 Primary	condition	b
 Central	condition	i
@@ -18914,10 +18914,10 @@ Central	condition	i
 Sleep	condition	i
 Apnea	condition	i
 of	condition	i
-Prematurity98	condition	i
-Treatment
--
-Emergent	condition	b
+Prematurity98	condition	i	typo
+Treatment	condition	b
+-	condition	i
+Emergent	condition	i
 Central	condition	i
 Sleep	condition	i
 Apnea	condition	i
@@ -18942,8 +18942,8 @@ Late	condition	b
 Onset	condition	i
 Central	condition	i
 Hypoventilation	condition	i
-with
-Hypothalamic	condition	b
+with	condition	i
+Hypothalamic	condition	i
 Dysfunction	condition	i
 118
 Idiopathic	condition	b
@@ -18954,29 +18954,29 @@ Hypoventilation	condition	i
 Sleep	condition	b
 Related	condition	i
 Hypoventilation	condition	i
-Due
-to
-a
-Medication
-or
-Substance
+Due	condition	i
+to	condition	i
+a	condition	i
+Medication	condition	i
+or	condition	i
+Substance	condition	i
 
 124
 Sleep	condition	b
 Related	condition	i
 Hypoventilation	condition	i
-Due
-to
-a
-Medical
-Disorder128
+Due	condition	i
+to	condition	i
+a	condition	i
+Medical	condition	i
+Disorder128	condition	i	typo
 Sleep	condition	b
 Related	condition	i
 Hypoxemia	condition	i
-Disorder
+Disorder	condition	i
 Sleep	condition	b
 Related	condition	i
-Hypoxemia134	condition	i
+Hypoxemia134	condition	i	typo
 Isolated
 Symptoms
 and
@@ -19025,10 +19025,10 @@ into
 obstructive	condition	b
 sleep	condition	i
 apnea	condition	i
-(
-OSA	condition	b
-)
-disorders	condition
+(	condition	i
+OSA	condition	i
+)	condition	i
+disorders	condition	i
 ,
 central	condition	b
 sleep	condition	i
@@ -19226,23 +19226,23 @@ individuals
 ,
 definitions
 of
-obstructive	symptom	b
-and	symptom	i
-central	symptom	i
-apneas	symptom	i
+obstructive	concept	b
+and	concept	i
+central	concept	i
+apneas	concept	i
 and
-hypopneas	symptom	b
+hypopneas	concept	b
 ,
 and
 rules
 for
 scoring
 Cheyne	condition	b
--
+-	condition	i
 Stokes	condition	i
-breathing
+breathing	condition	i
 and
-hypoventilation	symptom	b
+hypoventilation	condition	b
 .
 
 The
@@ -19252,9 +19252,9 @@ are
 separated
 into
 adult	concept	b
-and
-pediatric	concept	b
-categories
+and	concept	i
+pediatric	concept	i
+categories	concept	i
 ,
 as
 the
@@ -19277,17 +19277,17 @@ disorders
 are
 characterized
 by
-upper	symptom	b
-airway	symptom	i
-narrowing	symptom	i
-or	symptom	i
-closure	symptom	i
+upper	concept	b
+airway	concept	i
+narrowing	concept	i
+or	concept	i
+closure	concept	i
 during
 sleep
 while
-respiratory	symptom	b
-effort	symptom	i
-continues	symptom	i
+respiratory	concept	b
+effort	concept	i
+continues			something
 (
 at
 least
@@ -19347,18 +19347,18 @@ syndromes	condition	i
 are
 characterized
 by
-reduction	symptom	b
-or	symptom	i
-cessation	symptom	i
-of	symptom	i
-airflow	symptom	i
+reduction
+or
+cessation
+of
+airflow	
 due
 to
-absent	symptom	b
-or	symptom	i
-reduced	symptom	i
-respiratory	symptom	i
-effort	symptom	i
+absent
+or
+reduced
+respiratory	concept	b
+effort	concept	i
 .
 
 Central	concept	b
@@ -19370,9 +19370,9 @@ occur
 in
 a
 cyclical	concept	b
-or
-intermittent	concept	b
-fashion
+or	concept	i
+intermittent	concept	i
+fashion	concept	i
 .
 
 Patients
@@ -19423,7 +19423,7 @@ in
 these
 patients
 is
-normal
+normal			something
 or
 low
 .
@@ -19447,8 +19447,8 @@ In
 central	condition	b
 sleep	condition	i
 apnea	condition	i
-with
-Cheyne	condition	b
+with	condition	i
+Cheyne	condition	i
 -	condition	i
 Stokes	condition	i
 breathing	condition	i
@@ -19507,8 +19507,8 @@ in
 association
 with
 other
-neurological	riskfactor	b
-disorders	riskfactor	i
+neurological
+disorders
 .
 
 In
@@ -19524,11 +19524,11 @@ disorder
 is
 associated
 with
-acute	riskfactor	b
-ascent	riskfactor	i
-to	riskfactor	i
-high	riskfactor	i
-altitude	riskfactor	i
+acute			cause
+ascent			cause
+to			cause
+high			cause
+altitude			cause
 .
 
 Symptoms
@@ -19555,20 +19555,20 @@ an
 expected
 finding
 after
-ascent	riskfactor	b
-to	riskfactor	i
-altitude	riskfactor	i
+ascent
+to
+altitude
 .
 
 Central	condition	b
 sleep	condition	i
 apnea	condition	i
-due
-to
-medical
-or
-neurological
-condition
+due	condition	i
+to	condition	i
+medical	condition	i
+or	condition	i
+neurological	condition	i
+condition	condition	i
 (
 not
 Cheyne	condition	b
@@ -19611,11 +19611,11 @@ In
 central	condition	b
 sleep	condition	i
 apnea	condition	i
-due
-to
-drug
-or
-substance
+due	condition	i
+to	condition	i
+drug	condition	i
+or	condition	i
+substance	condition	i
 ,
 the
 patient
@@ -19697,7 +19697,7 @@ on
 positive	treatment	b
 airway	treatment	i
 pressure	treatment	i
-treatment
+treatment	treatment	i
 without
 a
 backup	concept	b
@@ -19762,12 +19762,12 @@ are
 characterized
 by
 an
-abnormal	symptom	b
-increase	symptom	i
-in	symptom	i
-the	symptom	i
-arterial	symptom	i
-PCO2	symptom	i
+abnormal
+increase
+in
+the
+arterial	concept	i
+PCO2	concept	i
 (
 PaCO2	concept	b
 )
@@ -19791,11 +19791,11 @@ For
 adults
 ,
 an
-increase	symptom	b
-in	symptom	i
-the	symptom	i
-arterial	symptom	i
-PCO2	symptom	i
+increase
+in
+the
+arterial	concept	b
+PCO2	concept	i
 (
 or
 sur-	concept	b
@@ -19854,16 +19854,16 @@ surrogate	concept	b
 )
 must
 be
-greater
-than
-50
-mm
-Hg
+greater			testvalue
+than			testvalue
+50			testvalue
+mm			testvalue
+Hg			testvalue
 for
-greater
-than
-25
-%
+greater			something
+than			something
+25			something
+%			something
 of
 total
 sleep	
@@ -19940,17 +19940,17 @@ requires
 documenta-
 tion
 of
-awake
-(
-daytime
-)
-hypoventilation	concept	b
+awake	condition	b
+(	condition	i
+daytime	condition	i
+)	condition	i
+hypoventilation	condition	i
 (
 PaCO2	concept	b
->	concept	i
-45	concept	i
-mm	concept	i
-Hg	concept	i
+>			testvalue
+45			testvalue
+mm			testvalue
+Hg			testvalue
 )
 .
 
@@ -19962,8 +19962,8 @@ in
 this
 category
 ,
-awake
-hypoventilation	concept	b
+awake	concept	b
+hypoventilation	concept	i
 may
 or
 may
@@ -19997,8 +19997,8 @@ of
 sleep	condition	b
 related	condition	i
 hypoventilation	condition	i
-/
-hypoxemia	condition	b
+/	condition	i
+hypoxemia	condition	i
 disorders	condition	i
 .
 
@@ -20015,7 +20015,7 @@ Edition	document	i
 ,
 disorders
 manifesting
-hypoventilation	concept	b
+hypoventilation	condition	b
 are
 separated
 from
@@ -20026,7 +20026,7 @@ only
 a
 finding
 of
-hypoxemia	concept	b
+hypoxemia	condition	b
 (
 arterial	concept	b
 oxygen	concept	i
@@ -25222,7 +25222,7 @@ term
 upper	condition	b
 airway	condition	i
 resistance	condition	i
-syndrome
+syndrome	condition	i
 (
 UARS	condition	b
 )
@@ -27747,8 +27747,8 @@ Syndromes	condition	i
 Central	condition	b
 Sleep	condition	i
 Apnea	condition	i
-with
-Cheyne	condition	b
+with	condition	i
+Cheyne	condition	i
 -	condition	i
 Stokes	condition	i
 Breathing	condition	i
@@ -27917,7 +27917,7 @@ hypopneas.2	concept	b	typo
 The
 pattern
 of
-ventilation	concept	b
+ventilation
 meets
 criteria
 for
@@ -27926,7 +27926,7 @@ Cheyne	condition	b
 Stokes	condition	i
 breathing	condition	i
 (
-CSB).1
+CSB).1	condition	b	typo
 D.
 The
 disorder
@@ -28024,8 +28024,8 @@ Disorders
 Essential
 Features
 CSA	condition	b
--
-CSB	condition	b
+-	condition	i
+CSB	condition	i
 is
 characterized
 by
@@ -28089,8 +28089,8 @@ of
 patients
 with
 CSA	condition	b
--
-CSB	condition	b
+-	condition	i
+CSB	condition	i
 have
 either
 systolic	condition	b
@@ -28142,8 +28142,8 @@ ration	concept	i
 Patients
 with
 CSA	condition	b
--
-CSB	condition	b
+-	condition	i
+CSB	condition	i
 have
 normal			something
 or
@@ -28200,8 +28200,8 @@ A
 diagnosis
 of
 CSA	condition	b
--
-CSB	condition	b
+-	condition	i
+CSB	condition	i
 requires
 that
 events
@@ -28250,8 +28250,8 @@ of
 OSA	condition	b
 and
 CSA	condition	b
--
-CSB	condition	b
+-	condition	i
+CSB	condition	i
 ,
 the
 central	concept	b
@@ -28273,8 +28273,8 @@ In
 patient
 with
 CSA	condition	b
--
-CSB	condition	b
+-	condition	i
+CSB	condition	i
 ,
 arousal	concept	b
 from	concept	i
@@ -28934,12 +28934,12 @@ i.e.
 ,
 awake	concept	b
 PaCO2	concept	i
-of	concept	i
-38	concept	i
-mm	concept	i
-Hg	concept	i
-or	concept	i
-less	concept	i
+of
+38
+mm
+Hg
+or
+less
 )
 .
 
@@ -28968,8 +28968,8 @@ studies
 suggest
 that
 CSA	condition	b
--
-CSB	condition	b
+-	condition	i
+CSB	condition	i
 occurs
 more
 commonly
@@ -28990,8 +28990,8 @@ a
 possible
 cause
 of
-CSA-	condition	b	typo
-CSB	condition	b
+CSA-	condition	b
+CSB	condition	i
 ,
 there
 is
@@ -30921,14 +30921,14 @@ Med
 
 Central	condition	b
 Apnea	condition	i
-
-Due
-to
-a
-Medical
-Disorder
-without
-Cheyne	condition	b
+	condition	i
+Due	condition	i
+to	condition	i
+a	condition	i
+Medical	condition	i
+Disorder	condition	i
+without	condition	i
+Cheyne	condition	i
 -	condition	i
 Stokes	condition	i
 Breathing	condition	i
@@ -31157,14 +31157,14 @@ related	condition	i
 hypoventilation	condition	i
 and
 CSA	condition	b
-due
-to
-medical			cause
-or			cause
-neurological			cause
-condition			cause
-not
-Cheyne	condition	b
+due	condition	i
+to	condition	i
+medical	condition	i	cause
+or	condition	i	cause
+neurological	condition	i	cause
+condition	condition	i	cause
+not	condition	i
+Cheyne	condition	i
 -	condition	i
 Stokes	condition	i
 ,
@@ -32394,9 +32394,9 @@ Neurol
 Central	condition	b
 Sleep	condition	i
 Apnea	condition	i
-Due
-to
-High	condition	b
+Due	condition	i
+to	condition	i
+High	condition	i
 Altitude	condition	i
 Periodic	condition	i	typo, breathing is not included
 ICD-10
@@ -32632,9 +32632,9 @@ A
 diagnosis
 of
 CSA	condition	b
-due
-to
-high	condition	b
+due	condition	i
+to	condition	i
+high	condition	i
 -	condition	i
 altitude	condition	i
 period	condition	i	typo ?
@@ -32782,8 +32782,8 @@ feet			something
 )
 .
 
-Periodic
-breathing
+Periodic	condition	b
+breathing	condition	i
 has
 been
 described
@@ -33175,9 +33175,9 @@ this
 periodic
 breathing
 is
-ascent	riskfactor	b
-to	riskfactor	i
-altitude	riskfactor	i
+ascent			cause
+to			cause
+altitude			cause
 .
 
 The
@@ -35077,12 +35077,12 @@ Physiol
 Central	condition	b
 Sleep	condition	i
 Apnea	condition	i
-
-Due
-to
-a
-Medication
-or
+	condition	i
+Due	condition	i
+to	condition	i
+a	condition	i
+Medication	condition	i
+or	condition	i	typo
 ICD-10
 -
 CM
@@ -35128,11 +35128,11 @@ patient			cause
 is			cause
 taking			cause
 an			cause
-opioid			cause
+opioid	concept	b	cause
 or			cause
 other			cause
-respiratory			cause
-depressant			cause
+respiratory	concept	b	cause
+depressant	concept	i	cause
 .
 
 B.
@@ -35345,11 +35345,11 @@ of
 sleep	condition	b
 related	condition	i
 hypoventilation	condition	i
-due
-to
-medication
-or
-substance
+due	condition	i
+to	condition	i
+medication	condition	i
+or	condition	i
+substance	condition	i
 use
 can
 be
@@ -35363,12 +35363,12 @@ of
 central	condition	b
 sleep	condition	i
 apnea	condition	i
-due
-to
-a
-medication
-or
-substance
+due	condition	i
+to	condition	i
+a	condition	i
+medication	condition	i
+or	condition	i
+substance	condition	i
 .
 .
 
@@ -35376,11 +35376,11 @@ A
 diagnosis
 of
 CSA	condition	b
-due
-to
-a
-medicationor
-substance
+due	condition	i
+to	condition	i
+a	condition	i
+medicationor	condition	i	typo
+substance	condition	i
 does
 not
 exclude
