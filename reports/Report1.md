@@ -1,6 +1,6 @@
 # Exploration Phase 1 - Report and reflection
 
-Time: December-January
+Time: December-February
 
 This document is intended as a report on what was done in this period, and a reflection on the findings.
 
@@ -88,9 +88,7 @@ The named entity recognition were performed on both the AASM and the ICSD3 using
 TODO
 
 ### Annotation
-No suitable datasets were found for NER on sleep apnea related free text. Due to this, there was an ad-hoc informal annotation done on both the ICSD and AASM.
-
-TODO
+No suitable datasets were found for NER on sleep apnea related free text. Due to this, there was an ad-hoc informal annotation done on both the ICSD and AASM. See own annotation documents for documentation on the annotation process.
 
 ## Takeaways
 
@@ -179,3 +177,6 @@ Questions:
 - Can the same entity labels be applied to both?
 - Does/should anything (prompts, KG ++) be different for the two texts?
 - 
+
+- should have had cause?
+Represent test results.

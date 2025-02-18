@@ -1,25 +1,19 @@
+"""Made with the help of ChatGPT"""
 import argparse
 import pandas as pd
 
-def get_sentences_from_path(file_path : str):
-    sentences = []
-    with open(file_path, 'r', encoding='utf-8') as file:
-        sentence = []
-        for line in file:
-            if line.strip():
-                sentence.append(line.strip())
-            else:
-                if sentence: 
-                    sentences.append(sentence)
-                sentence = []
-        if sentence: 
-            sentences.append(sentence)
-    return sentences
+def make_dataframe(filepath):
+    with open(filepath, "r") as f:
+        lines = [line.strip().split("\t") for line in f]
+        max_cols = max(len(line) for line in lines)
+        standardized_lines = [line + [""] * (max_cols - len(line))for line in lines]
+        df = pd.DataFrame(standardized_lines)
+    return df
 
 def compare_lines(filepath1, filepath2):
-
-    df1 = pd.read_csv(filepath1, sep='\t', header=None, skip_blank_lines=False)
-    df2 = pd.read_csv(filepath2, sep='\t', header=None, skip_blank_lines=False)
+    
+    df1 = make_dataframe(filepath1)
+    df2 = make_dataframe(filepath2)
     
     print(df1)
     print(df2)
