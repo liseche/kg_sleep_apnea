@@ -81,11 +81,14 @@ So we try BERT-based, ELECTRA-based and a GLiNER.
 
 ## NER
 
-The named entity recognition were performed on both the AASM and the ICSD3 using the script NER+RE/PyTorch/TraditionalNER.py for HuggingFace models and NER+RE/spaCy/TraditionalNER.py for spaCy models. The output of these are located in the same directory.
+The named entity recognition were performed on both the AASM and the ICSD3 using the script NER+RE/PyTorch/TraditionalNER.py for HuggingFace models and NER+RE/spaCy/TraditionalNER.py for spaCy models. The resulting NER labelling are located in the same directory as the respective scripts.
 
 ## Evaluation
 
-TODO
+What are good evaluation metrics for NER?
+- UAS
+
+| Model | 
 
 ### Annotation
 No suitable datasets were found for NER on sleep apnea related free text. Due to this, there was an ad-hoc informal annotation done on both the ICSD and AASM. See own annotation documents for documentation on the annotation process.

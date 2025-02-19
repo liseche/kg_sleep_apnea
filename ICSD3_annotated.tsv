@@ -18839,7 +18839,7 @@ Disorders
 Obstructive	condition	b
 Sleep	condition	i
 Apnea	condition	i
-Disorders	 condition	i
+Disorders	condition	i
 Obstructive	condition	b
 Sleep	condition	i
 Apnea	condition	i
@@ -27967,15 +27967,15 @@ version
 of
 the
 AASM	document	b
-Manual	doucment	i
-for	doucment	i
-the	doucment	i
-Scoring	doucment	i
-of	doucment	i
-Sleep	doucment	i
-and	doucment	i
-Associated	doucment	i
-Events	doucment	i
+Manual	document	i
+for	document	i
+the	document	i
+Scoring	document	i
+of	document	i
+Sleep	document	i
+and	document	i
+Associated	document	i
+Events	document	i
 .
 .
 

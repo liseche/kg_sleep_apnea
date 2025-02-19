@@ -1,11 +1,14 @@
 """Script to calculate performance of NER"""
 import pandas as pd
 import argparse
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support, classification_report
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support, ConfusionMatrixDisplay
 import random
 import numpy as np
+import matplotlib.pyplot as plt
 
 annotation_labels = ["SYMPTOM", "CONDITION", "RISKFACTOR", "TEST", "TREATMENT", "OUTCOME", "CONCEPT", "DOCUMENT"]
+
+fig_counter = 1
 
 annotated_lines_icsd3 = [
     [18835, 21250],
@@ -32,7 +35,7 @@ annotated_lines_icsd3 = [
 
 def make_dataframe(filepath):
     with open(filepath, "r") as f:
-        lines = [line.strip().split("\t") for line in f]
+        lines = [line.rstrip().split("\t") for line in f]
         max_cols = max(len(line) for line in lines)
         standardized_lines = [line + [""] * (max_cols - len(line))for line in lines]
         df = pd.DataFrame(standardized_lines)
@@ -104,19 +107,25 @@ def compare2gold(gold_df, df_list):
     
     for y_pred_flat in y_pred_list_flat:
         # check what kind of labels the evaluated model contains.
-        
         all_labels = set(y_pred_flat)
         labels = list(all_labels)
         labels.remove("O")
         print(labels)
+        y_all_o = ["O" for i in range(len(y_pred_flat))]
         
         if set(labels) == set(annotation_labels):
             y_random = [random.choice(["O"] + labels) for i in range(len(y_pred_flat))]
             assert len(y_random) == len(y_pred_flat)
         
             print(metrics_df(y_true_flat, y_pred_flat, labels))
+            cm = confusion_matrix(y_true_flat, y_pred_flat)
+            cm_display = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=all_labels).plot()
+            plt.savefig("something_else")
             print("\nRandom:")
             print(metrics_df(y_true_flat, y_random, labels))
+            print("\n")
+            print("All 'O':")
+            print(metrics_df(y_true_flat, y_all_o, labels))
             print("\n")
             # classification_report(y_true_flat, y_pred_flat, labels=annotation_labels, zero_division=0)
         
@@ -129,8 +138,15 @@ def compare2gold(gold_df, df_list):
             assert len(y_random) == len(y_pred_flat)
             
             print(metrics_df(y_t, y_pred_flat, labels))
+            print(labels)
+            cm = confusion_matrix(y_true=y_t, y_pred=y_pred_flat)
+            cm_display = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=all_labels).plot()
+            plt.savefig("something")
             print("\nRandom:")
             print(metrics_df(y_t, y_random, labels))
+            print("\n")
+            print("All 'O':")
+            print(metrics_df(y_true_flat, y_all_o, labels))
             print("\n")
 
 if __name__ == "__main__":
