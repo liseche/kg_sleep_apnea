@@ -26,7 +26,7 @@ The ICSD was converted from a PDF to a .txt document using the "Automator" app v
 
 ![workflow](pdf2txt.workflow/contents/QuickLook/Preview.png)
 
-Then the format of the file was changed using the script scripts/MakeDatasetWOTarget.py. It was changed to get each word on one line, for easier overview of the annotation of each word, and to be easier to label and evaluate.
+Then the format of the file was changed using the script `scripts/MakeDatasetWOTarget.py`. It was changed to get each word on one line, for easier overview of the annotation of each word, and to be easier to label and evaluate.
 
 ## Model Choice
 
@@ -86,9 +86,18 @@ The named entity recognition were performed on both the AASM and the ICSD3 using
 ## Evaluation
 
 What are good evaluation metrics for NER?
-- UAS
 
-| Model | 
+Micro-averages calculate TP, FP, and FN across all entity types before computing precision, recall, and F1.
+- useful when entities have different frequencies (rare entities should not dominate the score) (ChatGPT).
+
+Macro-averages calculate precision, recall, and F1 for each entity type separately and then averages them.
+- equal importance for all entity types (ChatGPT).
+
+![NER Model Performance](images/ner_performance.png)
+![NER Baseline Micro Performance](images/ner_baseline_micro.png)
+![NER Baseline Macro Performance](images/ner_baseline_macro.png)
+
+See rest on Overleaf.
 
 ### Annotation
 No suitable datasets were found for NER on sleep apnea related free text. Due to this, there was an ad-hoc informal annotation done on both the ICSD and AASM. See own annotation documents for documentation on the annotation process.

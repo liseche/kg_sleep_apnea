@@ -190,18 +190,20 @@ def compare2gold(gold_df, df_list, files_list):
             y_random = [random.choice(labels) for i in range(len(y_p1))]
             y_all_o_l1_l0 = ["LABEL_0" for o in y_all_o[:len(y_t1)]]
             assert len(y_random) == len(y_p1)
+            labels_wo_o = labels.copy()
+            labels_wo_o.remove("LABEL_0")
             
-            print(metrics_df(y_t1, y_p1, labels))
+            print(metrics_df(y_t1, y_p1, labels_wo_o))
             cm = confusion_matrix(y_true=y_t1, y_pred=y_p1, labels=labels)
             ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labels).plot()
             filename = "cm" + str(fig_counter)
             fig_counter = fig_counter + 1
             plt.savefig(filename)
             print("\nRandom:")
-            print(metrics_df(y_t1, y_random, labels))
+            print(metrics_df(y_t1, y_random, labels_wo_o))
             print("\n")
             print("All 'O':")
-            print(metrics_df(y_t1, y_all_o_l1_l0, labels))
+            print(metrics_df(y_t1, y_all_o_l1_l0, labels_wo_o))
             print("\n")
             
         elif len(labels) == 1:
@@ -250,18 +252,18 @@ def compare2gold(gold_df, df_list, files_list):
                     print("Converted to", str(all_labels))
                     y_pred2 = convert_0_to_o(y_pred_flat)
                     y_pred2 = remove_labels_other_than_disease(y_pred2)
-                    y_random = [random.choice(["O"] + all_labels) for i in range(len(y_pred2))]
-                    print(metrics_df(filtered_gold_io, y_pred2, labels))
+                    y_random = [random.choice(all_labels) for i in range(len(y_pred2))]
+                    print(metrics_df(filtered_gold_io, y_pred2, [la for la in all_labels if la != "O"]))
                     cm = confusion_matrix(y_true=filtered_gold_io, y_pred=y_pred2, labels=all_labels)
                     ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=all_labels).plot()
                     filename = "cm" + str(fig_counter)
                     fig_counter = fig_counter + 1
                     plt.savefig(filename)
                     print("\nRandom:")
-                    print(metrics_df(filtered_gold_io, y_random, all_labels))
+                    print(metrics_df(filtered_gold_io, y_random, [la for la in all_labels if la != "O"]))
                     print("\n")
                     print("All 'O':")
-                    print(metrics_df(filtered_gold_io, y_all_o, all_labels))
+                    print(metrics_df(filtered_gold_io, y_all_o, [la for la in all_labels if la != "O"]))
                     print("\n")
                     break
         print("\n")

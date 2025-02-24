@@ -65,6 +65,6 @@ In the fourth column and after, there are comments, and typos are marked with a 
         - requirement for condition (minimum x years / months of age)
     - these are marked with a comment in the fourth and fifth column (after three tabs in tsv file). Sometimes the comments contain suggestions to what could be a label, other times they contain just the word "something" to highlight the token that should have had an entity label.
 - should have included "objective findings" because of words that could be used to better label test terminology.
-
+- very few things annotated with "outcome". This should perhaps not have been included as a label.
 
 
