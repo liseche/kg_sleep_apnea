@@ -1,0 +1,73 @@
+load_dotenv():  True 
+
+os.environ.get('GROQ_API_KEY'):  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 
+
+os.environ:  environ({'MallocNanoZone': '0', 'USER': 'lisechen', 'COMMAND_MODE': 'unix2003', '__CFBundleIdentifier': 'com.microsoft.VSCode', 'PATH': '/Users/lisechen/.vscode/extensions/ms-python.python-2024.23.2025011501-darwin-arm64/python_files/deactivate/zsh:/Users/lisechen/thesis_code/env/bin:/Users/lisechen/Library/Python/3.11/bin:/Users/lisechen/Library/Python/3.9/bin:/opt/homebrew/opt/openjdk/bin:/Users/lisechen/.vscode/extensions/ms-python.python-2024.23.2025011501-darwin-arm64/python_files/deactivate/zsh:/Users/lisechen/thesis_code/env/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/lisechen/.vscode/extensions/ms-python.python-2024.23.2025011501-darwin-arm64/python_files/deactivate/zsh:/Users/lisechen/thesis_code/env/bin:/Users/lisechen/Library/Python/3.11/bin:/Users/lisechen/Library/Python/3.9/bin:/opt/homebrew/opt/openjdk/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/Users/lisechen/.local/bin:/Users/lisechen/.local/bin:/Users/lisechen/.local/bin', 'LOGNAME': 'lisechen', 'SSH_AUTH_SOCK': '/private/tmp/com.apple.launchd.RSlkPeumZ6/Listeners', 'HOME': '/Users/lisechen', 'SHELL': '/bin/zsh', 'TMPDIR': '/var/folders/vl/h0l6x9nj1q95t5d5z80vcgv80000gn/T/', '__CF_USER_TEXT_ENCODING': '0x1F5:0x0:0x0', 'XPC_SERVICE_NAME': '0', 'XPC_FLAGS': '0x0', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'undefined', 'SHLVL': '1', 'PWD': '/Users/lisechen/thesis_code/Prompting', 'OLDPWD': '/Users/lisechen/thesis_code', 'HOMEBREW_PREFIX': '/opt/homebrew', 'HOMEBREW_CELLAR': '/opt/homebrew/Cellar', 'HOMEBREW_REPOSITORY': '/opt/homebrew', 'INFOPATH': '/opt/homebrew/share/info:/opt/homebrew/share/info:', 'GROQ_API_KEY': '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', 'TERM_PROGRAM': 'vscode', 'TERM_PROGRAM_VERSION': '1.96.3', 'LANG': 'en_US.UTF-8', 'COLORTERM': 'truecolor', 'GIT_ASKPASS': '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh', 'VSCODE_GIT_ASKPASS_NODE': '/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'VSCODE_GIT_ASKPASS_MAIN': '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_IPC_HANDLE': '/var/folders/vl/h0l6x9nj1q95t5d5z80vcgv80000gn/T/vscode-git-0f39e50f9e.sock', 'VIRTUAL_ENV': '/Users/lisechen/thesis_code/env', 'VIRTUAL_ENV_PROMPT': '(env) ', 'VSCODE_INJECTION': '1', 'ZDOTDIR': '/Users/lisechen', 'USER_ZDOTDIR': '/Users/lisechen', 'TERM': 'xterm-256color', 'PS1': '(env) %n@%m %1~ %# ', '_': '/Users/lisechen/thesis_code/env/bin/python3', 'OPENAI_API_KEY': 'openai_api_key', 'NEO4J_URI': 'bolt://localhost:7689', 'NEO4J_USERNAME': 'neo4j', 'NEO4J_PASSWORD': 'REMOVED'}) 
+
+AUTH:  ('neo4j', 'REMOVED') 
+
+dotenv_values:  OrderedDict([('GROQ_API_KEY', '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'), ('OPENAI_API_KEY', 'openai_api_key'), ('NEO4J_URI', 'bolt://localhost:7689'), ('NEO4J_USERNAME', 'neo4j'), ('NEO4J_PASSWORD', 'REMOVED')]) 
+
+Connection with Neo4j established.
+Processing ../data/ICSD3_dataset.txt line 600 to line 650
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Using Model:  mixtral-8x7b-32768
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `mixtral-8x7b-32768` in organization `org_01jhjkqnyhe398a2pan5w4xevk` service tier `on_demand` on : Limit 500000, Used 500020, Requested 549. Please try again in 1m38.3784s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+Retrying in 13 seconds...
+Using Model:  mixtral-8x7b-32768
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `mixtral-8x7b-32768` in organization `org_01jhjkqnyhe398a2pan5w4xevk` service tier `on_demand` on : Limit 500000, Used 499944, Requested 549. Please try again in 1m25.132399999s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+Retrying in 13 seconds...
+Using Model:  mixtral-8x7b-32768
+Error code: 429 - {'error': {'message': 'Rate limit reached for model `mixtral-8x7b-32768` in organization `org_01jhjkqnyhe398a2pan5w4xevk` service tier `on_demand` on : Limit 500000, Used 499867, Requested 549. Please try again in 1m11.8754s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': '', 'code': 'rate_limit_exceeded'}}
+Retrying in 13 seconds...
+Graph sucessfully made.
+Graph creation failed: object of type 'NoneType' has no len(). Got to line 600
