@@ -10,6 +10,8 @@ ChatGPT help.
 import argparse
 import math
 from transformers import pipeline
+import sys
+sys.path.append("/Users/lisechen/thesis_code")
 from kg_explorer.utils import make_dataframe
 from kg_explorer.config import annotated_lines_icsd3
 import pandas as pd
@@ -98,17 +100,17 @@ def process_large_text(text, max_tokens=100, overlap=10):
             if num_tokens > 1024:
                 print(f"⚠ WARNING: Chunk too long ({num_tokens} tokens)! Adjusting...")
 
-            extracted_text = triplet_extractor(chunk, return_tensors=True, return_text=False)  # ✅ Enable truncation
-            results.extend(outputs)
-            pbar.update(1)  # ✅ Update progress
+            try:
+                output = triplet_extractor(chunk, return_tensors=True, return_text=False)
+                results.extend(output)
+            except Exception as e:
+                print(f"❌ Error processing chunk: {e}")
+
+            pbar.update(1)
 
     return results
 
 
-# We need to use the tokenizer manually since we need special tokens.
-extracted_text = triplet_extractor.tokenizer.batch_decode([triplet_extractor("Punta Cana is a resort town in the municipality of Higuey, in La Altagracia Province, the eastern most province of the Dominican Republic", return_tensors=True, return_text=False)[0]["generated_token_ids"]])
-print(extracted_text[0])
-# Function to parse the generated text and extract the triplets
 def extract_triplets(text):
     triplets = []
     relation, subject, relation, object_ = '', '', '', ''
@@ -139,8 +141,6 @@ def extract_triplets(text):
     if subject != '' and relation != '' and object_ != '':
         triplets.append({'head': subject.strip(), 'type': relation.strip(),'tail': object_.strip()})
     return triplets
-extracted_triplets = extract_triplets(extracted_text[0])
-print(extracted_triplets)
 
 
 if __name__ == "__main__":
@@ -149,8 +149,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--ner_file",
         type=str,
-        # default="outputs_ICSD3_NER/dmis-lab_biobert-base-cased-v1.1.tsv",
-        default="kg_explorer/NER+RE/outputs_ICSD3_NER/dmis-lab_biobert-base-cased-v1.1.tsv",
+        default="outputs_ICSD3_NER/dmis-lab_biobert-base-cased-v1.1.tsv",
+        # default="kg_explorer/NER+RE/outputs_ICSD3_NER/dmis-lab_biobert-base-cased-v1.1.tsv",
         help="path to file containing NER annotations on CoNLL format (first column for tokens, and second column for annotations)"
     )
     
@@ -168,6 +168,15 @@ if __name__ == "__main__":
     named_entities_text = " ".join(entity_df[0].tolist())
     relations = process_large_text(named_entities_text, max_tokens=100, overlap=10)
     
-    # Output extracted relations
-    for relation in relations:
-        print(relation)
+    with driver.session() as session:
+        for rel in relations:
+            decoded_text = triplet_extractor.tokenizer.decode(rel['generated_token_ids'], skip_special_tokens=False)
+            triplets = extract_triplets(decoded_text)
+            for triplet in triplets:
+                # Insert entities
+                session.write_transaction(insert_entity, triplet['head'], "Unknown")   # You can replace "Unknown" with actual type if available
+                session.write_transaction(insert_entity, triplet['tail'], "Unknown")
+                # Insert relation
+                session.write_transaction(insert_relation, triplet['head'], triplet['type'], triplet['tail'])
+    
+    driver.close()
