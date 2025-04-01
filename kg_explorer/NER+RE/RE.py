@@ -25,6 +25,8 @@ NEO4J_PASSWORD = "REMOVED"
 
 # Create Neo4j driver
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
+driver.verify_connectivity()
+print("Connection with Neo4j established.")
 
 # Load REBEL for Relation Extraction
 triplet_extractor = pipeline('text2text-generation', model='Babelscape/rebel-large', tokenizer='Babelscape/rebel-large')
@@ -51,7 +53,7 @@ def insert_relation(tx, entity1, relation, entity2):
     """
     tx.run(query, entity1=entity1, entity2=entity2, relation=relation)
 
-def chunk_large_text(text, max_tokens=100, overlap=10):
+def chunk_large_text(text, max_tokens, overlap):
     """
     Splits a single large text into chunks of max_tokens size with overlap.
     Uses a generator to avoid storing all chunks in memory.
@@ -166,7 +168,7 @@ if __name__ == "__main__":
     entity_df = filtered_df[filtered_df[1].notna() & (filtered_df[1] != "") & (filtered_df[1] != "LABEL_0")]
 
     named_entities_text = " ".join(entity_df[0].tolist())
-    relations = process_large_text(named_entities_text, max_tokens=100, overlap=10)
+    relations = process_large_text(named_entities_text, max_tokens=100, overlap=90)
     
     with driver.session() as session:
         for rel in relations:
