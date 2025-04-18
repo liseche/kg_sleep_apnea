@@ -1,0 +1,8317 @@
+Sleep	
+Related	
+Breathing	
+Disorders	
+Obstructive	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+Disorders	I-CONDITION
+Obstructive	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+,	
+Adult53	B-CONDITION
+Obstructive	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+,	
+	
+Pediatric63	B-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+Syndromes	I-CONDITION
+Central	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+with	I-CONDITION
+Cheyne	I-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+Breathing	I-CONDITION
+69	
+Central	B-CONDITION
+Apnea	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+Medical	I-CONDITION
+Disorder	I-CONDITION
+without	I-CONDITION
+Cheyne	I-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+Breathing75	I-CONDITION
+Central	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+High	I-CONDITION
+Altitude	I-CONDITION
+Periodic	I-CONDITION
+Breathing	I-CONDITION
+79	
+Central	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+Medication	I-CONDITION
+or	I-CONDITION
+Substance	I-CONDITION
+85	
+Primary	B-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+	
+89	
+Primary	B-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+of	I-CONDITION
+Infancy94	I-CONDITION
+Primary	B-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+of	I-CONDITION
+Prematurity98	I-CONDITION
+Treatment	B-CONDITION
+-	I-CONDITION
+Emergent	I-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+102	
+Sleep	B-CONDITION
+Related	I-CONDITION
+Hypoventilation	I-CONDITION
+Disorders	I-CONDITION
+Obesity	B-RISKFACTOR
+Hypoventilation	B-CONDITION
+Syndrome	I-CONDITION
+108	
+Congenital	B-CONDITION
+Central	I-CONDITION
+Alveolar	I-CONDITION
+Hypoventilation	I-CONDITION
+Syndrome	I-CONDITION
+	
+113	
+Late	B-CONDITION
+-	
+Onset	I-CONDITION
+Central	I-CONDITION
+Hypoventilation	I-CONDITION
+with	I-CONDITION
+Hypothalamic	I-CONDITION
+Dysfunction	I-CONDITION
+118	
+Idiopathic	B-CONDITION
+Central	I-CONDITION
+Alveolar	I-CONDITION
+Hypoventilation	I-CONDITION
+121	
+Sleep	B-CONDITION
+Related	I-CONDITION
+Hypoventilation	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+Medication	I-CONDITION
+or	I-CONDITION
+Substance	I-CONDITION
+	
+124	
+Sleep	B-CONDITION
+Related	I-CONDITION
+Hypoventilation	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+Medical	I-CONDITION
+Disorder128	I-CONDITION
+Sleep	B-CONDITION
+Related	I-CONDITION
+Hypoxemia	I-CONDITION
+Disorder	I-CONDITION
+Sleep	B-CONDITION
+Related	I-CONDITION
+Hypoxemia134	I-CONDITION
+Isolated	
+Symptoms	
+and	
+Normal	
+Variants	
+	
+Snoring	B-SYMPTOM
+139	
+Catathrenia	B-CONDITION
+141	
+The	
+sleep	
+related	
+breathing	
+disorders	
+are	
+characterized	
+by	
+abnormalities	
+of	
+respi-	
+ration	
+during	
+sleep	
+.	
+	
+In	
+some	
+of	
+these	
+disorders	
+,	
+respiration	
+is	
+also	
+abnormal	
+during	
+wakefulness	
+.	
+	
+The	
+disorders	
+are	
+grouped	
+into	
+obstructive	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+(	I-CONDITION
+OSA	I-CONDITION
+)	I-CONDITION
+disorders	I-CONDITION
+,	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+disorders	I-CONDITION
+,	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+disorders	I-CONDITION
+,	
+and	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoxemia	I-CONDITION
+disorder	I-CONDITION
+.	
+	
+However	
+,	
+many	
+patients	
+will	
+meet	
+diagnostic	
+criteria	
+for	
+more	
+than	
+one	
+of	
+these	
+groups	
+.	
+	
+In	
+particular	
+,	
+many	
+patients	
+have	
+a	
+combination	
+of	
+obstruc-	B-CONDITION
+tive	I-CONDITION
+and	I-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+.	
+	
+Although	
+a	
+diagnosis	
+is	
+often	
+based	
+on	
+which	
+disorder	
+Sleep	
+Related	
+Breathing	
+Disorders	
+predominates	
+,	
+this	
+may	
+vary	
+from	
+night	
+to	
+night	
+as	
+well	
+as	
+over	
+time	
+in	
+individual	
+patients	
+.	
+	
+There	
+is	
+also	
+overlap	
+in	
+pathophysiology	B-CONCEPT
+,	
+as	
+some	
+central	B-CONCEPT
+apneas	I-CONCEPT
+are	
+associ-	
+ated	
+with	
+a	
+closed	B-CONCEPT
+upper	I-CONCEPT
+airway	I-CONCEPT
+and	
+many	
+obstructive	B-CONCEPT
+apneas	I-CONCEPT
+begin	
+during	
+a	
+time	
+of	
+falling	B-CONCEPT
+ventilatory	I-CONCEPT
+drive	I-CONCEPT
+.	
+	
+In	
+the	
+sections	
+that	
+follow	
+,	
+individual	B-CONCEPT
+respiratory	I-CONCEPT
+events	I-CONCEPT
+(	
+e.g.	
+,	
+apneas	B-CONCEPT
+,	
+hypopneas	B-CONCEPT
+,	
+and	
+hypoventilation	B-CONCEPT
+)	
+are	
+not	
+defined	
+;	
+rather	
+,	
+reference	
+is	
+made	
+to	
+the	
+most	
+recent	
+version	
+of	
+the	
+American	B-DOCUMENT
+Academy	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+Medicine	I-DOCUMENT
+(	I-DOCUMENT
+AASM	I-DOCUMENT
+)	I-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+for	
+these	
+definitions	
+.	
+	
+The	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+includes	
+different	
+scoring	
+rules	
+for	
+adult	B-CONCEPT
+and	
+pediatric	B-CONCEPT
+individuals	
+,	
+definitions	
+of	
+obstructive	B-CONCEPT
+and	I-CONCEPT
+central	I-CONCEPT
+apneas	I-CONCEPT
+and	
+hypopneas	B-CONCEPT
+,	
+and	
+rules	
+for	
+scoring	
+Cheyne	B-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+breathing	I-CONDITION
+and	
+hypoventilation	B-CONDITION
+.	
+	
+The	
+OSA	B-CONDITION
+disorders	I-CONDITION
+are	
+separated	
+into	
+adult	B-CONCEPT
+and	I-CONCEPT
+pediatric	I-CONCEPT
+categories	I-CONCEPT
+,	
+as	
+the	
+presenta-	
+tion	
+,	
+diagnostic	
+criteria	
+,	
+course	
+,	
+and	
+complications	
+differ	
+significantly	
+.	
+	
+These	
+disorders	
+are	
+characterized	
+by	
+upper	B-CONCEPT
+airway	I-CONCEPT
+narrowing	I-CONCEPT
+or	I-CONCEPT
+closure	I-CONCEPT
+during	
+sleep	
+while	
+respiratory	B-CONCEPT
+effort	I-CONCEPT
+continues	
+(	
+at	
+least	
+during	
+some	
+portion	
+of	
+the	
+event	
+)	
+.	
+	
+The	
+use	
+of	
+out	B-TEST
+-	I-TEST
+of	I-TEST
+-	I-TEST
+cen-	I-TEST
+ter	I-TEST
+sleep	I-TEST
+testing	I-TEST
+(	
+OCST	B-TEST
+)	
+with	
+limited	B-CONCEPT
+channels	I-CONCEPT
+(	
+electroencephalogram	B-TEST
+[	
+EEG	B-TEST
+]	
+is	
+not	
+usually	
+recorded	
+)	
+is	
+now	
+included	
+in	
+the	
+diagnostic	
+criteria	
+for	
+adult	B-CONDITION
+OSA	I-CONDITION
+.	
+	
+The	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+syndromes	I-CONDITION
+are	
+characterized	
+by	
+reduction	
+or	
+cessation	
+of	
+airflow	
+due	
+to	
+absent	
+or	
+reduced	
+respiratory	B-CONCEPT
+effort	I-CONCEPT
+.	
+	
+Central	B-CONCEPT
+apnea	I-CONCEPT
+or	
+hypopnea	B-CONCEPT
+may	
+occur	
+in	
+a	
+cyclical	B-CONCEPT
+or	I-CONCEPT
+intermittent	I-CONCEPT
+fashion	I-CONCEPT
+.	
+	
+Patients	
+with	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+of	
+various	
+etiologies	B-CONCEPT
+may	
+also	
+exhibit	
+OSA	B-CONDITION
+.	
+	
+In	
+primary	B-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+,	
+the	
+cause	
+of	
+the	
+disorder	
+is	
+unknown	
+(	
+idiopathic	B-CONCEPT
+)	
+.	
+	
+The	
+arterial	B-CONCEPT
+partial	I-CONCEPT
+pressure	I-CONCEPT
+of	I-CONCEPT
+carbon	I-CONCEPT
+dioxide	I-CONCEPT
+(	
+PaCO2	B-CONCEPT
+)	
+during	
+wake	
+in	
+these	
+patients	
+is	
+normal	
+or	
+low	
+.	
+	
+Patients	
+do	
+not	
+meet	
+diagnostic	
+criteria	
+for	
+other	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+dis-	I-CONDITION
+orders	I-CONDITION
+.	
+	
+In	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+with	I-CONDITION
+Cheyne	I-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+breathing	I-CONDITION
+,	
+there	
+is	
+a	
+cyclical	
+pattern	
+of	
+crescendo	B-SYMPTOM
+-	I-SYMPTOM
+decrescendo	I-SYMPTOM
+respiration	I-SYMPTOM
+separated	
+by	
+central	B-CONCEPT
+apneas	I-CONCEPT
+or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+.	
+	
+Most	
+patients	
+with	
+this	
+disorder	
+have	
+congestive	B-RISKFACTOR
+heart	I-RISKFACTOR
+failure	I-RISKFACTOR
+(	
+reduced	B-RISKFACTOR
+or	I-RISKFACTOR
+preserved	I-RISKFACTOR
+ejection	I-RISKFACTOR
+fraction	I-RISKFACTOR
+)	
+,	
+although	
+,	
+less	
+commonly	
+,	
+others	
+exhibit	
+this	
+breathing	
+pattern	
+fol-	
+lowing	
+stroke	B-RISKFACTOR
+or	
+in	
+association	
+with	
+other	
+neurological	
+disorders	
+.	
+	
+In	
+high	B-CONDITION
+-	I-CONDITION
+altitude	I-CONDITION
+peri-	I-CONDITION
+odic	I-CONDITION
+breathing	I-CONDITION
+,	
+the	
+disorder	
+is	
+associated	
+with	
+acute	
+ascent	
+to	
+high	
+altitude	
+.	
+	
+Symptoms	
+must	
+be	
+present	
+to	
+establish	
+the	
+diagnosis	
+of	
+high	B-CONDITION
+-	I-CONDITION
+altitude	I-CONDITION
+periodic	I-CONDITION
+breathing	I-CONDITION
+,	
+as	
+this	
+breathing	
+pattern	
+is	
+an	
+expected	
+finding	
+after	
+ascent	
+to	
+altitude	
+.	
+	
+Central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+medical	I-CONDITION
+or	I-CONDITION
+neurological	I-CONDITION
+condition	I-CONDITION
+(	
+not	
+Cheyne	B-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+)	
+is	
+usually	
+due	
+to	
+a	
+struc-	B-CONCEPT
+tural	I-CONCEPT
+lesion	I-CONCEPT
+in	
+the	
+central	B-CONCEPT
+nervous	I-CONCEPT
+system	I-CONCEPT
+.	
+	
+These	
+disorders	
+should	
+be	
+excluded	
+before	
+a	
+diagnosis	
+of	
+primary	B-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+is	
+made	
+.	
+	
+In	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+drug	I-CONDITION
+or	I-CONDITION
+substance	I-CONDITION
+,	
+the	
+patient	
+demonstrates	
+central	B-CONCEPT
+apneas	I-CONCEPT
+secondary	
+to	
+the	
+effects	
+of	
+potent	
+opioids	B-CONCEPT
+or	
+other	
+respiratory	B-CONCEPT
+depressants	I-CONCEPT
+on	
+respiratory	B-CONCEPT
+control	I-CONCEPT
+centers	I-CONCEPT
+.	
+	
+Treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+is	
+a	
+new	
+addition	
+to	
+the	
+International	B-DOCUMENT
+Classification	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+Disorders	I-DOCUMENT
+.	
+	
+In	
+this	
+disorder	
+,	
+the	
+patient	
+exhibits	
+predominantly	
+obstructive	
+events	
+during	
+diagnostic	
+sleep	
+testing	
+(	
+e.g.	
+,	
+obstructive	B-CONCEPT
+or	I-CONCEPT
+mixed	I-CONCEPT
+apneas	I-CONCEPT
+and	
+obstructive	B-CONCEPT
+hypopneas	I-CONCEPT
+)	
+,	
+but	
+central	B-CONCEPT
+apneas	I-CONCEPT
+or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+emerge	
+or	
+persist	
+on	
+positive	B-TREATMENT
+airway	I-TREATMENT
+pressure	I-TREATMENT
+treatment	I-TREATMENT
+without	
+a	
+backup	B-CONCEPT
+rate	I-CONCEPT
+and	
+are	
+the	
+predominant	
+residual	B-CONCEPT
+breathing	I-CONCEPT
+abnormality	I-CONCEPT
+(	
+i.e.	
+,	
+obstructive	B-CONCEPT
+events	I-CONCEPT
+have	
+resolved	
+)	
+.	
+	
+A	
+diagnosis	
+of	
+treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+is	
+made	
+when	
+the	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+component	
+is	
+not	
+better	
+explained	
+by	
+another	
+diagnosis	
+(	
+i.e.	
+,	
+another	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+disorder	I-CONDITION
+)	
+.	
+	
+Sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+disorders	I-CONDITION
+are	
+characterized	
+by	
+an	
+abnormal	
+increase	
+in	
+the	
+arterial	I-CONCEPT
+PCO2	I-CONCEPT
+(	
+PaCO2	B-CONCEPT
+)	
+during	
+sleep	
+.	
+	
+Adult	B-CONDITION
+and	I-CONDITION
+pediatric	I-CONDITION
+hypoventilation	I-CONDITION
+disorders	I-CONDITION
+are	
+defined	
+by	
+different	
+criteria	
+.	
+	
+For	
+adults	
+,	
+an	
+increase	
+in	
+the	
+arterial	B-CONCEPT
+PCO2	I-CONCEPT
+(	
+or	
+sur-	B-CONCEPT
+rogate	I-CONCEPT
+)	
+to	
+greater	
+than	
+55	
+mm	
+Hg	
+for	
+at	
+least	
+10	
+minutes	
+or	
+an	
+increase	
+≥	
+10	
+mm	
+	
+Hg	
+above	
+the	
+awake	
+value	
+to	
+a	
+value	
+of	
+50	
+mm	
+Hg	
+or	
+greater	
+for	
+at	
+least	
+10	
+minutes	
+is	
+required	
+.	
+	
+In	
+pediatric	B-CONCEPT
+patients	
+,	
+the	
+PaCO2	B-CONCEPT
+(	
+or	
+surrogate	B-CONCEPT
+)	
+must	
+be	
+greater	
+than	
+50	
+mm	
+Hg	
+for	
+greater	
+than	
+25	
+%	
+of	
+total	
+sleep	
+time	
+.	
+	
+In	
+this	
+edition	
+of	
+the	
+International	B-DOCUMENT
+Classification	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+Disorders	I-DOCUMENT
+,	
+there	
+are	
+a	
+number	
+of	
+changes	
+in	
+the	
+classification	
+of	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+disorders	I-CONDITION
+.	
+	
+The	
+obesity	B-CONDITION
+hypoventilation	I-CONDITION
+syndrome	I-CONDITION
+is	
+listed	
+as	
+a	
+separate	
+disorder	
+given	
+that	
+it	
+is	
+both	
+prevalent	
+and	
+has	
+distinct	
+clinical	
+characteristics	
+.	
+	
+In	
+contrast	
+to	
+other	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventila-	I-CONDITION
+tion	I-CONDITION
+disorders	I-CONDITION
+,	
+a	
+diagnosis	
+of	
+obesity	B-CONDITION
+hypoventilation	I-CONDITION
+syndrome	I-CONDITION
+requires	
+documenta-	
+tion	
+of	
+awake	B-CONDITION
+(	I-CONDITION
+daytime	I-CONDITION
+)	I-CONDITION
+hypoventilation	I-CONDITION
+(	
+PaCO2	B-CONCEPT
+>	
+45	
+mm	
+Hg	
+)	
+.	
+	
+For	
+the	
+other	
+disorders	
+in	
+this	
+category	
+,	
+awake	B-CONCEPT
+hypoventilation	I-CONCEPT
+may	
+or	
+may	
+not	
+be	
+present	
+.	
+	
+In	
+the	
+previous	
+version	
+of	
+the	
+International	B-DOCUMENT
+Classification	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+Disorders	I-DOCUMENT
+,	
+a	
+group	
+of	
+disorders	
+were	
+listed	
+under	
+the	
+category	
+of	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+/	I-CONDITION
+hypoxemia	I-CONDITION
+disorders	I-CONDITION
+.	
+	
+In	
+the	
+International	B-DOCUMENT
+Classification	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+Disorders	I-DOCUMENT
+,	I-DOCUMENT
+3rd	I-DOCUMENT
+Edition	I-DOCUMENT
+,	
+disorders	
+manifesting	
+hypoventilation	B-CONDITION
+are	
+separated	
+from	
+disorders	
+in	
+which	
+only	
+a	
+finding	
+of	
+hypoxemia	B-CONDITION
+(	
+arterial	B-CONCEPT
+oxygen	I-CONCEPT
+desaturation	I-CONCEPT
+)	
+during	
+sleep	
+is	
+documented	
+.	
+	
+Demonstrating	
+sleep	B-CONCEPT
+related	I-CONCEPT
+hypoventilation	I-CONCEPT
+rather	
+than	
+simply	
+hypoxemia	B-CONCEPT
+has	
+important	
+diagnostic	
+and	
+treatment	
+consequences	
+.	
+	
+Sleep	B-CONDITION
+related	I-CONDITION
+hypoxemia	I-CONDITION
+disorders	I-CONDITION
+are	
+characterized	
+by	
+sustained	
+periods	
+of	
+significantly	
+reduced	
+oxyhemoglobin	B-CONCEPT
+saturation	I-CONCEPT
+during	
+sleep	
+.	
+	
+This	
+diagnostic	
+category	
+is	
+used	
+when	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+is	
+either	
+not	
+present	
+or	
+the	
+status	
+is	
+unknown	
+.	
+	
+Sleep	B-CONDITION
+related	I-CONDITION
+hypoxemia	I-CONDITION
+can	
+occur	
+due	
+to	
+hypoventilation	B-CONCEPT
+,	
+ven-	B-CONCEPT
+tilation	I-CONCEPT
+-	I-CONCEPT
+perfusion	I-CONCEPT
+mismatch	I-CONCEPT
+,	
+low	
+partial	B-CONCEPT
+pressure	I-CONCEPT
+of	
+oxygen	B-CONCEPT
+,	
+shunt	B-CONCEPT
+,	
+or	
+a	
+combination	
+of	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Sleep	
+Related	
+Breathing	
+Disorders	
+these	
+factors	
+.	
+	
+Many	
+diverse	
+etiologies	B-CONCEPT
+can	
+be	
+associated	
+with	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoxemia	I-CONDITION
+.	
+	
+There	
+are	
+no	
+longer	
+separate	
+diagnostic	
+categories	
+for	
+the	
+various	
+types	
+of	
+medical	
+and	
+neurological	
+pathology	B-CONCEPT
+that	
+may	
+contribute	
+to	
+hypoventilation	B-CONCEPT
+or	
+hypoxemia	I-CONCEPT
+.	
+	
+In	
+the	
+International	B-DOCUMENT
+Classification	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+Disorders	I-DOCUMENT
+,	I-DOCUMENT
+2nd	I-DOCUMENT
+Edition	I-DOCUMENT
+,	
+these	
+included	
+lower	B-CONCEPT
+airway	I-CONCEPT
+obstruction	I-CONCEPT
+,	
+pulmonary	B-CONCEPT
+parenchymal	I-CONCEPT
+and	
+vascular	B-CONCEPT
+pathology	I-CONCEPT
+,	
+and	
+neuromus-	B-CONCEPT
+cular	I-CONCEPT
+and	
+chest	B-CONCEPT
+wall	I-CONCEPT
+disorders	I-CONCEPT
+.	
+	
+In	
+the	
+International	B-DOCUMENT
+Classification	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+Disorders	I-DOCUMENT
+,	I-DOCUMENT
+3rd	I-DOCUMENT
+Edition	I-DOCUMENT
+,	
+the	
+specific	
+pulmonary	B-CONCEPT
+or	
+neurological	I-CONCEPT
+disorder	
+should	
+be	
+diagnosed	
+sep-	
+arately	
+,	
+in	
+association	
+with	
+a	
+diagnosis	
+of	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+due	
+medical	
+or	
+neurological	
+condition	
+or	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoxemia	I-CONDITION
+.	
+	
+Bibliography	
+Badr	
+MS	
+,	
+Toiber	
+F	
+,	
+Skatrud	
+JB	
+,	
+Dempsey	
+J.	
+Pharyngeal	
+narrowing	
+/	
+occlusion	
+during	
+central	
+sleep	
+apnea	
+.	
+	
+J	
+Appl	
+Physiol	
+1995;78:1806–15	
+.	
+	
+Berry	
+RB	
+,	
+Brooks	
+R	
+,	
+Gamaldo	
+CE	
+,	
+Harding	
+SM	
+,	
+Lloyd	
+RM	
+,	
+Marcus	
+CL	
+and	
+Vaughn	
+BV	
+for	
+the	
+American	
+Academy	
+of	
+Sleep	
+Medicine	
+.	
+	
+The	B-DOCUMENT
+AASM	I-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+:	I-DOCUMENT
+Rules	I-DOCUMENT
+,	I-DOCUMENT
+Terminology	I-DOCUMENT
+and	I-DOCUMENT
+Technical	I-DOCUMENT
+Specifications	I-DOCUMENT
+,	I-DOCUMENT
+Version	I-DOCUMENT
+2.0.3	I-DOCUMENT
+.	
+www.aasmnet.org	
+.	
+	
+Darien	
+,	
+IL	
+:	
+American	
+Academy	
+of	
+Sleep	
+Medicine	
+,	
+2014	
+Tkacova	
+R	
+,	
+Niroumand	
+M	
+,	
+Lorenzi	
+-	
+Filho	
+G	
+,	
+Bradley	
+TD	
+.	
+	
+Overnight	B-DOCUMENT
+shift	I-DOCUMENT
+from	I-DOCUMENT
+obstructive	I-DOCUMENT
+to	I-DOCUMENT
+central	I-DOCUMENT
+apneas	I-DOCUMENT
+in	I-DOCUMENT
+patients	I-DOCUMENT
+with	I-DOCUMENT
+heart	I-DOCUMENT
+failure	I-DOCUMENT
+:	I-DOCUMENT
+role	I-DOCUMENT
+of	I-DOCUMENT
+PCO2	I-DOCUMENT
+and	I-DOCUMENT
+circulatory	I-DOCUMENT
+delay	I-DOCUMENT
+.	
+	
+Circulation	
+2001;103:238–43	
+.	
+	
+Tkacova	
+R	
+,	
+Wang	
+H	
+,	
+Bradley	
+TD	
+.	
+	
+Night	B-DOCUMENT
+-	I-DOCUMENT
+to	I-DOCUMENT
+-	I-DOCUMENT
+night	I-DOCUMENT
+alterations	I-DOCUMENT
+in	I-DOCUMENT
+sleep	I-DOCUMENT
+apnea	I-DOCUMENT
+type	I-DOCUMENT
+in	I-DOCUMENT
+patients	I-DOCUMENT
+with	I-DOCUMENT
+heart	I-DOCUMENT
+failure	I-DOCUMENT
+.	
+	
+J	
+Sleep	
+Res	
+2006;15:321–8	
+.	
+	
+Obstructive	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+Disorders	I-CONDITION
+Obstructive	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+,	
+Adult	B-CONCEPT
+ICD-9	I-CONCEPT
+-	I-CONCEPT
+CM	I-CONCEPT
+code	I-CONCEPT
+:	
+327.23	
+ICD-10	B-CONCEPT
+-	I-CONCEPT
+CM	I-CONCEPT
+code	I-CONCEPT
+:	
+G47.33	
+Alternate	
+Names	
+OSA	B-CONDITION
+syndrome	I-CONDITION
+,	
+sleep	B-CONDITION
+apnea	I-CONDITION
+,	
+sleep	B-CONDITION
+apnea	I-CONDITION
+syndrome	I-CONDITION
+,	
+obstructive	B-CONDITION
+apnea	I-CONDITION
+,	
+sleep	B-CONDITION
+disor-	I-CONDITION
+dered	I-CONDITION
+breathing	I-CONDITION
+,	
+obstructive	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+hypopnea	I-CONDITION
+syndrome	I-CONDITION
+.	
+	
+The	
+term	
+upper	B-CONDITION
+airway	I-CONDITION
+resistance	I-CONDITION
+syndrome	I-CONDITION
+(	
+UARS	B-CONDITION
+)	
+is	
+subsumed	
+under	
+this	
+diagnosis	
+because	
+the	
+pathophysiology	B-CONCEPT
+does	
+not	
+significantly	
+differ	
+from	
+that	
+of	
+obstructive	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+.	
+	
+Use	
+of	
+the	
+term	
+Pickwickian	B-CONDITION
+syndrome	I-CONDITION
+is	
+discouraged	
+because	
+not	
+only	
+has	
+it	
+been	
+applied	
+to	
+those	
+with	
+OSA	B-CONDITION
+,	
+but	
+also	
+indiscriminately	
+used	
+to	
+describe	
+persons	
+who	
+are	
+only	
+obese	
+and	
+those	
+with	
+obesity	B-CONDITION
+hypoventilation	I-CONDITION
+syndrome	I-CONDITION
+.	
+	
+Diagnostic	
+Criteria	
+(	
+A	
+and	
+B	
+)	
+or	
+C	
+satisfy	
+the	
+criteria	
+A.	
+	
+The	
+presence	
+of	
+one	
+or	
+more	
+of	
+the	
+following	
+:	
+.	
+	
+The	
+patient	
+complains	
+of	
+sleepiness	B-SYMPTOM
+,	
+nonrestorative	B-SYMPTOM
+sleep	I-SYMPTOM
+,	
+fatigue	B-SYMPTOM
+,	
+or	
+insomnia	B-SYMPTOM
+symptoms	I-SYMPTOM
+.	
+.	
+	
+The	
+patient	
+wakes	
+with	
+breath	B-SYMPTOM
+holding	I-SYMPTOM
+,	
+gasping	B-SYMPTOM
+,	
+or	
+choking	B-SYMPTOM
+.	
+.	
+	
+The	
+bed	
+partner	
+or	
+other	
+observer	
+reports	
+habitual	B-SYMPTOM
+snoring	I-SYMPTOM
+,	
+breathing	B-SYMPTOM
+interruptions	I-SYMPTOM
+,	
+or	
+both	
+during	
+the	
+patient	
+’s	
+sleep	
+.	
+.	
+	
+The	
+patient	
+has	
+been	
+diagnosed	
+with	
+hypertension	B-SYMPTOM
+,	
+a	
+mood	B-SYMPTOM
+disorder	I-SYMPTOM
+,	
+cognitive	B-SYMPTOM
+dysfunction	I-SYMPTOM
+,	
+coronary	B-SYMPTOM
+artery	I-SYMPTOM
+disease	I-SYMPTOM
+,	
+stroke	B-SYMPTOM
+,	
+congestive	B-SYMPTOM
+heart	I-SYMPTOM
+failure	I-SYMPTOM
+,	
+atrial	B-SYMPTOM
+fibrillation	I-SYMPTOM
+,	
+or	
+type	B-SYMPTOM
+2	I-SYMPTOM
+diabetes	I-SYMPTOM
+mellitus	I-SYMPTOM
+.	
+	
+B.	
+Polysomnography	B-TEST
+(	
+PSG	B-TEST
+)	
+or	
+OCST1	B-TEST
+demonstrates	
+:	
+.	
+	
+Five	
+or	
+more	
+predominantly	
+obstructive	B-CONCEPT
+respiratory	I-CONCEPT
+events2	I-CONCEPT
+(	
+obstructive	B-CONCEPT
+and	I-CONCEPT
+mixed	I-CONCEPT
+apneas	I-CONCEPT
+,	
+hypopneas	B-CONCEPT
+,	
+or	
+respiratory	B-CONCEPT
+effort	I-CONCEPT
+related	I-CONCEPT
+arousals	I-CONCEPT
+[	
+RERAs])3	B-CONCEPT
+per	
+hour	
+of	
+sleep	
+during	
+a	
+PSG	B-TEST
+or	
+per	
+hour	
+of	
+monitoring	B-TEST
+(	
+OCST).1	B-TEST
+OR	
+C.	
+PSG	B-TEST
+or	
+OCST1	B-TEST
+demonstrates	
+:	
+.	
+	
+Fifteen	
+or	
+more	
+predominantly	
+obstructive	B-CONCEPT
+respiratory	I-CONCEPT
+events	I-CONCEPT
+(	
+apneas	B-CONCEPT
+,	
+hypopneas	B-CONCEPT
+,	
+or	
+RERAs)3	B-CONCEPT
+per	
+hour	
+of	
+sleep	
+during	
+a	
+PSG	B-TEST
+or	
+per	
+hour	
+of	
+monitoring	B-TEST
+(	
+OCST).1	B-TEST
+Sleep	
+Related	
+Breathing	
+Disorders	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Notes	
+.	
+	
+OCST	B-TEST
+commonly	
+underestimates	
+the	
+number	
+of	
+obstructive	B-CONCEPT
+respiratory	I-CONCEPT
+events	I-CONCEPT
+per	
+hour	
+as	
+compared	
+to	
+PSG	B-TEST
+because	
+actual	
+sleep	
+time	
+,	
+as	
+determined	
+primarily	
+by	
+EEG	B-TEST
+,	
+is	
+often	
+not	
+recorded	
+.	
+	
+The	
+term	
+respiratory	B-CONCEPT
+event	I-CONCEPT
+index	I-CONCEPT
+(	
+REI	B-CONCEPT
+)	
+may	
+be	
+used	
+to	
+denote	
+event	B-CONCEPT
+frequency	I-CONCEPT
+based	
+on	
+monitoring	B-CONCEPT
+time	I-CONCEPT
+rather	
+than	
+total	B-CONCEPT
+sleep	I-CONCEPT
+time	I-CONCEPT
+.	
+.	
+	
+Respiratory	B-CONCEPT
+events	I-CONCEPT
+defined	
+according	
+the	
+most	
+recent	
+version	
+of	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+.	
+	
+RERAs	B-CONCEPT
+and	
+hypopnea	B-CONCEPT
+events	I-CONCEPT
+based	
+on	
+arousals	
+from	
+sleep	
+can	
+not	
+be	
+scored	
+using	
+OCST	B-TEST
+because	
+arousals	
+by	
+EEG	B-TEST
+criteria	I-TEST
+can	
+not	
+be	
+identified	
+.	
+	
+Essential	
+Features	
+OSA	B-CONDITION
+is	
+characterized	
+by	
+repetitive	
+episodes	
+of	
+complete	B-CONCEPT
+(	I-CONCEPT
+apnea	I-CONCEPT
+)	I-CONCEPT
+or	I-CONCEPT
+partial	I-CONCEPT
+(	I-CONCEPT
+hypopnea	I-CONCEPT
+)	I-CONCEPT
+upper	I-CONCEPT
+airway	I-CONCEPT
+obstruction	I-CONCEPT
+occurring	
+during	
+sleep	
+.	
+	
+These	
+events	
+often	
+result	
+in	
+reduc-	B-CONCEPT
+tions	I-CONCEPT
+in	I-CONCEPT
+blood	I-CONCEPT
+oxygen	I-CONCEPT
+saturation	I-CONCEPT
+and	
+are	
+usually	
+terminated	
+by	
+brief	B-CONCEPT
+arousals	I-CONCEPT
+from	
+sleep	
+.	
+	
+By	
+definition	
+,	
+apneic	B-CONCEPT
+and	I-CONCEPT
+hypopneic	I-CONCEPT
+events	I-CONCEPT
+last	
+a	
+minimum	
+of	
+10	
+seconds	
+.	
+	
+Most	
+events	
+are	
+10	
+to	
+30	
+seconds	
+in	
+duration	
+but	
+occasionally	
+persist	
+for	
+one	
+minute	
+or	
+longer	
+.	
+	
+Events	
+can	
+occur	
+in	
+any	
+stage	B-CONCEPT
+of	I-CONCEPT
+sleep	I-CONCEPT
+but	
+more	
+frequently	
+occur	
+in	
+stages	
+N1	B-CONCEPT
+,	
+N2	B-CONCEPT
+,	
+and	
+R	B-CONCEPT
+sleep	I-CONCEPT
+than	
+in	
+stage	
+N3	B-CONCEPT
+sleep	I-CONCEPT
+.	
+	
+Events	
+are	
+usually	
+longer	
+and	
+associated	
+with	
+more	
+severe	
+decreases	
+in	
+oxygen	B-CONCEPT
+saturation	I-CONCEPT
+when	
+they	
+occur	
+in	
+stage	B-CONCEPT
+R	I-CONCEPT
+sleep	I-CONCEPT
+and	
+when	
+the	
+individual	
+is	
+sleeping	
+supine	B-CONCEPT
+.	
+	
+Oxygen	B-CONCEPT
+saturation	I-CONCEPT
+usually	
+returns	
+to	
+baseline	
+values	
+following	
+resumption	B-CONCEPT
+of	I-CONCEPT
+normal	I-CONCEPT
+breathing	I-CONCEPT
+but	
+may	
+remain	
+low	
+if	
+the	
+apneic	B-CONCEPT
+or	I-CONCEPT
+hypopneic	I-CONCEPT
+events	I-CONCEPT
+are	
+very	
+frequent	
+and	
+prolonged	
+,	
+or	
+if	
+there	
+is	
+underlying	
+pulmonary	B-CONCEPT
+pathology	I-CONCEPT
+.	
+	
+Snoring	B-SYMPTOM
+between	
+apneas	B-CONCEPT
+is	
+typically	
+reported	
+by	
+bed	
+partners	
+,	
+as	
+are	
+wit-	
+nessed	
+episodes	
+of	
+gasping	B-SYMPTOM
+or	
+choking	B-SYMPTOM
+and	
+body	B-SYMPTOM
+movements	I-SYMPTOM
+that	
+disrupt	
+sleep	
+.	
+	
+Most	
+patients	
+awaken	
+in	
+the	
+morning	
+feeling	B-SYMPTOM
+tired	I-SYMPTOM
+and	I-SYMPTOM
+unrefreshed	I-SYMPTOM
+regardless	I-SYMPTOM
+of	I-SYMPTOM
+the	I-SYMPTOM
+duration	I-SYMPTOM
+of	I-SYMPTOM
+their	I-SYMPTOM
+time	I-SYMPTOM
+in	I-SYMPTOM
+bed	I-SYMPTOM
+.	
+	
+Apneas	B-CONCEPT
+,	
+hypopneas	B-CONCEPT
+,	
+and	
+snoring	B-SYMPTOM
+may	
+be	
+exacerbated	
+following	
+the	
+ingestion	B-RISKFACTOR
+of	I-RISKFACTOR
+alcohol	I-RISKFACTOR
+,	
+use	B-RISKFACTOR
+of	I-RISKFACTOR
+sedating	I-RISKFACTOR
+medications	I-RISKFACTOR
+prior	
+to	
+sleep	
+,	
+or	
+following	
+an	
+increase	B-RISKFACTOR
+in	I-RISKFACTOR
+body	I-RISKFACTOR
+weight	I-RISKFACTOR
+.	
+	
+Excessive	B-SYMPTOM
+sleepiness	I-SYMPTOM
+is	
+a	
+major	
+presenting	
+complaint	
+in	
+many	
+but	
+not	
+all	
+cases	
+.	
+	
+The	
+sleepiness	
+is	
+most	
+evident	
+during	
+relaxing	
+or	
+inactive	
+situations	
+.	
+	
+With	
+extreme	
+sleepi-	
+ness	
+,	
+sleep	
+may	
+occur	
+while	
+actively	
+conversing	
+,	
+eating	
+,	
+walking	
+,	
+or	
+driving	
+.	
+	
+In	
+women	
+,	
+excessive	B-SYMPTOM
+sleepiness	I-SYMPTOM
+is	
+a	
+less	
+prominent	
+complaint	
+.	
+	
+Additionally	
+,	
+reports	
+of	
+insomnia	B-SYMPTOM
+,	
+poor	B-SYMPTOM
+sleep	I-SYMPTOM
+quality	I-SYMPTOM
+,	
+and	
+fatigue	B-SYMPTOM
+are	
+common	
+,	
+particularly	
+among	
+women	
+.	
+	
+Quality	
+of	
+life	
+generally	
+is	
+adversely	
+affected	
+by	
+unrefreshing	B-SYMPTOM
+sleep	I-SYMPTOM
+,	
+sleepiness	B-SYMPTOM
+,	
+and	
+fatigue	B-SYMPTOM
+.	
+	
+Bed	
+part-	
+ners	
+may	
+also	
+report	
+sleep	
+disruption	
+and	
+associated	
+consequences	
+.	
+	
+The	
+frequency	
+of	
+apneas	B-CONCEPT
+and	
+hypopneas	B-CONCEPT
+during	
+sleep	
+correlates	
+poorly	
+with	
+daytime	
+symptom	
+severity	
+and	
+impact	
+on	
+quality	
+of	
+life	
+.	
+	
+In	
+some	
+cases	
+,	
+affected	
+individuals	
+will	
+not	
+endorse	
+any	
+symptoms	
+or	
+confirm	
+any	
+bed	
+partner	
+observations	
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+	
+The	
+major	
+predisposing	
+factor	
+for	
+OSA	B-CONDITION
+is	
+excess	B-RISKFACTOR
+body	I-RISKFACTOR
+weight	I-RISKFACTOR
+.	
+	
+It	
+has	
+been	
+estimated	
+that	
+~60	
+%	
+of	
+moderate	
+to	
+severe	
+OSA	B-CONDITION
+is	
+attributable	
+to	
+obesity	B-RISKFACTOR
+.	
+	
+The	
+risk	
+of	
+OSA	B-CONDITION
+increases	
+as	
+the	
+degree	
+of	
+additional	
+weight	
+increases	
+,	
+with	
+an	
+extremely	
+high	
+preva-	
+lence	
+of	
+OSA	B-CONDITION
+in	
+people	
+with	
+morbid	B-RISKFACTOR
+obesity	I-RISKFACTOR
+.	
+	
+OSA	B-CONDITION
+patients	
+with	
+normal	
+or	
+below	
+-	
+nor-	
+mal	
+body	
+weight	
+are	
+more	
+likely	
+to	
+have	
+upper	B-CONCEPT
+airway	I-CONCEPT
+obstruction	I-CONCEPT
+due	
+to	
+a	
+localized	B-CONCEPT
+structural	I-CONCEPT
+abnormality	I-CONCEPT
+such	
+as	
+a	
+maxillomandibular	B-CONCEPT
+malformation	I-CONCEPT
+or	
+adenotonsillar	B-CONCEPT
+enlargement	I-CONCEPT
+.	
+	
+Increasing	B-RISKFACTOR
+neck	I-RISKFACTOR
+circumference	I-RISKFACTOR
+predicts	
+higher	
+AHIs	B-CONCEPT
+;	
+it	
+is	
+not	
+,	
+however	
+,	
+independent	
+of	
+BMI	B-CONCEPT
+.	
+	
+Instability	B-RISKFACTOR
+in	I-RISKFACTOR
+ventilatory	I-RISKFACTOR
+control	
+appears	
+to	
+increase	
+risk	
+of	
+OSA	
+.	
+	
+Those	
+patients	
+with	
+an	
+exaggerated	B-RISKFACTOR
+ventilatory	I-RISKFACTOR
+response	I-RISKFACTOR
+to	I-RISKFACTOR
+a	I-RISKFACTOR
+respiratory	I-RISKFACTOR
+disturbance	I-RISKFACTOR
+have	
+a	
+greater	
+propensity	
+for	
+obstructive	
+events	
+.	
+	
+Menopause	B-RISKFACTOR
+is	
+a	
+risk	
+factor	
+for	
+this	
+disorder	
+in	
+women	
+,	
+even	
+after	
+adjustment	
+for	
+age	
+and	
+BMI	B-CONCEPT
+.	
+	
+However	
+,	
+use	
+of	
+hormone	B-TREATMENT
+replacement	I-TREATMENT
+therapy	I-TREATMENT
+may	
+be	
+protective	
+.	
+	
+There	
+are	
+conflicting	
+data	
+concerning	
+smoking	B-RISKFACTOR
+as	
+a	
+risk	
+factor	
+for	
+OSA	
+.	
+	
+Various	
+abnormalities	B-RISKFACTOR
+of	I-RISKFACTOR
+the	I-RISKFACTOR
+bony	I-RISKFACTOR
+and	I-RISKFACTOR
+soft	I-RISKFACTOR
+tissue	I-RISKFACTOR
+structures	I-RISKFACTOR
+of	I-RISKFACTOR
+the	I-RISKFACTOR
+head	I-RISKFACTOR
+and	I-RISKFACTOR
+neck	I-RISKFACTOR
+may	
+predispose	
+the	
+individual	
+to	
+having	
+OSA	B-CONDITION
+.	
+	
+These	
+may	
+be	
+hereditary	
+(	
+e.g.	
+,	
+mandibular	B-RISKFACTOR
+size	I-RISKFACTOR
+,	
+mandibular	B-RISKFACTOR
+position	I-RISKFACTOR
+,	
+palatal	B-RISKFACTOR
+height	I-RISKFACTOR
+)	
+or	
+acquired	
+(	
+e.g.	
+,	
+enlarged	B-RISKFACTOR
+adenoids	I-RISKFACTOR
+and	I-RISKFACTOR
+tonsils	I-RISKFACTOR
+)	
+.	
+	
+Endocrine	
+disorders	
+such	
+as	
+acromegaly	B-RISKFACTOR
+and	
+hypothy-	B-RISKFACTOR
+roidism	I-RISKFACTOR
+are	
+risk	
+factors	
+for	
+OSA	B-CONDITION
+.	
+	
+Adults	
+and	
+children	
+with	
+Down	B-RISKFACTOR
+syndrome	I-RISKFACTOR
+also	
+have	
+a	
+high	
+prevalence	
+of	
+OSA	B-CONDITION
+.	
+	
+OSA	B-CONDITION
+is	
+common	
+in	
+patients	
+with	
+some	
+neurologic	B-RISKFACTOR
+disorders	I-RISKFACTOR
+that	I-RISKFACTOR
+affect	I-RISKFACTOR
+peripheral	I-RISKFACTOR
+muscles	I-RISKFACTOR
+,	
+such	
+as	
+myotonic	B-RISKFACTOR
+dystrophy	I-RISKFACTOR
+.	
+	
+OSA	B-CONDITION
+is	
+likely	
+made	
+worse	
+following	
+alcohol	B-RISKFACTOR
+consumption	I-RISKFACTOR
+or	
+use	
+of	
+sedating	B-RISKFACTOR
+medications	I-RISKFACTOR
+before	I-RISKFACTOR
+sleep	I-RISKFACTOR
+and	
+by	
+nocturnal	B-RISKFACTOR
+nasal	I-RISKFACTOR
+restriction	I-RISKFACTOR
+or	I-RISKFACTOR
+congestion	I-RISKFACTOR
+due	
+to	
+abnormal	B-RISKFACTOR
+morphology	I-RISKFACTOR
+,	
+rhinitis	B-RISKFACTOR
+,	
+or	
+both	
+.	
+	
+Obstructive	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+,	I-CONDITION
+Pediatric	I-CONDITION
+ICD-9	
+-	
+CM	
+code	
+:	
+327.23	
+ICD-10	
+-	
+CM	
+code	
+:	
+G47.33	
+Alternate	
+Names	
+Obstructive	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+syndrome	I-CONDITION
+,	
+sleep	B-CONDITION
+apnea	I-CONDITION
+,	
+sleep	B-CONDITION
+apnea	I-CONDITION
+syndrome	I-CONDITION
+,	
+obstructive	B-CONDITION
+apnea	I-CONDITION
+,	
+sleep	B-CONDITION
+disordered	I-CONDITION
+breathing	I-CONDITION
+,	
+sleep	B-CONDITION
+hypopnea	I-CONDITION
+syndrome	I-CONDITION
+,	
+obstructive	B-CONDITION
+hypoventila-	I-CONDITION
+tion	I-CONDITION
+,	
+and	
+upper	B-CONDITION
+airway	I-CONDITION
+obstruction	I-CONDITION
+.	
+	
+The	
+term	
+upper	B-CONDITION
+airway	I-CONDITION
+resistance	I-CONDITION
+syndrome	I-CONDITION
+(	
+UARS	B-CONDITION
+)	
+is	
+subsumed	
+under	
+this	
+diagnosis	
+because	
+the	
+pathophysiology	B-CONCEPT
+does	
+not	
+significantly	
+differ	
+from	
+that	
+of	
+OSA	B-CONDITION
+.	
+	
+Use	
+of	
+the	
+term	
+Pickwickian	B-CONDITION
+syndrome	I-CONDITION
+is	
+discouraged	
+,	
+as	
+this	
+term	
+has	
+been	
+used	
+loosely	
+to	
+cover	
+a	
+constellation	
+of	
+conditions	
+including	
+OSA	B-CONDITION
+and	
+central	B-CONDITION
+hypoventilation	I-CONDITION
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+A	
+and	
+B	
+must	
+be	
+met	
+A.	
+	
+The	
+presence	
+of	
+one	
+or	
+more	
+of	
+the	
+following	
+:	
+.	
+	
+Snoring	B-SYMPTOM
+.	
+.	
+	
+Labored	B-SYMPTOM
+,	I-SYMPTOM
+paradoxical	I-SYMPTOM
+,	I-SYMPTOM
+or	I-SYMPTOM
+obstructed	I-SYMPTOM
+breathing	I-SYMPTOM
+during	I-SYMPTOM
+the	I-SYMPTOM
+child	I-SYMPTOM
+’s	I-SYMPTOM
+sleep	I-SYMPTOM
+.	
+.	
+	
+Sleepiness	B-SYMPTOM
+,	
+hyperactivity	B-SYMPTOM
+,	
+behavioral	B-SYMPTOM
+problems	I-SYMPTOM
+,	
+or	
+learning	B-SYMPTOM
+problems	I-SYMPTOM
+.	
+	
+B.	
+PSG	B-TEST
+demonstrates	
+one	
+or	
+both	
+of	
+the	
+following	
+:	
+.	
+	
+One	B-SYMPTOM
+or	I-SYMPTOM
+more	I-SYMPTOM
+obstructive	I-SYMPTOM
+apneas	I-SYMPTOM
+,	I-SYMPTOM
+mixed	I-SYMPTOM
+apneas	I-SYMPTOM
+,	I-SYMPTOM
+or	I-SYMPTOM
+hypopneas	I-SYMPTOM
+,	I-SYMPTOM
+per	I-SYMPTOM
+hour	I-SYMPTOM
+of	I-SYMPTOM
+sleep.1	I-SYMPTOM
+OR	
+.	
+	
+A	
+pattern	
+of	
+obstructive	B-SYMPTOM
+hypoventilation	I-SYMPTOM
+,	
+defined	
+as	
+at	
+least	
+25	
+%	
+of	
+total	
+sleep	
+time	
+with	
+hypercapnia	B-CONCEPT
+(	
+PaCO2	B-CONCEPT
+>	
+	
+50	
+mm	
+Hg	
+)	
+in	
+association	
+with	
+one	
+or	
+more	
+of	
+the	
+following	
+:	
+a.	
+Snoring	B-SYMPTOM
+.	
+	
+b.	
+Flattening	B-SYMPTOM
+of	I-SYMPTOM
+the	I-SYMPTOM
+inspiratory	I-SYMPTOM
+nasal	I-SYMPTOM
+pressure	I-SYMPTOM
+waveform	I-SYMPTOM
+.	
+	
+c.	
+Paradoxical	B-SYMPTOM
+thoracoabdominal	I-SYMPTOM
+motion	I-SYMPTOM
+.	
+	
+Notes	
+.	
+	
+Respiratory	
+events	
+defined	
+according	
+to	
+the	
+most	
+recent	
+version	
+of	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+	
+Essential	
+Features	
+Pediatric	B-CONCEPT
+criteria	I-CONCEPT
+for	
+OSA	B-CONDITION
+apply	
+to	
+patients	
+younger	
+than	
+18	
+years	
+.	
+	
+However	
+,	
+for	
+the	
+purpose	
+of	
+PSG	B-TEST
+scoring	I-TEST
+,	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+states	
+that	
+adult	B-CONCEPT
+diagnostic	I-CONCEPT
+criteria	I-CONCEPT
+may	
+be	
+used	
+for	
+patients	
+aged	
+13	
+to	
+18	
+years	
+.	
+	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Pediatric	B-CONDITION
+OSA	I-CONDITION
+is	
+characterized	
+by	
+intermittent	B-CONCEPT
+complete	I-CONCEPT
+or	I-CONCEPT
+partial	I-CONCEPT
+obstruction	I-CONCEPT
+(	
+obstruc-	B-CONCEPT
+tive	I-CONCEPT
+apnea	I-CONCEPT
+or	
+hypopnea	B-CONCEPT
+)	
+;	
+prolonged	B-CONCEPT
+partial	I-CONCEPT
+upper	I-CONCEPT
+airway	I-CONCEPT
+obstruction	I-CONCEPT
+;	
+or	
+both	
+prolonged	I-CONCEPT
+and	I-CONCEPT
+intermittent	I-CONCEPT
+obstructions	I-CONCEPT
+that	I-CONCEPT
+disrupt	I-CONCEPT
+normal	I-CONCEPT
+ventilation	I-CONCEPT
+during	I-CONCEPT
+sleep	I-CONCEPT
+,	I-CONCEPT
+normal	I-CONCEPT
+sleep	I-CONCEPT
+patterns	I-CONCEPT
+,	I-CONCEPT
+or	I-CONCEPT
+both	I-CONCEPT
+.	
+	
+Children	
+with	
+OSA	B-CONCEPT
+may	
+demonstrate	
+several	
+breathing	B-CONCEPT
+patterns	I-CONCEPT
+during	
+sleep	
+.	
+	
+Some	
+children	
+have	
+cyclic	B-CONCEPT
+episodes	I-CONCEPT
+of	
+obstructive	B-CONDITION
+apnea	I-CONDITION
+,	
+similar	
+to	
+that	
+of	
+adults	
+with	
+the	
+syndrome	
+.	
+	
+However	
+,	
+some	
+patients	
+,	
+particularly	
+younger	
+children	
+,	
+have	
+a	
+pattern	
+of	
+obstructive	B-CONDITION
+hypoventilation	I-CONDITION
+,	
+which	
+consists	
+of	
+long	
+periods	
+of	
+persistent	B-CONCEPT
+partial	I-CONCEPT
+upper	I-CONCEPT
+airway	I-CONCEPT
+obstruction	I-CONCEPT
+associated	
+with	
+hypercapnia	B-CONDITION
+,	
+arterial	B-CONCEPT
+oxygen	I-CONCEPT
+desatu-	I-CONCEPT
+ration	I-CONCEPT
+,	
+or	
+both	
+.	
+	
+Some	
+children	
+may	
+manifest	
+a	
+pattern	
+of	
+UARS	B-CONDITION
+similar	
+to	
+that	
+seen	
+in	
+adults	
+,	
+including	
+snoring	B-SYMPTOM
+without	
+identifiable	B-CONCEPT
+airflow	I-CONCEPT
+obstruction	I-CONCEPT
+and	
+increasingly	
+negative	
+esophageal	B-CONCEPT
+pressure	I-CONCEPT
+swings	I-CONCEPT
+and	
+cyclic	B-CONCEPT
+arousals	I-CONCEPT
+.	
+	
+In	
+children	
+,	
+upper	B-CONCEPT
+airway	I-CONCEPT
+obstruction	I-CONCEPT
+occurs	
+predominantly	
+during	
+REM	B-CONCEPT
+sleep	I-CONCEPT
+.	
+	
+Children	
+often	
+do	
+not	
+have	
+cor-	B-CONCEPT
+tical	I-CONCEPT
+arousals	I-CONCEPT
+in	
+response	
+to	
+the	
+upper	B-CONCEPT
+airway	I-CONCEPT
+obstruction	I-CONCEPT
+,	
+although	
+they	
+may	
+have	
+movement	
+or	
+autonomic	B-CONCEPT
+arousals	I-CONCEPT
+.	
+	
+Perhaps	
+as	
+a	
+result	
+of	
+this	
+higher	B-CONCEPT
+arousal	I-CONCEPT
+threshold	I-CONCEPT
+,	
+sleep	B-CONCEPT
+architecture	I-CONCEPT
+is	
+usually	
+normal	
+,	
+with	
+normal	
+amounts	
+of	
+slow	B-CONCEPT
+wave	I-CONCEPT
+sleep	I-CONCEPT
+.	
+	
+Even	
+short	
+obstructive	B-CONCEPT
+apneas	I-CONCEPT
+may	
+be	
+associated	
+with	
+severe	
+hypoxemia	B-CONDITION
+because	
+children	
+have	
+a	
+lower	
+functional	B-CONCEPT
+residual	I-CONCEPT
+capacity	I-CONCEPT
+and	
+a	
+higher	
+metabolic	B-CONCEPT
+rate	I-CONCEPT
+than	
+adults	
+.	
+	
+Most	
+children	
+with	
+OSA	B-CONDITION
+present	
+with	
+a	
+history	
+of	
+snoring	B-SYMPTOM
+and	
+difficulty	B-SYMPTOM
+breathing	I-SYMPTOM
+during	
+sleep	
+.	
+	
+Snoring	B-SYMPTOM
+is	
+usually	
+loud	
+and	
+may	
+be	
+punctuated	
+by	
+pauses	
+and	
+gasps	
+,	
+with	
+associated	
+movements	
+or	
+arousal	
+from	
+sleep	
+.	
+	
+However	
+,	
+some	
+patients	
+,	
+particu-	
+larly	
+infants	
+and	
+those	
+with	
+neuromuscular	B-CONCEPT
+weakness	I-CONCEPT
+,	
+may	
+not	
+snore	
+.	
+	
+Patients	
+with	
+obstructive	B-CONCEPT
+hypoventilation	I-CONCEPT
+often	
+have	
+continuous	B-SYMPTOM
+snoring	I-SYMPTOM
+without	I-SYMPTOM
+pauses	I-SYMPTOM
+or	I-SYMPTOM
+arous-	I-SYMPTOM
+als	I-SYMPTOM
+.	
+	
+Children	
+have	
+a	
+very	
+compliant	
+rib	B-CONCEPT
+cage	I-CONCEPT
+.	
+	
+As	
+a	
+result	
+,	
+paradoxical	B-CONCEPT
+breathing	I-CONCEPT
+is	
+a	
+prominent	
+sign	
+in	
+these	
+patients	
+(	
+note	
+that	
+paradoxical	B-CONCEPT
+breathing	I-CONCEPT
+during	
+REM	B-CONCEPT
+sleep	I-CONCEPT
+is	
+a	
+normal	
+phenomenon	
+in	
+young	
+children	
+up	
+to	
+at	
+least	
+age	
+three	
+years	
+)	
+.	
+	
+A	
+pectus	B-CONCEPT
+excavatum	I-CONCEPT
+may	
+be	
+present	
+.	
+	
+Thoracic	B-CONCEPT
+retractions	I-CONCEPT
+may	
+be	
+present	
+.	
+	
+Children	
+may	
+sleep	B-SYMPTOM
+in	I-SYMPTOM
+unusual	I-SYMPTOM
+positions	I-SYMPTOM
+,	
+such	
+as	
+seated	
+or	
+with	
+their	
+neck	
+hyperextended	B-CONDITION
+.	
+	
+Diaphoresis	B-CONCEPT
+may	
+be	
+observed	
+.	
+	
+Morning	B-SYMPTOM
+headaches	I-SYMPTOM
+may	
+also	
+occur	
+.	
+	
+Many	
+parents	
+of	
+children	
+with	
+OSA	B-CONDITION
+are	
+so	
+concerned	
+about	
+their	
+child	
+’s	
+breathing	
+that	
+they	
+sleep	
+with	
+their	
+child	
+or	
+stimu-	
+late	
+their	
+child	
+to	
+terminate	
+the	
+apneas	B-CONCEPT
+.	
+	
+Excessive	B-SYMPTOM
+daytime	I-SYMPTOM
+sleepiness	I-SYMPTOM
+may	
+be	
+present	
+,	
+especially	
+in	
+older	
+children	
+and	
+adoles-	
+cents	
+,	
+but	
+is	
+seen	
+less	
+commonly	
+in	
+children	
+than	
+in	
+adults	
+with	
+OSA	
+.	
+	
+Developmental	B-SYMPTOM
+,	I-SYMPTOM
+behavioral	I-SYMPTOM
+,	I-SYMPTOM
+and	I-SYMPTOM
+learning	I-SYMPTOM
+issues	I-SYMPTOM
+are	
+frequently	
+present	
+.	
+	
+These	
+may	
+include	
+attention	B-SYMPTOM
+problems	I-SYMPTOM
+,	
+hyperactivity	B-SYMPTOM
+,	
+moodiness	B-SYMPTOM
+,	
+irritability	B-SYMPTOM
+,	
+and	
+impaired	B-SYMPTOM
+academic	I-SYMPTOM
+performance	I-SYMPTOM
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+Adenotonsillar	B-RISKFACTOR
+hypertrophy	I-RISKFACTOR
+and	
+obesity	B-RISKFACTOR
+are	
+the	
+most	
+common	
+predisposing	
+/	
+precip-	
+itating	
+factors	
+.	
+	
+Children	
+with	
+craniofacial	B-RISKFACTOR
+abnormalities	I-RISKFACTOR
+,	
+particularly	
+micrognathia	B-RISKFACTOR
+or	
+midfacial	B-RISKFACTOR
+hypoplasia	I-RISKFACTOR
+,	
+are	
+at	
+risk	
+.	
+	
+Those	
+with	
+Down	B-RISKFACTOR
+syndrome	I-RISKFACTOR
+are	
+particularly	
+at	
+risk	
+for	
+having	
+OSA	B-CONDITION
+.	
+	
+Children	
+with	
+neuromuscular	B-RISKFACTOR
+diseases	I-RISKFACTOR
+often	
+have	
+upper	B-RISKFACTOR
+airway	I-RISKFACTOR
+muscle	I-RISKFACTOR
+weakness	I-RISKFACTOR
+,	
+which	
+predisposes	
+to	
+airway	B-CONCEPT
+collapse	I-CONCEPT
+.	
+	
+Children	
+with	
+cerebral	B-RISKFACTOR
+palsy	I-RISKFACTOR
+may	
+be	
+predisposed	
+to	
+OSA	B-CONDITION
+because	
+of	
+spasticity	
+,	
+weakness	
+,	
+or	
+incoordination	
+of	
+the	
+upper	B-CONCEPT
+airway	I-CONCEPT
+muscles	I-CONCEPT
+.	
+	
+Infants	
+with	
+gastroesophageal	B-CONDITION
+reflux	I-CONDITION
+may	
+develop	
+OSA	
+due	
+to	
+upper	B-CONDITION
+airway	I-CONDITION
+edema	I-CONDITION
+or	
+laryngospasm	B-CONDITION
+.	
+	
+Other	
+medical	
+conditions	
+such	
+as	
+mucopoly-	B-CONDITION
+saccharidosis	I-CONDITION
+and	
+sickle	B-CONDITION
+cell	I-CONDITION
+disease	I-CONDITION
+may	
+predispose	
+to	
+OSA	B-CONDITION
+.	
+	
+Pharyngeal	B-CONCEPT
+flap	I-CONCEPT
+oper-	I-CONCEPT
+ations	I-CONCEPT
+,	
+typically	
+performed	
+to	
+improve	
+speech	
+quality	
+in	
+patients	
+with	
+cleft	B-CONDITION
+palate	I-CONDITION
+,	
+can	
+result	
+in	
+OSA	B-CONDITION
+.	
+	
+Environmental	B-CONCEPT
+tobacco	I-CONCEPT
+smoke	I-CONCEPT
+exposure	I-CONCEPT
+has	
+been	
+associated	
+with	
+snoring	B-SYMPTOM
+and	
+OSA	B-CONDITION
+.	
+	
+Central	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+Syndromes	I-CONDITION
+Central	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+with	I-CONDITION
+Cheyne	I-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+Breathing	I-CONDITION
+ICD-9	
+-	
+CM	
+code	
+:	
+786.04	
+Alternate	
+Names	
+Cheyne	B-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+respiration	I-CONDITION
+.	
+	
+Diagnostic	
+Criteria	
+(	
+A	
+or	
+B	
+)	
++	
+C	
++	
+D	
+satisfy	
+the	
+criteria	
+A.	
+	
+The	
+presence	
+of	
+one	
+or	
+more	
+of	
+the	
+following	
+:	
+1	
+.	
+Sleepiness	B-SYMPTOM
+.	
+	
+ICD-10	
+-	
+CM	
+code	
+:	
+R06.3	
+Sleep	
+Related	
+Breathing	
+Disorders	
+.	
+	
+Difficulty	B-SYMPTOM
+initiating	I-SYMPTOM
+or	I-SYMPTOM
+maintaining	I-SYMPTOM
+sleep	I-SYMPTOM
+,	
+frequent	B-SYMPTOM
+awakenings	I-SYMPTOM
+,	
+or	
+nonrestorative	B-SYMPTOM
+sleep	I-SYMPTOM
+.	
+.	
+	
+Awakening	B-SYMPTOM
+short	I-SYMPTOM
+of	I-SYMPTOM
+breath	I-SYMPTOM
+.	
+.	
+	
+Snoring	B-SYMPTOM
+.	
+.	
+	
+Witnessed	B-SYMPTOM
+apneas	I-SYMPTOM
+.	
+	
+B.	
+The	
+presence	
+of	
+atrial	B-CONDITION
+fibrillation	I-CONDITION
+/	
+flutter	B-CONDITION
+,	
+congestive	B-CONDITION
+heart	I-CONDITION
+failure	I-CONDITION
+,	
+or	
+a	
+neurological	B-CONCEPT
+disorder	I-CONCEPT
+.	
+	
+C.	
+PSG	B-TEST
+(	
+during	
+diagnostic	B-CONCEPT
+or	I-CONCEPT
+positive	I-CONCEPT
+airway	I-CONCEPT
+pressure	I-CONCEPT
+titration	I-CONCEPT
+)	
+shows	
+all	
+of	
+the	
+following	
+:	
+.	
+	
+Five	
+or	
+more	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+per	
+hour	
+of	
+sleep.1	
+.	
+	
+The	
+total	
+number	
+of	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+is	
+>	
+50	
+%	
+of	
+the	
+total	
+number	
+of	
+apneas	B-CONCEPT
+and	
+hypopneas.2	B-CONCEPT
+.	
+	
+The	
+pattern	
+of	
+ventilation	
+meets	
+criteria	
+for	
+Cheyne	B-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+breathing	I-CONDITION
+(	
+CSB).1	B-CONDITION
+D.	
+The	
+disorder	
+is	
+not	
+better	
+explained	
+by	
+another	
+current	
+sleep	
+disorder	
+,	
+medication	
+use	
+(	
+e.g.	
+,	
+opioids	B-CONCEPT
+)	
+,	
+or	
+substance	B-CONDITION
+use	I-CONDITION
+disorder	I-CONDITION
+.	
+	
+Notes	
+.	
+	
+As	
+defined	
+by	
+the	
+most	
+recent	
+version	
+of	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+.	
+	
+If	
+criterion	B-CONCEPT
+C2	I-CONCEPT
+is	
+not	
+met	
+,	
+CSB	B-CONDITION
+can	
+be	
+listed	
+as	
+a	
+polysomnographic	B-CONCEPT
+finding	I-CONCEPT
+.	
+.	
+	
+A	
+diagnosis	
+of	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+(	
+CSA	B-CONDITION
+)	
+with	
+CSB	B-CONDITION
+does	
+not	
+exclude	
+a	
+diagnosis	
+of	
+OSA	B-CONDITION
+.	
+	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Essential	
+Features	
+CSA	B-CONDITION
+-	I-CONDITION
+CSB	I-CONDITION
+is	
+characterized	
+by	
+recurrent	
+central	B-CONCEPT
+apneas	I-CONCEPT
+or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+	
+alternat-	
+ing	
+with	
+a	
+respiratory	B-CONCEPT
+phase	I-CONCEPT
+exhibiting	
+a	
+crescendo	B-CONCEPT
+-	I-CONCEPT
+decrescendo	I-CONCEPT
+pattern	I-CONCEPT
+of	
+flow	
+(	
+or	
+tidal	B-CONCEPT
+volume	I-CONCEPT
+)	
+.	
+	
+The	
+longer	
+cycle	B-CONCEPT
+length	I-CONCEPT
+(	
+>	
+40	
+seconds	
+;	
+typically	
+45	
+to	
+60	
+seconds	
+)	
+distinguishes	
+CSB	B-CONDITION
+from	
+other	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+types	
+.	
+	
+The	
+vast	
+majority	
+of	
+patients	
+with	
+CSA	B-CONDITION
+-	I-CONDITION
+CSB	I-CONDITION
+have	
+either	
+systolic	B-CONDITION
+or	I-CONDITION
+diastolic	I-CONDITION
+heart	I-CONDITION
+failure	I-CONDITION
+.	
+	
+In	
+systolic	B-CONDITION
+heart	I-CONDITION
+failure	I-CONDITION
+the	
+cycle	B-CONCEPT
+length	I-CONCEPT
+is	
+longer	
+(	
+longer	
+respiratory	B-CONCEPT
+phase	I-CONCEPT
+)	
+than	
+in	
+patients	
+with	
+diastolic	B-CONDITION
+heart	I-CONDITION
+failure	I-CONDITION
+,	
+and	
+there	
+is	
+often	
+a	
+delay	
+in	
+the	
+nadir	B-CONCEPT
+of	
+the	
+associated	
+oxygen	B-CONCEPT
+desatu-	I-CONCEPT
+ration	I-CONCEPT
+.	
+	
+Patients	
+with	
+CSA	B-CONDITION
+-	I-CONDITION
+CSB	I-CONDITION
+have	
+normal	
+or	
+low	
+daytime	B-CONCEPT
+arterial	I-CONCEPT
+PCO2	I-CONCEPT
+(	
+PaCO2	B-CONCEPT
+)	
+.	
+	
+Some	
+patients	
+with	
+heart	B-CONCEPT
+failure	I-CONCEPT
+have	
+a	
+mixture	
+of	
+obstructive	B-CONCEPT
+and	I-CONCEPT
+central	I-CONCEPT
+apneas	I-CONCEPT
+with	
+more	
+central	B-CONCEPT
+apneas	I-CONCEPT
+in	
+the	
+later	
+part	
+of	
+the	
+night	
+or	
+when	
+the	
+patient	
+is	
+placed	
+on	
+posi-	B-TREATMENT
+tive	I-TREATMENT
+airway	I-TREATMENT
+pressure	I-TREATMENT
+(	
+PAP	B-TREATMENT
+)	
+.	
+	
+A	
+diagnosis	
+of	
+CSA	B-CONDITION
+-	I-CONDITION
+CSB	I-CONDITION
+requires	
+that	
+events	
+be	
+predom-	
+inantly	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and	
+hypopneas	B-CONCEPT
+with	
+an	
+average	
+frequency	
+of	
+at	
+least	
+5	
+/	
+hour	
+during	
+a	
+diagnostic	
+PSG	B-TEST
+or	
+either	
+the	
+diagnostic	B-CONCEPT
+or	I-CONCEPT
+therapeutic	I-CONCEPT
+portion	I-CONCEPT
+of	
+a	
+split	B-TEST
+-	I-TEST
+night	I-TEST
+study	I-TEST
+.	
+	
+For	
+patients	
+with	
+a	
+mixture	
+of	
+OSA	B-CONDITION
+and	
+CSA	B-CONDITION
+-	I-CONDITION
+CSB	I-CONDITION
+,	
+the	
+central	B-CONCEPT
+apneas	I-CONCEPT
+may	
+appear	
+only	
+after	
+elimination	
+of	
+obstruction	
+on	
+positive	B-TREATMENT
+airway	I-TREATMENT
+pressure	I-TREATMENT
+.	
+	
+In	
+patient	
+with	
+CSA	B-CONDITION
+-	I-CONDITION
+CSB	I-CONDITION
+,	
+arousal	B-CONCEPT
+from	I-CONCEPT
+sleep	I-CONCEPT
+tends	
+to	
+occur	
+at	
+the	
+zenith	B-CONCEPT
+of	
+respiratory	B-CONCEPT
+effort	I-CONCEPT
+between	
+contiguous	B-CONCEPT
+central	I-CONCEPT
+apneas	I-CONCEPT
+or	I-CONCEPT
+hypopneas	I-CONCEPT
+.	
+	
+This	
+can	
+result	
+in	
+sleep	B-CONCEPT
+fragmen-	I-CONCEPT
+tation	I-CONCEPT
+.	
+	
+However	
+,	
+patients	
+may	
+complain	
+of	
+disturbed	B-SYMPTOM
+nocturnal	I-SYMPTOM
+sleep	I-SYMPTOM
+or	
+nocturnal	B-SYMPTOM
+dyspnea	I-SYMPTOM
+rather	
+than	
+daytime	B-SYMPTOM
+sleepiness	I-SYMPTOM
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+The	
+most	
+important	
+predisposing	
+factors	
+are	
+the	
+presence	
+of	
+congestive	B-RISKFACTOR
+heart	I-RISKFACTOR
+failure	I-RISKFACTOR
+,	
+stroke	B-RISKFACTOR
+,	
+and	
+possibly	
+renal	B-RISKFACTOR
+failure	I-RISKFACTOR
+.	
+	
+Within	
+the	
+heart	B-CONDITION
+failure	I-CONDITION
+population	
+,	
+risk	
+factors	
+for	
+CSB	B-CONCEPT
+pattern	I-CONCEPT
+during	
+sleep	
+include	
+male	B-RISKFACTOR
+sex	I-RISKFACTOR
+,	
+age	B-RISKFACTOR
+older	I-RISKFACTOR
+than	I-RISKFACTOR
+60	I-RISKFACTOR
+years	I-RISKFACTOR
+,	
+the	
+presence	
+of	
+atrial	B-RISKFACTOR
+fibrillation	I-RISKFACTOR
+,	
+and	
+daytime	B-RISKFACTOR
+hypocapnia	I-RISKFACTOR
+(	
+i.e.	
+,	
+awake	B-CONCEPT
+PaCO2	I-CONCEPT
+of	
+38	
+mm	
+Hg	
+or	
+less	
+)	
+.	
+	
+In	
+general	
+,	
+greater	B-RISKFACTOR
+pulmonary	I-RISKFACTOR
+congestion	I-RISKFACTOR
+(	
+higher	B-RISKFACTOR
+left	I-RISKFACTOR
+ventricular	I-RISKFACTOR
+end	I-RISKFACTOR
+-	I-RISKFACTOR
+diastolic	I-RISKFACTOR
+pressure	I-RISKFACTOR
+)	
+predicts	
+lower	B-RISKFACTOR
+PaCO2	I-RISKFACTOR
+.	
+	
+Some	
+studies	
+suggest	
+that	
+CSA	B-CONDITION
+-	I-CONDITION
+CSB	I-CONDITION
+occurs	
+more	
+commonly	
+in	
+the	
+supine	B-RISKFACTOR
+position	I-RISKFACTOR
+.	
+	
+Although	
+renal	B-RISKFACTOR
+failure	I-RISKFACTOR
+is	
+often	
+listed	
+as	
+a	
+possible	
+cause	
+of	
+CSA-	B-CONDITION
+CSB	I-CONDITION
+,	
+there	
+is	
+scant	
+literature	
+documenting	
+this	
+association	
+.	
+	
+Central	B-CONDITION
+Apnea	I-CONDITION
+	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+Medical	I-CONDITION
+Disorder	I-CONDITION
+without	I-CONDITION
+Cheyne	I-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+Breathing	I-CONDITION
+ICD-9	
+-	
+CM	
+code	
+:	
+327.27	
+Alternate	
+Names	
+Not	
+applicable	
+or	
+known	
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+A	
+-	
+C	
+must	
+be	
+met	
+A.	
+	
+The	
+presence	
+of	
+one	
+or	
+more	
+of	
+the	
+following1	
+:	
+1	
+.	
+Sleepiness	B-SYMPTOM
+.	
+	
+ICD-10	
+-	
+CM	
+code	
+:	
+G47.37	
+Sleep	
+Related	
+Breathing	
+Disorders	
+.	
+	
+Difficulty	B-SYMPTOM
+initiating	I-SYMPTOM
+or	I-SYMPTOM
+maintaining	I-SYMPTOM
+sleep	I-SYMPTOM
+,	
+frequent	B-SYMPTOM
+awakenings	I-SYMPTOM
+,	
+or	
+nonrestorative	B-SYMPTOM
+sleep	I-SYMPTOM
+.	
+.	
+	
+Awakening	B-SYMPTOM
+short	I-SYMPTOM
+of	I-SYMPTOM
+breath	I-SYMPTOM
+.	
+.	
+	
+Snoring	B-SYMPTOM
+.	
+.	
+	
+Witnessed	B-SYMPTOM
+apneas	I-SYMPTOM
+.	
+	
+B.	
+PSG	B-TEST
+shows	
+all	
+of	
+the	
+following	
+:	
+.	
+	
+Five	
+or	
+more	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+per	
+hour	
+of	
+sleep.2	
+Sleep	
+Related	
+Breathing	
+Disorders	
+.	
+	
+The	
+number	
+of	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+is	
+>	
+50	
+%	
+of	
+the	
+total	
+number	
+of	
+apneas	B-CONCEPT
+and	
+hypopneas	B-CONCEPT
+.	
+.	
+	
+Absence	
+of	
+CSB.2	B-CONDITION
+C.	
+The	
+disorder	
+occurs	
+as	
+a	
+consequence	
+of	
+a	
+medical	
+or	
+neurological	
+disorder	
+but	
+is	
+not	
+due	
+to	
+medication	
+use	
+or	
+substance	
+use	
+.	
+	
+Notes	
+.	
+	
+In	
+infants	
+and	
+young	
+children	
+,	
+symptoms	
+are	
+supportive	
+but	
+not	
+required	
+.	
+.	
+	
+As	
+defined	
+by	
+the	
+most	
+recent	
+version	
+of	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+.	
+	
+Sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+is	
+not	
+required	
+but	
+may	
+be	
+present	
+.	
+	
+If	
+the	
+patient	
+meets	
+criteria	
+for	
+both	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+and	
+CSA	B-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+medical	I-CONDITION
+or	I-CONDITION
+neurological	I-CONDITION
+condition	I-CONDITION
+not	I-CONDITION
+Cheyne	I-CONDITION
+-	I-CONDITION
+Stokes	I-CONDITION
+,	
+both	
+diagnoses	
+can	
+be	
+made	
+.	
+.	
+	
+In	
+some	
+patients	
+other	
+abnormalities	
+of	
+breathing	
+such	
+as	
+ataxic	B-CONCEPT
+breathing	I-CONCEPT
+may	
+be	
+prominent	
+.	
+.	
+	
+A	
+diagnosis	
+of	
+central	B-CONDITION
+apnea	I-CONDITION
+due	
+to	
+a	
+medical	
+disorder	
+without	
+CSB	B-CONDITION
+does	
+not	
+exclude	
+a	
+diagnosis	
+of	
+OSA	B-CONDITION
+.	
+	
+Essential	
+Features	
+CSA	B-CONDITION
+that	
+is	
+attributed	
+to	
+a	
+medical	
+or	
+neurological	
+condition	
+(	
+and	
+does	
+not	
+have	
+the	
+pattern	
+of	
+CSB	B-CONDITION
+)	
+is	
+classified	
+here	
+.	
+	
+The	
+majority	
+of	
+these	
+patients	
+have	
+brainstem	B-CONCEPT
+lesions	I-CONCEPT
+of	
+developmental	B-CONCEPT
+,	I-CONCEPT
+vascular	I-CONCEPT
+,	I-CONCEPT
+neoplastic	I-CONCEPT
+,	I-CONCEPT
+degenerative	I-CONCEPT
+,	I-CONCEPT
+demyelinating	I-CONCEPT
+,	I-CONCEPT
+or	I-CONCEPT
+traumatic	I-CONCEPT
+origin	I-CONCEPT
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+Because	
+of	
+the	
+heterogeneity	B-CONCEPT
+of	
+etiologies	B-CONCEPT
+in	
+this	
+type	
+of	
+CSA	B-CONDITION
+,	
+predisposing	
+and	
+pre-	
+cipitating	
+factors	
+are	
+variable	
+.	
+	
+In	
+CM	B-CONDITION
+there	
+is	
+herniation	B-CONCEPT
+of	
+a	
+portion	
+of	
+the	
+brainstem	B-CONCEPT
+through	
+the	
+foramen	B-CONCEPT
+magnum	I-CONCEPT
+.	
+	
+In	
+CM	B-CONDITION
+type	I-CONDITION
+1	I-CONDITION
+,	
+a	
+portion	
+of	
+the	
+cerebellar	B-CONCEPT
+tonsils	I-CONCEPT
+herni-	B-CONCEPT
+ate	I-CONCEPT
+.	
+	
+CSA	B-CONDITION
+in	
+these	
+patients	
+is	
+believed	
+to	
+occur	
+due	
+to	
+impaired	
+function	
+of	
+ventilatory	B-CONCEPT
+control	I-CONCEPT
+centers	I-CONCEPT
+in	
+the	
+brainstem	B-CONCEPT
+.	
+	
+Central	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+High	I-CONDITION
+Altitude	I-CONDITION
+Periodic	I-CONDITION
+ICD-10	
+-	
+CM	
+code	
+:	
+G47.32	
+Breathing	
+ICD-9	
+-	
+CM	
+code	
+:	
+327.22	
+Alternate	
+Names	
+None	
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+A	
+-	
+D	
+must	
+be	
+met	
+A.	
+Recent	
+ascent	
+to	
+high	
+altitude.1	
+	
+B.	
+The	
+presence	
+of	
+one	
+or	
+more	
+of	
+the	
+following:2	
+Sleep	
+Related	
+Breathing	
+Disorders	
+.	
+	
+Sleepiness	B-SYMPTOM
+.	
+.	
+	
+Difficulty	B-SYMPTOM
+initiating	I-SYMPTOM
+or	I-SYMPTOM
+maintaining	I-SYMPTOM
+sleep	I-SYMPTOM
+,	
+frequent	B-SYMPTOM
+awakenings	I-SYMPTOM
+,	
+or	
+nonrestorative	B-SYMPTOM
+sleep	I-SYMPTOM
+.	
+.	
+	
+Awakening	B-SYMPTOM
+with	I-SYMPTOM
+shortness	I-SYMPTOM
+of	I-SYMPTOM
+breath	I-SYMPTOM
+or	
+morning	B-SYMPTOM
+headache	I-SYMPTOM
+.	
+.	
+	
+Witnessed	B-SYMPTOM
+apnea	I-SYMPTOM
+.	
+	
+C.	
+	
+The	
+symptoms	
+are	
+clinically	
+attributable	
+to	
+high	B-CONDITION
+-	I-CONDITION
+altitude	I-CONDITION
+periodic	I-CONDITION
+breathing	I-CONDITION
+or	
+PSG	B-TEST
+,	
+if	
+performed	
+,	
+demonstrates	
+recurrent	
+central	B-CONCEPT
+apneas	I-CONCEPT
+or	
+hypopneas	B-CONCEPT
+primarily	
+during	
+NREM	B-CONCEPT
+sleep	I-CONCEPT
+at	
+a	
+frequency	
+of	
+≥	
+5	
+/	
+hour	
+.	
+	
+D.	
+	
+The	
+disorder	
+is	
+not	
+better	
+explained	
+by	
+another	
+current	
+sleep	
+disorder	
+,	
+medical	
+or	
+neurological	
+disorder	
+,	
+medication	
+use	
+(	
+e.g.	
+,	
+narcotics	B-CONCEPT
+)	
+,	
+or	
+substance	B-CONCEPT
+use	I-CONCEPT
+disorders	I-CONCEPT
+.	
+	
+Notes	
+.	
+	
+Typically	
+at	
+least	
+2,500	
+meters	
+(	
+8,202	
+feet	
+)	
+,	
+although	
+some	
+individuals	
+may	
+exhibit	
+the	
+disorder	
+at	
+altitudes	
+as	
+low	
+as	
+1,500	
+meters	
+.	
+.	
+	
+Periodic	B-CONDITION
+breathing	I-CONDITION
+is	
+a	
+common	
+response	
+to	
+altitude	
+.	
+	
+Associated	
+symptoms	
+are	
+required	
+to	
+make	
+the	
+diagnosis	
+of	
+a	
+disorder	
+.	
+	
+There	
+is	
+no	
+level	
+of	
+the	
+central	
+AHI	B-CONCEPT
+separating	
+a	
+normal	
+and	
+abnormal	
+response	
+to	
+high	
+altitude	
+.	
+.	
+	
+A	
+diagnosis	
+of	
+CSA	B-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+high	I-CONDITION
+-	I-CONDITION
+altitude	I-CONDITION
+period	I-CONDITION
+breathing	I-CONDITION
+does	
+not	
+exclude	
+a	
+diagnosis	
+of	
+OSA	B-CONDITION
+.	
+	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Essential	
+Features	
+High	B-CONDITION
+-	I-CONDITION
+altitude	I-CONDITION
+periodic	I-CONDITION
+breathing	I-CONDITION
+is	
+characterized	
+by	
+alternating	
+periods	
+of	
+central	B-CONCEPT
+apnea	I-CONCEPT
+and	
+hyperpnea	I-CONCEPT
+associated	
+with	
+recent	
+ascent	
+to	
+high	
+altitude	
+.	
+	
+The	
+pattern	
+of	
+periodic	B-CONDITION
+breathing	I-CONDITION
+is	
+an	
+expected	
+response	
+to	
+ascent	
+to	
+elevation	
+.	
+	
+Only	
+those	
+individuals	
+who	
+manifest	
+related	
+symptoms	
+,	
+as	
+described	
+below	
+,	
+are	
+diagnosed	
+with	
+this	
+disorder	
+.	
+	
+The	
+cycle	
+length	
+of	
+this	
+respiratory	
+pattern	
+is	
+commonly	
+less	
+than	
+40	
+seconds	
+and	
+often	
+as	
+short	
+as	
+12	
+to	
+20	
+seconds	
+.	
+	
+The	
+percentage	
+of	
+individuals	
+exhibiting	
+periodic	B-CONDITION
+breathing	I-CONDITION
+during	
+sleep	
+increases	
+at	
+higher	
+altitudes	
+.	
+	
+Approximately	
+25	
+%	
+exhibit	
+periodic	B-CONDITION
+breath-	I-CONDITION
+ing	
+at	
+2,500	
+meters	
+(	
+8,202	
+feet	
+)	
+,	
+and	
+virtually	
+100	
+%	
+demonstrate	
+periodic	B-CONDITION
+breathing	I-CONDITION
+at	
+4,000	
+m	
+(	
+13,123	
+feet	
+)	
+.	
+	
+Periodic	B-CONDITION
+breathing	I-CONDITION
+has	
+been	
+described	
+at	
+altitudes	
+as	
+low	
+as	
+1,500	
+meters	
+(	
+4,900	
+feet	
+)	
+.	
+	
+Chronic	
+exposure	
+to	
+altitude	
+above	
+2,500	
+meters	
+has	
+also	
+been	
+associated	
+with	
+periodic	B-CONDITION
+breathing	I-CONDITION
+in	
+some	
+studies	
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+The	
+only	
+known	
+predisposing	
+factor	
+for	
+the	
+development	
+of	
+high	B-CONDITION
+-	I-CONDITION
+altitude	I-CONDITION
+periodic	I-CONDITION
+breathing	I-CONDITION
+is	
+increased	B-RISKFACTOR
+ventilatory	I-RISKFACTOR
+chemoresponsiveness	I-RISKFACTOR
+,	
+primarily	
+hypoxic	B-RISKFACTOR
+ventila-	I-RISKFACTOR
+tory	I-RISKFACTOR
+responsiveness	I-RISKFACTOR
+.	
+	
+A	
+high	
+hypoxic	B-CONCEPT
+ventilatory	I-CONCEPT
+response	I-CONCEPT
+will	
+lead	
+to	
+increased	
+hyper-	B-CONCEPT
+ventilation	I-CONCEPT
+on	
+ascent	
+to	
+altitude	
+.	
+	
+This	
+hyperventilation	B-CONCEPT
+leads	
+to	
+hypocapnic	B-CONCEPT
+alkalosis	I-CONCEPT
+that	
+,	
+during	
+sleep	
+,	
+inhibits	
+ventilation	
+.	
+	
+Thus	
+,	
+repetitive	
+cycles	
+of	
+apnea	B-CONCEPT
+and	
+hyperpnea	I-CONCEPT
+develop	
+during	
+NREM	B-CONCEPT
+sleep	I-CONCEPT
+.	
+	
+The	
+obvious	
+precipitating	
+factor	
+for	
+the	
+development	
+of	
+this	
+periodic	
+breathing	
+is	
+ascent	
+to	
+altitude	
+.	
+	
+The	
+more	
+rapid	
+the	
+ascent	
+,	
+the	
+more	
+likely	
+periodic	B-CONDITION
+breathing	I-CONDITION
+is	
+to	
+develop	
+.	
+	
+Central	B-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+	I-CONDITION
+Due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+Medication	I-CONDITION
+or	I-CONDITION
+ICD-10	
+-	
+CM	
+code	
+:	
+G47.39	
+Substance	
+ICD-9	
+-	
+CM	
+code	
+:	
+327.29	
+Alternate	
+Names	
+Narcotic	B-CONDITION
+or	I-CONDITION
+opioid	I-CONDITION
+induced	I-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+	
+A	
+-	
+E	
+must	
+be	
+met	
+Sleep	
+Related	
+Breathing	
+Disorders	
+A.	
+	
+The	
+patient	
+is	
+taking	
+an	
+opioid	B-CONCEPT
+or	
+other	
+respiratory	B-CONCEPT
+depressant	I-CONCEPT
+.	
+	
+B.	
+The	
+presence	
+of	
+one	
+or	
+more	
+of	
+the	
+following	
+:	
+.	
+	
+Sleepiness	B-SYMPTOM
+.	
+.	
+	
+Difficulty	B-SYMPTOM
+initiating	I-SYMPTOM
+or	I-SYMPTOM
+maintaining	I-SYMPTOM
+sleep	I-SYMPTOM
+,	
+frequent	B-SYMPTOM
+awakenings	I-SYMPTOM
+,	
+or	
+nonrestorative	B-SYMPTOM
+sleep	I-SYMPTOM
+.	
+.	
+	
+Awakening	B-SYMPTOM
+short	I-SYMPTOM
+of	I-SYMPTOM
+breath	I-SYMPTOM
+.	
+.	
+	
+Snoring	B-SYMPTOM
+.	
+.	
+	
+Witnessed	B-SYMPTOM
+apneas	I-SYMPTOM
+.	
+	
+C.	
+PSG	B-TEST
+(	
+diagnostic	
+or	
+on	
+positive	B-CONCEPT
+airway	I-CONCEPT
+pressure	I-CONCEPT
+)	
+shows	
+all	
+of	
+the	
+following	
+:	
+.	
+	
+Five	
+or	
+more	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas1	I-CONCEPT
+per	
+hour	
+of	
+sleep	
+(	
+PSG	B-TEST
+)	
+.	
+.	
+	
+The	
+number	
+of	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+is	
+>	
+50	
+%	
+of	
+the	
+total	
+number	
+of	
+apneas	
+and	
+hypopneas	
+.	
+.	
+	
+Absence	
+of	
+CSB.1	B-CONDITION
+D.	
+The	
+disorder	
+occurs	
+as	
+a	
+consequence	
+of	
+an	
+opioid	B-CONCEPT
+or	
+other	
+respiratory	B-CONCEPT
+depressant	I-CONCEPT
+.	
+	
+E.	
+	
+The	
+disorder	
+is	
+not	
+better	
+explained	
+by	
+another	
+current	
+sleep	
+disorder	
+.	
+	
+Notes	
+.	
+	
+As	
+defined	
+by	
+the	
+most	
+recent	
+version	
+of	
+the	B-DOCUMENT
+AASM	I-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+.	
+	
+Ataxic	B-CONDITION
+breathing	I-CONDITION
+(	
+irregular	
+variations	
+in	
+respiratory	B-CONCEPT
+cycle	I-CONCEPT
+time	
+and	
+tidal	B-CONCEPT
+volume	I-CONCEPT
+)	
+may	
+be	
+noted	
+.	
+.	
+	
+Nocturnal	
+and/or	
+daytime	
+hypoventilation	B-CONCEPT
+may	
+be	
+present	
+but	
+are	
+not	
+required	
+.	
+	
+If	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+is	
+present	
+,	
+a	
+diagnosis	
+of	
+sleep	B-CONDITION
+related	I-CONDITION
+hypoventilation	I-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+medication	I-CONDITION
+or	I-CONDITION
+substance	I-CONDITION
+use	
+can	
+be	
+made	
+as	
+well	
+as	
+a	
+diagnosis	
+of	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+medication	I-CONDITION
+or	I-CONDITION
+substance	I-CONDITION
+.	
+.	
+	
+A	
+diagnosis	
+of	
+CSA	B-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+medicationor	I-CONDITION
+substance	I-CONDITION
+does	
+not	
+exclude	
+a	
+diagnosis	
+of	
+OSA	B-CONDITION
+.	
+	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Essential	
+Features	
+Users	
+of	
+potent	
+long	B-CONCEPT
+-	I-CONCEPT
+acting	I-CONCEPT
+opioids	I-CONCEPT
+may	
+have	
+central	B-CONCEPT
+apneas	I-CONCEPT
+during	
+sleep	
+.	
+	
+The	
+most	
+common	
+offending	
+drug	
+is	
+methadone	B-CONCEPT
+.	
+	
+However	
+,	
+the	
+condition	
+has	
+also	
+been	
+described	
+in	
+patients	
+taking	
+long	B-CONCEPT
+-	I-CONCEPT
+acting	I-CONCEPT
+forms	
+of	
+morphine	B-CONCEPT
+or	
+oxycodone	B-CONCEPT
+as	
+well	
+as	
+individu-	
+als	
+being	
+treated	
+with	
+fentanyl	B-CONCEPT
+patches	I-CONCEPT
+or	
+continuous	
+narcotic	B-CONCEPT
+infusions	I-CONCEPT
+.	
+	
+Suboxone	B-CONCEPT
+(	
+a	
+combination	
+of	
+buprenorphine	B-CONCEPT
+and	
+naloxone	B-CONCEPT
+)	
+is	
+often	
+used	
+for	
+treatment	
+of	
+patients	
+with	
+narcotic	B-CONCEPT
+dependence	I-CONCEPT
+and	
+pain	
+and	
+can	
+also	
+cause	
+drug	B-CONDITION
+-	I-CONDITION
+induced	I-CONDITION
+central	I-CONDITION
+apnea	I-CONDITION
+.	
+	
+The	
+description	
+of	
+this	
+population	
+is	
+complicated	
+by	
+the	
+fact	
+that	
+many	
+of	
+the	
+affected	
+indi-	
+viduals	
+may	
+be	
+using	
+multiple	
+drugs	
+(	
+prescribed	
+or	
+illicit	
+)	
+that	
+affect	
+sleep	
+and	
+breathing	
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+Use	
+of	
+a	
+potent	B-RISKFACTOR
+long	I-RISKFACTOR
+-	I-RISKFACTOR
+acting	I-RISKFACTOR
+narcotic	I-RISKFACTOR
+is	
+the	
+major	
+causative	
+factor	
+.	
+	
+If	
+patients	
+are	
+suc-	
+cessfully	
+withdrawn	
+from	
+the	
+offending	
+medication	
+,	
+the	
+central	B-CONDITION
+apnea	I-CONDITION
+may	
+resolve	
+.	
+	
+Primary	B-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+ICD-9	
+-	
+CM	
+code	
+:	
+327.21	
+Alternate	
+Names	
+Idiopathic	B-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+A	
+-	
+D	
+must	
+be	
+met	
+A.	
+	
+The	
+presence	
+of	
+at	
+least	
+one	
+of	
+the	
+following1	
+:	
+1	
+.	
+Sleepiness	B-SYMPTOM
+.	
+	
+ICD-10	
+-	
+CM	
+code	
+:	
+G47.31	
+Sleep	
+Related	
+Breathing	
+Disorders	
+.	
+	
+Difficulty	B-SYMPTOM
+initiating	I-SYMPTOM
+or	I-SYMPTOM
+maintaining	I-SYMPTOM
+sleep	I-SYMPTOM
+,	
+frequent	B-SYMPTOM
+awakenings	I-SYMPTOM
+,	
+or	
+nonrestorative	B-SYMPTOM
+sleep	I-SYMPTOM
+.	
+.	
+	
+Awakening	B-SYMPTOM
+short	I-SYMPTOM
+of	I-SYMPTOM
+breath	I-SYMPTOM
+.	
+.	
+	
+Snoring	B-SYMPTOM
+.	
+.	
+	
+Witnessed	B-SYMPTOM
+apneas	I-SYMPTOM
+.	
+	
+B.	
+PSG	B-TEST
+demonstrates	
+all	
+of	
+the	
+following	
+:	
+.	
+	
+Five	
+or	
+more	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas2	I-CONCEPT
+per	
+hour	
+of	
+sleep	
+(	
+PSG	B-TEST
+)	
+.	
+.	
+	
+The	
+number	
+of	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and/or	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+is	
+>	
+50	
+%	
+of	
+the	
+total	
+number	
+of	
+apneas	B-CONCEPT
+and	
+hypopneas	I-CONCEPT
+.	
+.	
+	
+Absence	
+of	
+CSB.2	B-CONDITION
+C.	
+There	
+is	
+no	
+evidence	
+of	
+daytime	B-CONCEPT
+or	I-CONCEPT
+nocturnal	I-CONCEPT
+hypoventilation	I-CONCEPT
+.	
+	
+D.	
+	
+The	
+disorder	
+is	
+not	
+better	
+explained	
+by	
+another	
+current	
+sleep	
+disorder	
+,	
+medical	
+or	
+neurologic	
+disorder	
+,	
+medication	
+use	
+,	
+or	
+substance	B-CONDITION
+use	I-CONDITION
+disorder	I-CONDITION
+.	
+	
+Notes	
+.	
+	
+In	
+children	
+,	
+daytime	
+symptoms	
+may	
+not	
+be	
+evident	
+.	
+.	
+	
+As	
+defined	
+by	
+the	
+most	
+recent	
+version	
+of	
+the	B-DOCUMENT
+AASM	I-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+	
+Essential	
+Features	
+Primary	B-CONDITION
+CSA	I-CONDITION
+is	
+of	
+unknown	
+etiology	B-CONCEPT
+(	
+idiopathic	B-CONCEPT
+)	
+and	
+is	
+characterized	
+by	
+recurrent	
+central	B-CONCEPT
+apneas	I-CONCEPT
+,	
+defined	
+as	
+a	
+cessation	
+of	
+airflow	B-CONCEPT
+during	
+sleep	
+associated	
+with	
+an	
+absence	
+of	
+respiratory	B-CONCEPT
+effort	I-CONCEPT
+.	
+	
+Airflow	B-CONCEPT
+and	
+respiratory	B-CONCEPT
+effort	I-CONCEPT
+cease	
+simultaneously	
+in	
+a	
+repetitive	
+Sleep	
+Related	
+Breathing	
+Disorders	
+fashion	
+over	
+the	
+course	
+of	
+the	
+night	
+.	
+	
+This	
+recurrent	
+cessation	
+and	
+resumption	
+of	
+venti-	
+lation	
+can	
+lead	
+to	
+sleep	B-CONCEPT
+fragmentation	I-CONCEPT
+,	
+yielding	
+excessive	B-SYMPTOM
+daytime	I-SYMPTOM
+sleepiness	I-SYMPTOM
+,	
+frequent	B-SYMPTOM
+nocturnal	I-SYMPTOM
+awakenings	I-SYMPTOM
+,	
+or	
+both	
+.	
+	
+Thus	
+,	
+patients	
+may	
+present	
+with	
+symptoms	
+of	
+hyper-	B-SYMPTOM
+somnolence	I-SYMPTOM
+or	
+insomnia	B-SYMPTOM
+.	
+	
+Patients	
+with	
+primary	B-CONDITION
+CSA	I-CONDITION
+tend	
+to	
+have	
+low	
+normal	
+arterial	B-CONCEPT
+PaCO2	I-CONCEPT
+during	
+wakefulness	
+(	
+less	
+than	
+40	
+mm	
+Hg	
+)	
+.	
+	
+Patients	
+with	
+a	
+known	
+medical	
+or	
+neurological	
+disorder	
+that	
+is	
+believed	
+to	
+cause	
+central	B-CONCEPT
+apneas	I-CONCEPT
+are	
+classified	
+elsewhere	
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+CSA	B-CONDITION
+in	
+these	
+patients	
+occurs	
+because	
+the	
+arterial	B-CONCEPT
+PCO2	I-CONCEPT
+(	
+PaCO2	B-CONCEPT
+)	
+drops	
+below	
+the	
+hypo-	B-CONCEPT
+capnic	I-CONCEPT
+apnea	I-CONCEPT
+threshold	I-CONCEPT
+(	
+HAT	B-CONCEPT
+)	
+.	
+	
+During	
+wakefulness	
+,	
+drops	
+in	
+PaCO2	B-CONCEPT
+do	
+not	
+result	
+in	
+apnea	B-CONCEPT
+.	
+	
+However	
+,	
+during	
+sleep	
+,	
+when	
+the	
+PaCO2	B-CONCEPT
+drops	
+below	
+the	
+HAT	B-CONCEPT
+,	
+respiratory	
+effort	
+ceases	
+.	
+	
+For	
+most	
+patients	
+,	
+the	
+HAT	B-CONCEPT
+is	
+within	
+a	
+few	
+mm	
+Hg	B-CONCEPT
+of	
+the	
+awake	
+PaCO2	B-CONCEPT
+.	
+	
+Any	
+factors	B-RISKFACTOR
+that	I-RISKFACTOR
+narrow	I-RISKFACTOR
+the	I-RISKFACTOR
+gap	I-RISKFACTOR
+between	I-RISKFACTOR
+the	I-RISKFACTOR
+sleeping	I-RISKFACTOR
+PaCO2	I-RISKFACTOR
+and	I-RISKFACTOR
+the	I-RISKFACTOR
+HAT	I-RISKFACTOR
+predispose	
+to	
+central	B-CONCEPT
+apnea	I-CONCEPT
+.	
+	
+A	
+high	B-RISKFACTOR
+ventilatory	I-RISKFACTOR
+response	I-RISKFACTOR
+to	I-RISKFACTOR
+CO2	I-RISKFACTOR
+seems	
+to	
+be	
+a	
+major	
+predisposing	
+factor	
+in	
+the	
+development	
+of	
+primary	B-CONDITION
+CSA	I-CONDITION
+.	
+	
+This	
+can	
+lead	
+to	
+the	
+instability	
+in	
+venti-	B-CONCEPT
+latory	I-CONCEPT
+control	I-CONCEPT
+that	
+characterizes	
+the	
+disorder	
+.	
+	
+Frequent	B-RISKFACTOR
+arousal	I-RISKFACTOR
+from	I-RISKFACTOR
+sleep	I-RISKFACTOR
+can	
+also	
+predispose	
+to	
+the	
+development	
+of	
+central	B-CONCEPT
+apneas	I-CONCEPT
+,	
+as	
+ventilatory	B-CONCEPT
+control	I-CONCEPT
+is	
+somewhat	
+unstable	
+at	
+sleep	
+-	
+wake	
+transitions	
+.	
+	
+Increased	
+ventilation	
+associated	
+with	
+arousal	
+can	
+result	
+in	
+a	
+PaCO2	B-CONCEPT
+below	
+the	
+HAT	B-CONCEPT
+after	
+the	
+return	
+to	
+sleep	
+.	
+	
+Because	
+ventilatory	B-CONCEPT
+drive	I-CONCEPT
+is	
+lower	
+during	
+REM	B-CONCEPT
+than	
+NREM	B-CONCEPT
+sleep	I-CONCEPT
+,	
+hypocapnic	B-CONDITION
+central	I-CONDITION
+apnea	I-CONDITION
+is	
+much	
+less	
+common	
+during	
+that	
+sleep	B-CONCEPT
+stage	I-CONCEPT
+.	
+	
+Two	
+other	
+variables	
+have	
+been	
+discussed	
+as	
+possible	
+predispos-	
+ing	
+factors	
+,	
+although	
+their	
+true	
+role	
+in	
+the	
+development	
+of	
+this	
+syndrome	
+is	
+uncertain	
+.	
+	
+First	
+,	
+frequent	
+arousal	
+or	
+awakening	
+due	
+to	
+low	B-CONCEPT
+arousal	I-CONCEPT
+threshold	I-CONCEPT
+or	
+sleep	B-CONDITION
+maintenance	I-CONDITION
+insomnia	I-CONDITION
+have	
+been	
+reported	
+to	
+lead	
+to	
+an	
+increase	
+in	
+central	B-CONCEPT
+apneas	I-CONCEPT
+.	
+	
+Because	
+ventila-	B-CONCEPT
+tory	I-CONCEPT
+control	I-CONCEPT
+can	
+be	
+somewhat	
+unstable	
+in	
+the	
+normal	
+wake	
+-	
+sleep	
+transition	
+with	
+occa-	
+sional	
+central	B-CONCEPT
+apneas	I-CONCEPT
+being	
+observed	
+in	
+otherwise	
+normal	
+individuals	
+,	
+any	
+disorder	
+that	
+interrupts	
+sleep	
+may	
+worsen	
+CSA	B-CONDITION
+.	
+	
+Some	
+studies	
+have	
+suggested	
+a	
+worsening	
+of	
+primary	B-CONDITION
+CSA	I-CONDITION
+in	
+the	
+supine	B-CONCEPT
+position	I-CONCEPT
+,	
+but	
+this	
+has	
+been	
+more	
+clearly	
+documented	
+in	
+patients	
+with	
+CSB	B-CONDITION
+.	
+	
+Primary	B-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+of	I-CONDITION
+Infancy	I-CONDITION
+ICD-9	
+-	
+CM	
+code	
+:	
+770.81	
+ICD-10	
+-	
+CM	
+code	
+:	
+	
+P28.3	
+Alternate	
+Names	
+Infant	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+,	
+apnea	B-CONDITION
+of	I-CONDITION
+infancy	I-CONDITION
+,	
+primary	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+of	I-CONDITION
+the	I-CONDITION
+newborn	I-CONDITION
+.	
+	
+Inappropriate	
+terms	
+for	
+primary	
+central	
+sleep	
+apnea	
+of	
+the	
+newborn	
+include	
+near	B-CONDITION
+-	I-CONDITION
+miss	I-CONDITION
+sudden	I-CONDITION
+infant	I-CONDITION
+death	I-CONDITION
+syndrome	I-CONDITION
+(	
+SIDS	B-CONDITION
+)	
+,	
+	
+near	B-CONDITION
+-	I-CONDITION
+SIDS	I-CONDITION
+,	
+aborted	B-CONDITION
+SIDS	I-CONDITION
+,	
+and	
+aborted	B-CONDITION
+crib	I-CONDITION
+death	I-CONDITION
+;	
+these	
+terms	
+imply	
+a	
+causal	
+relationship	
+between	
+apnea	B-CONDITION
+and	
+SIDS	B-CONDITION
+that	
+is	
+not	
+supported	
+by	
+extensive	
+research	
+.	
+	
+Likewise	
+,	
+the	
+term	
+“	
+apparent	B-CONCEPT
+life	I-CONCEPT
+-	I-CONCEPT
+threatening	I-CONCEPT
+event	I-CONCEPT
+(	
+ALTE	B-CONCEPT
+)	
+”	
+should	
+not	
+be	
+used	
+.	
+	
+Although	
+some	
+infants	
+with	
+primary	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+present	
+with	
+an	
+ALTE	B-CONCEPT
+,	
+there	
+are	
+many	
+other	
+causes	
+of	
+ALTE	B-CONCEPT
+,	
+and	
+some	
+children	
+with	
+sleep	
+apnea	
+do	
+not	
+have	
+ALTE	B-CONCEPT
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+A	
+-	
+D	
+must	
+be	
+met	
+A.	
+Apnea	B-CONCEPT
+or	
+cyanosis	B-CONCEPT
+is	
+noted	
+by	
+an	
+observer	
+or	
+an	
+episode	
+of	
+sleep	B-CONDITION
+related	I-CONDITION
+central	I-CONDITION
+apnea	I-CONDITION
+or	
+desaturation	B-CONCEPT
+is	
+detected	
+by	
+monitoring	B-TEST
+.	
+	
+B.	
+The	
+infant	
+has	
+a	
+conceptional	B-CONCEPT
+age	I-CONCEPT
+of	
+at	
+least	
+37	
+weeks	
+.	
+	
+C.	
+PSG	B-TEST
+or	
+alternative	B-TEST
+monitoring	I-TEST
+such	
+as	
+hospital	B-TEST
+or	I-TEST
+home	I-TEST
+apnea	I-TEST
+monitoring	I-TEST
+shows	
+either	
+:	
+.	
+	
+Recurrent	
+,	
+prolonged	
+(	
+>	
+20	
+seconds	
+duration	
+)	
+central	B-CONCEPT
+apneas.1	I-CONCEPT
+.	
+	
+Periodic	B-CONCEPT
+breathing2	I-CONCEPT
+for	
+≥	
+5	
+%	
+of	
+total	
+sleep	
+time	
+.	
+	
+D.	
+	
+The	
+disorder	
+is	
+not	
+better	
+explained	
+by	
+another	
+sleep	
+disorder	
+,	
+medical	
+or	
+neurological	
+disorder	
+,	
+or	
+medication	
+.	
+	
+Notes	
+.	
+	
+Normative	B-CONCEPT
+data	I-CONCEPT
+concerning	
+the	
+number	
+of	
+prolonged	B-CONCEPT
+central	I-CONCEPT
+apneas	I-CONCEPT
+per	
+hour	
+are	
+not	
+well	
+established	
+.	
+.	
+	
+As	
+defined	
+by	
+the	
+most	
+recent	
+version	
+of	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+.	
+	
+Short	
+(	
+<	
+20	
+seconds	
+)	
+central	B-CONCEPT
+apneas	I-CONCEPT
+associated	
+with	
+significant	
+desaturation	B-CONCEPT
+are	
+more	
+likely	
+to	
+be	
+a	
+sign	
+of	
+decreased	B-CONCEPT
+pulmonary	I-CONCEPT
+reserve	
+than	
+of	
+central	B-CONCEPT
+nervous	I-CONCEPT
+system	I-CONCEPT
+pathology	I-CONCEPT
+.	
+.	
+	
+Definitive	
+determination	
+of	
+the	
+central	
+nature	
+of	
+apneas	B-CONCEPT
+requires	
+simultaneous	
+monitoring	B-TEST
+of	
+airflow	B-CONCEPT
+and	I-CONCEPT
+respiratory	I-CONCEPT
+effort	I-CONCEPT
+.	
+	
+Obstructive	B-CONCEPT
+and	I-CONCEPT
+mixed	I-CONCEPT
+apneas	I-CONCEPT
+may	
+also	
+be	
+present	
+,	
+but	
+central	B-CONCEPT
+apneas	I-CONCEPT
+are	
+predominant	
+.	
+	
+Essential	
+Features	
+Primary	B-CONDITION
+CSA	I-CONDITION
+of	I-CONDITION
+infancy	I-CONDITION
+is	
+characterized	
+by	
+prolonged	
+,	
+predominantly	
+central	B-CONCEPT
+apneas	I-CONCEPT
+in	
+children	
+of	
+at	
+least	
+37	
+weeks	
+conceptional	B-CONCEPT
+age	I-CONCEPT
+.	
+	
+These	
+events	
+are	
+typically	
+associated	
+with	
+physiological	B-CONCEPT
+compromise	I-CONCEPT
+(	
+hypoxemia	B-CONDITION
+,	
+bradycardia	B-CONDITION
+)	
+,	
+or	
+the	
+need	
+for	
+intervention	
+such	
+as	
+stimulation	
+or	
+resuscitation	
+.	
+	
+Obstructive	B-CONCEPT
+and/or	I-CONCEPT
+mixed	I-CONCEPT
+apneas	I-CONCEPT
+or	
+hypopneas	B-CONCEPT
+may	
+also	
+be	
+seen	
+,	
+although	
+central	
+events	
+are	
+the	
+predominant	
+finding	
+.	
+	
+It	
+is	
+a	
+disorder	
+of	
+respira-	
+tory	
+control	
+that	
+can	
+be	
+either	
+a	
+developmental	
+problem	
+associated	
+with	
+immaturity	
+of	
+the	
+brainstem	B-CONCEPT
+respiratory	I-CONCEPT
+centers	I-CONCEPT
+or	
+secondary	
+to	
+other	
+medical	
+conditions	
+that	
+produce	
+apnea	B-CONCEPT
+by	
+mechanisms	
+such	
+as	
+direct	B-CONCEPT
+depression	I-CONCEPT
+of	
+central	B-CONCEPT
+respiratory	I-CONCEPT
+control	I-CONCEPT
+.	
+	
+Apnea	B-CONCEPT
+in	
+the	
+neonate	B-CONCEPT
+or	
+infant	
+may	
+be	
+exacerbated	
+or	
+precipitated	
+by	
+a	
+variety	
+of	
+medical	
+condi-	
+tions	
+,	
+such	
+as	
+anemia	B-CONDITION
+,	
+infection	B-CONCEPT
+,	
+hypoxemia	B-CONDITION
+,	
+metabolic	B-CONDITION
+disturbances	I-CONDITION
+,	
+gastroesophageal	B-CONDITION
+reflux	I-CONDITION
+,	
+substances	B-CONCEPT
+,	
+or	
+anesthesia	B-CONCEPT
+,	
+which	
+must	
+be	
+recognized	
+and	
+treated	
+to	
+stabilize	
+the	
+apnea	B-CONCEPT
+.	
+	
+If	
+another	
+medical	
+condition	
+appears	
+to	
+be	
+the	
+cause	
+rather	
+than	
+an	
+exacerbating	
+factor	
+for	
+the	
+CSA	B-CONDITION
+,	
+then	
+the	
+condition	
+should	
+be	
+classified	
+as	
+CSA	B-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+medical	I-CONDITION
+or	I-CONDITION
+neurological	I-CONDITION
+condition	I-CONDITION
+,	
+or	
+CSA	B-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+medication	I-CONDITION
+or	I-CONDITION
+substance	I-CONDITION
+.	
+	
+Despite	
+the	
+heterogeneity	B-CONCEPT
+of	
+infant	
+risk	
+groups	
+and	
+underlying	
+pathophysiology	B-CONCEPT
+,	
+most	
+studies	
+report	
+a	
+progressive	
+decrease	
+in	
+frequency	
+of	
+apneas	B-CONCEPT
+and	
+risk	
+of	
+symptomatic	B-CONCEPT
+apnea	I-CONCEPT
+secondary	
+to	
+other	
+medical	
+conditions	
+after	
+the	
+early	
+weeks	
+of	
+life	
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+Many	
+factors	
+may	
+precipitate	
+apneic	
+episodes	
+,	
+including	
+gastroesophageal	B-RISKFACTOR
+reflux	I-RISKFACTOR
+,	
+intra-	B-RISKFACTOR
+cranial	I-RISKFACTOR
+pathology	I-RISKFACTOR
+,	
+substances	B-RISKFACTOR
+,	
+anesthesia	B-RISKFACTOR
+,	
+metabolic	B-RISKFACTOR
+disorders	I-RISKFACTOR
+,	
+impaired	B-RISKFACTOR
+oxygenation	I-RISKFACTOR
+,	
+and	
+infection	B-RISKFACTOR
+(	
+including	
+sepsis	B-RISKFACTOR
+,	
+meningitis	B-RISKFACTOR
+,	
+respiratory	B-RISKFACTOR
+syncytial	I-RISKFACTOR
+virus	I-RISKFACTOR
+infections	I-RISKFACTOR
+,	
+and	
+pertussis	B-RISKFACTOR
+)	
+.	
+	
+Infection	B-RISKFACTOR
+with	I-RISKFACTOR
+respiratory	I-RISKFACTOR
+syncytial	I-RISKFACTOR
+virus	I-RISKFACTOR
+,	
+in	
+particular	
+,	
+can	
+increase	
+the	
+fre-	
+quency	
+and	
+the	
+duration	
+of	
+apneas	B-CONCEPT
+.	
+	
+Primary	B-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+of	I-CONDITION
+Prematurity	I-CONDITION
+ICD-9	
+-	
+CM	
+code	
+:	
+770.82	
+ICD-10	
+-	
+CM	
+code	
+:	
+P28.4	
+Alternate	
+Names	
+Apnea	B-CONDITION
+of	I-CONDITION
+prematurity	I-CONDITION
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+A	
+-	
+D	
+must	
+be	
+met	
+A.	
+Apnea	B-CONCEPT
+or	
+cyanosis	B-CONCEPT
+is	
+noted	
+by	
+an	
+observer	
+,	
+or	
+an	
+episode	
+of	
+sleep	B-CONDITION
+related	I-CONDITION
+central	I-CONDITION
+apnea	I-CONDITION
+,	
+desaturation	B-CONCEPT
+,	
+or	
+bradycardia	B-CONDITION
+is	
+detected	
+by	
+hospital	B-TEST
+monitoring	I-TEST
+in	
+the	
+postnatal	B-CONCEPT
+period	I-CONCEPT
+.	
+	
+B.	
+The	
+infant	
+has	
+a	
+conceptional	B-CONCEPT
+age	I-CONCEPT
+less	
+than	
+37	
+weeks	
+at	
+the	
+time	
+of	
+onset	
+of	
+symptoms	
+.	
+	
+C.	
+PSG	B-TEST
+or	
+alternative	B-TEST
+monitoring	I-TEST
+such	
+as	
+hospital	B-TEST
+or	I-TEST
+home	I-TEST
+apnea	I-TEST
+monitoring	I-TEST
+shows	
+either	
+:	
+.	
+	
+Recurrent	
+prolonged	
+(	
+>	
+20	
+seconds	
+duration	
+)	
+central	B-CONCEPT
+apneas.1	I-CONCEPT
+2	
+.	
+	
+Periodic	B-CONCEPT
+breathing2	I-CONCEPT
+for	
+≥	
+5	
+%	
+of	
+total	B-CONCEPT
+sleep	I-CONCEPT
+time	I-CONCEPT
+.	
+	
+D.	
+	
+The	
+disorder	
+is	
+not	
+better	
+explained	
+by	
+another	
+sleep	
+disorder	
+,	
+medical	
+or	
+neurological	
+disorder	
+,	
+or	
+medication	
+.	
+	
+Notes	
+.	
+	
+Normative	B-CONCEPT
+data	I-CONCEPT
+concerning	
+the	
+number	
+of	
+prolonged	B-CONCEPT
+central	I-CONCEPT
+apneas	I-CONCEPT
+per	I-CONCEPT
+hour	I-CONCEPT
+are	
+not	
+well	
+established	
+.	
+.	
+	
+As	
+defined	
+by	
+the	
+most	
+recent	
+version	
+of	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+.	
+	
+Short	
+(	
+<	
+20	
+seconds	
+)	
+central	B-CONCEPT
+apneas	I-CONCEPT
+associated	
+with	
+significant	
+desaturation	B-CONCEPT
+are	
+more	
+likely	
+to	
+be	
+a	
+sign	
+of	
+decreased	B-CONCEPT
+pulmonary	I-CONCEPT
+reserve	I-CONCEPT
+than	
+of	
+central	B-CONCEPT
+nervous	I-CONCEPT
+system	I-CONCEPT
+pathology	I-CONCEPT
+.	
+.	
+	
+Obstructive	B-CONDITION
+and	I-CONDITION
+mixed	I-CONDITION
+apneas	I-CONDITION
+may	
+also	
+be	
+present	
+,	
+but	
+central	
+apneas	
+are	
+predominant	
+.	
+	
+Essential	
+Features	
+Apnea	
+is	
+very	
+common	
+in	
+preterm	B-CONCEPT
+infants	I-CONCEPT
+,	
+and	
+the	
+prevalence	
+varies	
+inversely	
+with	
+ges-	B-CONCEPT
+tational	I-CONCEPT
+age	I-CONCEPT
+.	
+	
+In	
+the	
+preterm	B-CONCEPT
+infant	I-CONCEPT
+,	
+sleep	B-CONDITION
+apnea	I-CONDITION
+can	
+be	
+anticipated	
+,	
+is	
+primarily	
+related	
+to	
+immaturity	
+,	
+and	
+may	
+require	
+supportive	B-TREATMENT
+ventilatory	I-TREATMENT
+and	I-TREATMENT
+pharmacologic	I-TREATMENT
+treatment	I-TREATMENT
+.	
+	
+The	
+condition	
+will	
+improve	
+with	
+maturation	
+unless	
+extenuating	
+conditions	
+,	
+such	
+as	
+hypoxemia	B-CONDITION
+due	
+to	
+chronic	B-CONDITION
+lung	I-CONDITION
+disease	I-CONDITION
+or	
+gastroesophageal	B-CONDITION
+reflux	I-CONDITION
+,	
+are	
+present	
+.	
+	
+Apneas	B-CONCEPT
+are	
+predominantly	
+central	
+,	
+but	
+mixed	B-CONCEPT
+or	I-CONCEPT
+obstructive	I-CONCEPT
+apneas	I-CONCEPT
+or	
+hypopneas	B-CONCEPT
+may	
+be	
+seen	
+.	
+	
+The	
+events	
+are	
+typically	
+associated	
+with	
+physiological	B-CONCEPT
+compromise	I-CONCEPT
+(	
+hypoxemia	B-CONDITION
+,	
+bra-	B-CONDITION
+dycardia	I-CONDITION
+)	
+or	
+the	
+need	
+for	
+intervention	
+such	
+as	
+stimulation	B-TREATMENT
+or	
+resuscitation	I-TREATMENT
+.	
+Predisposing	
+and	
+Precipitating	
+Factors	
+Developmental	B-RISKFACTOR
+delay	I-RISKFACTOR
+in	I-RISKFACTOR
+respiratory	I-RISKFACTOR
+control	I-RISKFACTOR
+associated	I-RISKFACTOR
+with	I-RISKFACTOR
+premature	I-RISKFACTOR
+birth	I-RISKFACTOR
+is	
+the	
+major	
+predisposing	
+condition	
+.	
+	
+Diverse	
+factors	
+are	
+known	
+to	
+precipitate	
+development	
+of	
+apneic	B-CONCEPT
+episodes	I-CONCEPT
+in	
+predisposed	
+preterm	B-CONCEPT
+infants	I-CONCEPT
+.	
+	
+These	
+include	
+thermal	B-RISKFACTOR
+instability	I-RISKFACTOR
+,	
+gastroesophageal	B-RISKFACTOR
+reflux	I-RISKFACTOR
+,	
+intracranial	B-RISKFACTOR
+pathology	I-RISKFACTOR
+,	
+substances	B-RISKFACTOR
+,	
+anesthesia	B-RISKFACTOR
+,	
+metabolic	B-RISKFACTOR
+disorders	I-RISKFACTOR
+,	
+impaired	B-RISKFACTOR
+oxygenation	I-RISKFACTOR
+,	
+and	
+infection	B-RISKFACTOR
+.	
+	
+Infection	B-RISKFACTOR
+with	I-RISKFACTOR
+respiratory	I-RISKFACTOR
+syncytial	I-RISKFACTOR
+virus	I-RISKFACTOR
+can	
+increase	
+the	
+frequency	
+and	
+the	
+duration	
+of	
+apneas	
+in	
+predisposed	
+infants	
+.	
+	
+OSA	B-CONDITION
+associated	
+with	
+upper	B-CONCEPT
+airway	I-CONCEPT
+abnormalities	I-CONCEPT
+can	
+present	
+as	
+apnea	B-CONDITION
+of	I-CONDITION
+prematurity	I-CONDITION
+.	
+	
+Persistence	
+of	
+apnea	
+after	
+43	
+weeks	
+conceptional	B-CONCEPT
+age	I-CONCEPT
+should	
+raise	
+suspicion	
+of	
+addi-	
+tional	
+etiologic	B-CONCEPT
+factors	I-CONCEPT
+.	
+	
+Treatment	B-CONDITION
+-	I-CONDITION
+Emergent	I-CONDITION
+Central	I-CONDITION
+Sleep	I-CONDITION
+Apnea	I-CONDITION
+ICD-9	
+-	
+CM	
+code	
+:	
+327.29	
+ICD-10	
+-	
+CM	
+code	
+:	
+G47.39	
+Alternate	
+names	
+Complex	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+.	
+	
+Diagnostic	
+Criteria	
+Criteria	
+A	
+-	
+C	
+must	
+be	
+met	
+A.	
+Diagnostic	B-TEST
+PSG	I-TEST
+shows	
+five	
+or	
+more	
+predominantly	
+obstructive	B-CONCEPT
+respiratory	I-CONCEPT
+events1	I-CONCEPT
+(	
+obstructive	B-CONCEPT
+or	I-CONCEPT
+mixed	I-CONCEPT
+apneas	I-CONCEPT
+,	
+hypopneas	B-CONCEPT
+or	
+RERAs	B-CONCEPT
+)	
+per	
+hour	
+of	
+sleep	
+B.	
+PSG	B-TEST
+during	
+use	
+of	
+positive	B-CONCEPT
+airway	I-CONCEPT
+pressure	I-CONCEPT
+without	
+a	
+backup	B-CONCEPT
+rate	I-CONCEPT
+shows	
+significant	
+resolution	
+of	
+obstructive	B-CONCEPT
+events	I-CONCEPT
+and	
+emergence	
+or	
+persistence	
+of	
+central	B-CONCEPT
+apnea	I-CONCEPT
+or	
+central	B-CONCEPT
+hypopnea	I-CONCEPT
+with	
+all	
+of	
+the	
+following	
+:	
+.	
+	
+Central	B-CONCEPT
+apnea	I-CONCEPT
+—	I-CONCEPT
+central	I-CONCEPT
+hypopnea	I-CONCEPT
+index	I-CONCEPT
+[	
+CAHI	B-CONCEPT
+]	
+≥	
+5	
+/	
+hour	
+.	
+.	
+	
+Number	
+of	
+central	B-CONCEPT
+apneas	I-CONCEPT
+and	
+central	B-CONCEPT
+hypopneas	I-CONCEPT
+is	
+≥	
+50	
+%	
+of	
+total	
+number	
+of	
+apneas	B-CONCEPT
+and	
+hypopneas	I-CONCEPT
+.	
+	
+C.	
+	
+The	
+central	B-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+is	
+not	
+better	
+explained	
+by	
+another	
+CSA	B-CONDITION
+disorder	I-CONDITION
+(	
+e.g.	
+,	
+CSA	B-CONDITION
+with	I-CONDITION
+CSB	I-CONDITION
+or	
+CSA	B-CONDITION
+due	I-CONDITION
+to	I-CONDITION
+a	I-CONDITION
+medication	I-CONDITION
+or	I-CONDITION
+substance	I-CONDITION
+)	
+.	
+	
+Notes	
+.	
+	
+Respiratory	B-CONCEPT
+events	I-CONCEPT
+defined	
+according	
+the	
+most	
+recent	
+version	
+of	
+the	
+AASM	B-DOCUMENT
+Manual	I-DOCUMENT
+for	I-DOCUMENT
+the	I-DOCUMENT
+Scoring	I-DOCUMENT
+of	I-DOCUMENT
+Sleep	I-DOCUMENT
+and	I-DOCUMENT
+Associated	I-DOCUMENT
+Events	I-DOCUMENT
+.	
+.	
+	
+A	
+diagnosis	
+of	
+treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+central	I-CONDITION
+sleep	I-CONDITION
+apnea	I-CONDITION
+does	
+not	
+exclude	
+a	
+diagnosis	
+of	
+OSA	B-CONDITION
+.	
+	
+That	
+is	
+,	
+a	
+diagnosis	
+of	
+OSA	B-CONDITION
+can	
+be	
+made	
+based	
+on	
+the	
+diagnostic	
+sleep	B-TEST
+study	I-TEST
+.	
+	
+Essential	
+Features	
+A	
+diagnosis	
+of	
+treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+CSA	I-CONDITION
+is	
+characterized	
+by	
+predominantly	
+obstructive	B-CONCEPT
+events	I-CONCEPT
+(	
+obstructive	B-CONCEPT
+or	I-CONCEPT
+mixed	I-CONCEPT
+apnea	I-CONCEPT
+or	
+hypopnea	B-CONCEPT
+)	
+during	
+a	
+diagnostic	
+sleep	B-TEST
+study	I-TEST
+with	
+persistence	
+or	
+emergence	
+of	
+CSA	B-CONDITION
+during	
+administration	
+of	
+positive	B-CONCEPT
+airway	I-CONCEPT
+pressure	I-CONCEPT
+without	
+a	
+backup	B-CONCEPT
+rate	I-CONCEPT
+,	
+despite	
+significant	
+resolution	
+of	
+obstructive	B-CONCEPT
+respiratory	I-CONCEPT
+events	I-CONCEPT
+.	
+	
+If	
+the	
+central	B-CONCEPT
+apnea	I-CONCEPT
+is	
+better	
+explained	
+by	
+another	
+CSA	B-CONDITION
+disorder	I-CONDITION
+,	
+patients	
+are	
+given	
+a	
+diagnosis	
+of	
+OSA	B-CONDITION
+and	
+that	
+CSA	B-CONDITION
+disorder	I-CONDITION
+rather	
+than	
+treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+CSA	I-CONDITION
+(	
+e.g.	
+,	
+a	
+patient	
+with	
+heart	B-CONDITION
+failure	I-CONDITION
+exhibits	
+mainly	
+obstructive	B-CONCEPT
+events	I-CONCEPT
+during	
+diagnostic	
+PSG	B-TEST
+but	
+then	
+exhibits	
+predominantly	
+central	B-CONDITION
+apnea	I-CONDITION
+with	I-CONDITION
+CSB	I-CONDITION
+on	
+positive	B-CONCEPT
+airway	I-CONCEPT
+pressure	I-CONCEPT
+)	
+.	
+	
+Predisposing	
+and	
+Precipitating	
+Factors	
+	
+A	
+number	
+of	
+factors	
+have	
+been	
+hypothesized	
+to	
+cause	
+treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+CSA	I-CONDITION
+,	
+but	
+definitive	
+data	
+are	
+not	
+available	
+.	
+	
+The	
+patients	
+presumably	
+have	
+characteristics	B-RISKFACTOR
+that	I-RISKFACTOR
+would	I-RISKFACTOR
+predispose	I-RISKFACTOR
+them	I-RISKFACTOR
+to	I-RISKFACTOR
+instability	I-RISKFACTOR
+in	I-RISKFACTOR
+ventilatory	I-RISKFACTOR
+control	I-RISKFACTOR
+or	I-RISKFACTOR
+sleep	I-RISKFACTOR
+maintenance	I-RISKFACTOR
+.	
+	
+Sleep	
+Related	
+Breathing	
+Disorders	
+Sleep	
+Related	
+Breathing	
+Disorders	
+These	
+include	
+a	
+low	B-RISKFACTOR
+arousal	I-RISKFACTOR
+threshold	I-RISKFACTOR
+and	
+high	B-RISKFACTOR
+ventilatory	I-RISKFACTOR
+controller	I-RISKFACTOR
+gain	I-RISKFACTOR
+.	
+	
+Studies	
+have	
+found	
+that	
+often	
+a	
+small	
+increase	B-RISKFACTOR
+in	I-RISKFACTOR
+end	I-RISKFACTOR
+-	I-RISKFACTOR
+tidal	I-RISKFACTOR
+PCO2	I-RISKFACTOR
+can	
+stabilize	
+breathing	
+in	
+patients	
+with	
+treatment	B-CONCEPT
+-	I-CONCEPT
+emergent	I-CONCEPT
+central	I-CONCEPT
+apneas	I-CONCEPT
+.	
+	
+Therefore	
+,	
+any	
+events	
+that	
+predis-	
+pose	
+a	
+patient	
+to	
+hypocapnia	B-CONDITION
+can	
+trigger	
+treatment	B-CONCEPT
+-	I-CONCEPT
+emergent	I-CONCEPT
+central	I-CONCEPT
+apnea	I-CONCEPT
+.	
+	
+In	
+some	
+,	
+but	
+not	
+all	
+studies	
+,	
+the	
+overall	
+AHI	B-CONCEPT
+on	
+the	
+diagnostic	
+PSG	B-TEST
+(	
+or	
+diagnostic	
+portion	
+of	
+a	
+split	B-TEST
+-	I-TEST
+night	I-TEST
+PSG	I-TEST
+)	
+was	
+higher	
+in	
+the	
+treatment	
+-	
+emergent	
+CSA	
+group	
+compared	
+to	
+the	
+patients	
+without	
+this	
+diagnosis	
+.	
+	
+In	
+other	
+studies	
+,	
+patients	
+with	
+treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+CSA	I-CONDITION
+had	
+more	
+central	B-CONCEPT
+apneas	I-CONCEPT
+during	
+the	
+diagnostic	
+PSG	B-TEST
+and	
+were	
+more	
+likely	
+to	
+be	B-RISKFACTOR
+male	I-RISKFACTOR
+.	
+	
+However	
+,	
+identified	
+risk	
+factors	
+for	
+treatment	B-CONDITION
+-	I-CONDITION
+emergent	I-CONDITION
+CSA	I-CONDITION
+vary	
+considerably	
+from	
+study	
+to	
+study	
+.	
+	
+Of	
+note	
+,	
+the	
+emergence	
+of	
+central	B-CONCEPT
+apnea	I-CONCEPT
+after	
+treatment	
+of	
+obstructive	B-CONCEPT
+apnea	I-CONCEPT
+with	
+tra-	B-TREATMENT
+cheostomy	I-TREATMENT
+,	
+maxillomandibular	B-TREATMENT
+advancement	I-TREATMENT
+,	
+and	
+oral	B-TREATMENT
+appliance	I-TREATMENT
+treatment	I-TREATMENT
+for	
+OSA	B-CONDITION
+has	
+been	
+reported	
+.	
+	
+A	
+case	
+report	
+of	
+the	
+development	
+of	
+central	B-CONCEPT
+apnea	I-CONCEPT
+following	
+nasal	B-CONCEPT
+surgery	I-CONCEPT
+in	
+a	
+patient	
+with	
+known	
+obstructive	B-CONCEPT
+apnea	I-CONCEPT
+has	
+also	
+recently	
+been	
+published	
+.	
+	
