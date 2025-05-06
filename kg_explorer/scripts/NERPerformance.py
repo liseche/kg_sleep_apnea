@@ -24,14 +24,14 @@ def make_dataframes(gold, file_list, index_ranges):
         for indices in index_ranges:
             i = indices[0]
             j = indices[1]
-            subsets.append(df.iloc[i:j+1])
+            subsets.append(df.iloc[i-1:j+1])
         filtered_df_list.append(pd.concat(subsets))
     
     gold_subsets = []
     for indices in index_ranges:
         i = indices[0]
         j = indices[1]
-        gold_subsets.append(gold_df.iloc[i:j+1])
+        gold_subsets.append(gold_df.iloc[i-1:j+1])
     filtered_gold = pd.concat(gold_subsets)
     
     return filtered_gold, filtered_df_list

@@ -1,0 +1,25 @@
+Printing evaluation of files:  ['../NER+RE/outputs_ICSD3_NER/google-bert_base_cased.tsv']
+../NER+RE/outputs_ICSD3_NER/google-bert_base_cased.tsv
+['LABEL_0', 'LABEL_1']
+['O', 'LABEL_0', 'LABEL_1']
+      Metric     Micro     Macro  Weighted  Accuracy
+0  Precision  0.326531  0.326531  0.326531  0.659914
+1     Recall  0.063593  0.063593  0.063593       NaN
+2   F1-Score  0.106454  0.106454  0.106454       NaN
+
+Random:
+      Metric     Micro     Macro  Weighted  Accuracy
+0  Precision  0.314553  0.314553  0.314553  0.495568
+1     Recall  0.494833  0.494833  0.494833       NaN
+2   F1-Score  0.384615  0.384615  0.384615       NaN
+
+
+All 'O':
+      Metric  Micro  Macro  Weighted  Accuracy
+0  Precision    0.0    0.0       0.0  0.681438
+1     Recall    0.0    0.0       0.0       NaN
+2   F1-Score    0.0    0.0       0.0       NaN
+
+
+
+

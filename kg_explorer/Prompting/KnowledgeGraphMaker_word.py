@@ -101,10 +101,12 @@ ontology = Ontology(
     ]
 )
 ## Groq models
-model = "mixtral-8x7b-32768"
+# model = "llama-3.1-8b-instant"
+# model = "mixtral-8x7b-32768"
 # model ="llama3-8b-8192"
 # model = "llama3-70b-8192"
 # model="gemma-7b-it"
+model = "gemma2-9b-it"
 
 with open(input_file, "r") as file:
     words=file.readlines()
@@ -113,7 +115,7 @@ filtered_text = []
 for indices in annotated_lines_icsd3:
     i = indices[0]
     j = indices[1]
-    filtered_text.append(words[i:j+1])
+    filtered_text.append(words[i-1:j+1])
 
 sentence_list = []
 for sentence in filtered_text:

@@ -17,6 +17,7 @@ from kg_explorer.config import annotated_lines_icsd3
 import pandas as pd
 from tqdm import tqdm
 from neo4j import GraphDatabase
+import time
 
 # Neo4j Connection Details (Update with your credentials)
 NEO4J_URI = "bolt://localhost:7687"  # Change this if using a cloud instance
@@ -146,6 +147,7 @@ def extract_triplets(text):
 
 
 if __name__ == "__main__":
+    start_time = time.time()
     parser = argparse.ArgumentParser(description="Relationship Extraction With CoNLL NER File")
     
     parser.add_argument(
@@ -162,7 +164,7 @@ if __name__ == "__main__":
     for indices in annotated_lines_icsd3:
         i = indices[0]
         j = indices[1]
-        filtered_df = pd.concat([filtered_df, df[i:j+1]])
+        filtered_df = pd.concat([filtered_df, df[i-1:j+1]])
     
     text = " ".join(filtered_df[0].tolist())
     entity_df = filtered_df[filtered_df[1].notna() & (filtered_df[1] != "") & (filtered_df[1] != "LABEL_0")]
@@ -182,3 +184,6 @@ if __name__ == "__main__":
                 session.write_transaction(insert_relation, triplet['head'], triplet['type'], triplet['tail'])
     
     driver.close()
+    end_time = time.time()
+
+    print("Used time: ", end_time - start_time)
