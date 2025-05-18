@@ -42,6 +42,10 @@ def print_to_CoNLL(df : pd.DataFrame, output_name : str):
     print(combined_col.iloc[:,0].shape)
     df_out = pd.concat([df.iloc[:,0].reset_index(drop=True), combined_col.iloc[:,0].reset_index(drop=True)], axis=1)
     print(df_out.shape)
+    
+    # Put "O" for every value in first column that is a character or word and not a blank line.
+    mask = df_out.iloc[:, 0].astype(str).str.strip() != ""
+    df_out.loc[mask & (df_out.iloc[:, 1] == ""), 1] = "O"
 
     # Save to CoNLL format (tab-separated, no header or index)
     df_out.to_csv(output_name, sep="\t", index=False, header=False)
