@@ -2,7 +2,7 @@
 
 This code was created as a part of the master's thesis "Natural Language Processing to Create a Knowledge Graph About Sleep Apnea" at University of Oslo. The thesis will soon be available through DUO, the University of Oslo's archive.
 
-`kg_explorer` is a package containing code to generate knowledge graphs with NLP two different ways. One using direct prompting to LLMs, and the other with a NER and RE pipeline.
+`kg_explorer` is a package containing code to generate knowledge graphs with NLP two different ways. One using **direct prompting** to LLMs, and the other with a **NER and RE** pipeline.
 
 `Prompting` directory: contains code to prompt an LLM with knowledge-graph-maker library and GroqAPI and insert the input into a knowledge graph in Neo4j.
 
