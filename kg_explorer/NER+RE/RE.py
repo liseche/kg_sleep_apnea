@@ -1,9 +1,7 @@
 """
 Script to do relationship extraction on named entities.
 
-Requires a script with NER annotations made on the conll format, with one column for tokens, and one other column with annotation,.
-
-ChatGPT help.
+Requires a script with NER annotations made on the conll format, with one column for tokens, and one other column with annotations.
 
 """
 
@@ -11,6 +9,7 @@ import argparse
 import math
 from transformers import pipeline
 import sys
+# Update this with your own syspath
 sys.path.append("/Users/lisechen/thesis_code")
 from kg_explorer.utils import make_dataframe
 from kg_explorer.config import annotated_lines_icsd3
@@ -20,9 +19,9 @@ from neo4j import GraphDatabase
 import time
 
 # Neo4j Connection Details (Update with your credentials)
-NEO4J_URI = "bolt://localhost:7687"  # Change this if using a cloud instance
+NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USERNAME = "neo4j"
-NEO4J_PASSWORD = "REMOVED"
+NEO4J_PASSWORD = ""
 
 # Create Neo4j driver
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
@@ -98,8 +97,7 @@ def process_large_text(text, max_tokens=100, overlap=10):
 
     with tqdm(total=total_chunks, desc="Processing Chunks", unit="chunk") as pbar:
         for chunk in chunk_large_text(text, max_tokens=max_tokens, overlap=overlap):
-            # Ensure chunk is within REBEL's token limit
-            num_tokens = len(chunk.split())  # Simple estimate (could use tokenizer)
+            num_tokens = len(chunk.split())
             if num_tokens > 1024:
                 print(f"⚠ WARNING: Chunk too long ({num_tokens} tokens)! Adjusting...")
 

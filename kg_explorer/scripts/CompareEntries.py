@@ -1,4 +1,3 @@
-"""Made with the help of ChatGPT"""
 import argparse
 import pandas as pd
 
