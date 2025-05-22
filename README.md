@@ -1,4 +1,4 @@
-# Knowledge Graph Generation Two Ways: NER + RE and Prompting LLM with knowledge-graph-maker
+# Knowledge Graph Generation Two Ways: NER + RE and Prompting LLM
 
 This code was created as a part of the master's thesis "Natural Language Processing to Create a Knowledge Graph About Sleep Apnea" at University of Oslo. The thesis will soon be available through DUO, the University of Oslo's archive.
 
