@@ -23,3 +23,5 @@ Dependencies for running all other code, including the code in the `Prompting` d
 # How To Run
 
 This project contains multiple individual scripts. The use is documented for most of the scripts with argparse. Add --help at the end of the scripts to see details of use.
+
+NB! To reproduce the results in the thesis, always use the file `data/ICSD3_annotated_unfiltered.tsv` as the file containing the gold annotations.
