@@ -10,7 +10,7 @@ This code was created as a part of the master's thesis "Natural Language Process
 
 `kg_explorer/scripts`: other scripts used to achieve the final goal of generating knowledge graphs.
 
-In the directory named `data` we provide a data set for NER on a selection of the medical manual ICSD-3, annotated by ourselves. The annotation guidelines used is provided in the directory `reports`. See the thesis for more details on this data set. `thesis_outputs` contain NER annotations of the ICSD-3 annotated by different models, and logs from evaluation scripts.
+In the directory named `data` we provide a data set for NER on a selection of the medical manual ICSD-3, annotated by ourselves. The annotation guidelines used is provided in the directory `reports`. See the thesis for more details on this data set. `outputs` contain NER annotations of the ICSD-3 annotated by different models, and logs from evaluation scripts.
 
 # Prerequisites
 
