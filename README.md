@@ -4,13 +4,13 @@ This code was created as a part of the master's thesis "Natural Language Process
 
 `kg_explorer` is a package containing code to generate knowledge graphs with NLP two different ways. One using **direct prompting** to LLMs, and the other with a **NER and RE** pipeline.
 
-`Prompting` directory: contains code to prompt an LLM with knowledge-graph-maker library and GroqAPI and insert the input into a knowledge graph in Neo4j.
+`kg_explorer/Prompting` directory: contains code to prompt an LLM with knowledge-graph-maker library and GroqAPI and insert the input into a knowledge graph in Neo4j.
 
-`NER+RE` directory: contains code to do NER with spaCy and PyTorch, do RE using the NER annotated files, and create a knowledge graph in Neo4j with the triples. 
+`kg_explorer/NER+RE` directory: contains code to do NER with spaCy and PyTorch, do RE using the NER annotated files, and create a knowledge graph in Neo4j with the triples. 
 
-`scripts`: other scripts used to achieve the final goal of generating knowledge graphs.
+`kg_explorer/scripts`: other scripts used to achieve the final goal of generating knowledge graphs.
 
-In the directory named `data` we provide a data set for NER on a selection of the medical manual ICSD-3, annotated by ourselves. The annotation guidelines used is provided in the directory `reports`. See the thesis for more details on this data set.
+In the directory named `data` we provide a data set for NER on a selection of the medical manual ICSD-3, annotated by ourselves. The annotation guidelines used is provided in the directory `reports`. See the thesis for more details on this data set. `thesis_outputs` contain NER annotations of the ICSD-3 annotated by different models, and logs from evaluation scripts.
 
 # Prerequisites
 
